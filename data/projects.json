@@ -1,0 +1,3899 @@
+[
+ {
+  "slug": "darkside",
+  "title": "Dark Side",
+  "area": 127,
+  "type": "apartment",
+  "location": {
+   "uk": "ЖК Parus Life",
+   "en": "Parus Life housing complex"
+  },
+  "description": {
+   "uk": "Дворівнева квартира у темній палітрі: графітові стіни, тепле дерево і камін як серце вітальні. Червоне світло у ванній, панорамна тераса з видом на місто та трекове освітлення надають простору характеру нічного лофту.",
+   "en": "A two-level apartment in a dark palette: graphite walls, warm wood and a fireplace at the heart of the living room. Red light in the bathroom, a panoramic city terrace and track lighting give the space the character of a night loft."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "02.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "03.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "04.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "05.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "06.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "07.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "08.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "09.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "10.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "11.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "12.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "13.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "14.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "15.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "16.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "17.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "18.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "19.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "20.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "21.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "22.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "23.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "24.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "25.jpg",
+    "w": 2880,
+    "h": 2048
+   }
+  ]
+ },
+ {
+  "slug": "quiet_place",
+  "title": "Quiet Place",
+  "area": 150,
+  "type": "apartment",
+  "location": {
+   "uk": "ЖК Semycvit",
+   "en": "Semycvit housing complex"
+  },
+  "description": {
+   "uk": "Просторий світло-сірий мінімалізм для родини, яка цінує тишу. Дуб, окрема ванна на п’єдесталі, домашній кабінет біля вікна та вбудовані системи зберігання, що ховають усе зайве.",
+   "en": "Spacious light-grey minimalism for a family that values silence. Oak, a freestanding bath, a home office by the window and built-in storage that hides everything unnecessary."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "02.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "03.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "04.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "05.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "06.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "07.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "08.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "09.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "10.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "11.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "12.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "13.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "14.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "15.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "16.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "17.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "18.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "19.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "20.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "21.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "22.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "23.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "24.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "25.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "26.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "27.jpg",
+    "w": 3555,
+    "h": 2528
+   }
+  ]
+ },
+ {
+  "slug": "simple_things",
+  "title": "Simple Things",
+  "area": 45,
+  "type": "apartment",
+  "location": {
+   "uk": "Avalon Ap",
+   "en": "Avalon Ap"
+  },
+  "description": {
+   "uk": "Компактна квартира, де є все необхідне і нічого зайвого. Біла кухня, сірий текстиль, спальня зі сливовими акцентами та невелика ванна з душем і теплим світлом.",
+   "en": "A compact apartment with everything essential and nothing superfluous. A white kitchen, grey textiles, a bedroom with plum accents and a small bathroom with a walk-in shower and warm light."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "02.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "03.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "04.jpg",
+    "w": 3554,
+    "h": 2528
+   },
+   {
+    "file": "05.jpg",
+    "w": 3554,
+    "h": 2528
+   },
+   {
+    "file": "06.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "07.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "08.jpg",
+    "w": 3554,
+    "h": 2528
+   },
+   {
+    "file": "09.jpg",
+    "w": 3554,
+    "h": 2528
+   },
+   {
+    "file": "10.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "11.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "12.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "13.jpg",
+    "w": 3554,
+    "h": 2528
+   },
+   {
+    "file": "14.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "15.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "16.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "17.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "18.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "19.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "20.jpg",
+    "w": 3554,
+    "h": 2528
+   },
+   {
+    "file": "21.jpg",
+    "w": 3554,
+    "h": 2528
+   },
+   {
+    "file": "22.jpg",
+    "w": 2528,
+    "h": 3555
+   }
+  ]
+ },
+ {
+  "slug": "shale",
+  "title": "Shale",
+  "area": 160,
+  "type": "house",
+  "location": {
+   "uk": "",
+   "en": ""
+  },
+  "description": {
+   "uk": "Приватний будинок із шаруватими фактурами: натуральний камінь, дерев’яні рейки на стелі, шкіра та щільний текстиль. Відкрита вітальня з кухнею, кабінет та сходи, освітлені теплим світлом.",
+   "en": "A private house with layered textures: natural stone, timber ceiling slats, leather and dense textiles. An open living room with kitchen, a study and a staircase lit by warm light."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "02.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "03.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "04.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "05.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "06.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "07.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "08.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "09.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "10.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "11.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "12.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "13.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "14.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "15.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "16.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "17.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "18.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "19.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "20.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "21.jpg",
+    "w": 3555,
+    "h": 2528
+   }
+  ]
+ },
+ {
+  "slug": "hugge",
+  "title": "Hugge",
+  "area": 260,
+  "type": "house",
+  "location": {
+   "uk": "Львів",
+   "en": "Lviv"
+  },
+  "description": {
+   "uk": "Скандинавський затишок для великого будинку у Львові: білі стіни, теракотові акценти, чорні гардеробні та зелений текстиль. Багато денного світла, простих форм і місць для спокійного життя.",
+   "en": "Scandinavian coziness for a large house in Lviv: white walls, terracotta accents, black wardrobes and green textiles. Plenty of daylight, simple forms and places for slow living."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "02.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "03.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "04.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "05.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "06.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "07.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "08.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "09.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "10.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "11.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "12.jpg",
+    "w": 711,
+    "h": 1000
+   },
+   {
+    "file": "13.jpg",
+    "w": 711,
+    "h": 1000
+   },
+   {
+    "file": "14.jpg",
+    "w": 711,
+    "h": 1000
+   },
+   {
+    "file": "15.jpg",
+    "w": 711,
+    "h": 1000
+   },
+   {
+    "file": "16.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "17.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "18.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "19.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "20.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "21.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "22.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "23.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "24.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "25.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "26.jpg",
+    "w": 711,
+    "h": 1000
+   },
+   {
+    "file": "27.jpg",
+    "w": 711,
+    "h": 1000
+   },
+   {
+    "file": "28.jpg",
+    "w": 711,
+    "h": 1000
+   },
+   {
+    "file": "29.jpg",
+    "w": 711,
+    "h": 1000
+   },
+   {
+    "file": "30.jpg",
+    "w": 711,
+    "h": 1000
+   },
+   {
+    "file": "31.jpg",
+    "w": 711,
+    "h": 1000
+   },
+   {
+    "file": "32.jpg",
+    "w": 711,
+    "h": 1000
+   },
+   {
+    "file": "33.jpg",
+    "w": 711,
+    "h": 1000
+   },
+   {
+    "file": "34.jpg",
+    "w": 1000,
+    "h": 711
+   },
+   {
+    "file": "35.jpg",
+    "w": 711,
+    "h": 1000
+   },
+   {
+    "file": "36.jpg",
+    "w": 711,
+    "h": 1000
+   },
+   {
+    "file": "37.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "38.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "39.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "40.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "41.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "42.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "43.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "44.jpg",
+    "w": 2528,
+    "h": 3555
+   }
+  ]
+ },
+ {
+  "slug": "laconicandlight",
+  "title": "Laconic and Light",
+  "area": 82,
+  "type": "apartment",
+  "location": {
+   "uk": "ЖК Spectrum",
+   "en": "Spectrum housing complex"
+  },
+  "description": {
+   "uk": "Лаконічна квартира для родини з підлітком: світле дерево, зелені акценти, мармурова ванна та кімната з постерами й робочим місцем. Усе продумано так, щоб простір легко жив разом із мешканцями.",
+   "en": "A laconic apartment for a family with a teenager: light wood, green accents, a marble bathroom and a room with posters and a workspace. Everything is designed so the space lives easily with its residents."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 854,
+    "h": 607
+   },
+   {
+    "file": "02.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "03.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "04.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "05.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "06.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "07.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "08.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "09.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "10.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "11.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "12.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "13.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "14.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "15.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "16.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "17.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "18.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "19.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "20.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "21.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "22.jpg",
+    "w": 1778,
+    "h": 1264
+   }
+  ]
+ },
+ {
+  "slug": "avalonlux",
+  "title": "Avalon Lux",
+  "area": 67,
+  "type": "apartment",
+  "location": {
+   "uk": "ЖК Avalon Lux",
+   "en": "Avalon Lux housing complex"
+  },
+  "description": {
+   "uk": "Сірий диван, бетонна стіна із золотими кільцями та темний передпокій зі скляними дверима. Спальня у теплих тонах і ванна в білому мармурі з підсвіткою.",
+   "en": "A grey sofa, a concrete wall with golden rings and a dark hallway with glass doors. A bedroom in warm tones and a bathroom in white marble with backlighting."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 1067,
+    "h": 759
+   },
+   {
+    "file": "02.jpg",
+    "w": 2222,
+    "h": 1580
+   },
+   {
+    "file": "03.jpg",
+    "w": 2222,
+    "h": 1580
+   },
+   {
+    "file": "04.jpg",
+    "w": 2222,
+    "h": 1580
+   },
+   {
+    "file": "05.jpg",
+    "w": 2222,
+    "h": 1580
+   },
+   {
+    "file": "06.jpg",
+    "w": 2222,
+    "h": 1580
+   },
+   {
+    "file": "07.jpg",
+    "w": 2222,
+    "h": 1580
+   },
+   {
+    "file": "08.jpg",
+    "w": 2222,
+    "h": 1580
+   },
+   {
+    "file": "09.jpg",
+    "w": 2222,
+    "h": 1580
+   },
+   {
+    "file": "10.jpg",
+    "w": 1754,
+    "h": 1240
+   },
+   {
+    "file": "11.jpg",
+    "w": 802,
+    "h": 1003
+   },
+   {
+    "file": "12.jpg",
+    "w": 2222,
+    "h": 1580
+   },
+   {
+    "file": "13.jpg",
+    "w": 2222,
+    "h": 1580
+   },
+   {
+    "file": "14.jpg",
+    "w": 2200,
+    "h": 1564
+   },
+   {
+    "file": "15.jpg",
+    "w": 2222,
+    "h": 1580
+   },
+   {
+    "file": "16.jpg",
+    "w": 2222,
+    "h": 1580
+   },
+   {
+    "file": "17.jpg",
+    "w": 2222,
+    "h": 1580
+   },
+   {
+    "file": "18.jpg",
+    "w": 2222,
+    "h": 1580
+   },
+   {
+    "file": "19.jpg",
+    "w": 7407,
+    "h": 5267
+   },
+   {
+    "file": "20.jpg",
+    "w": 7407,
+    "h": 5267
+   }
+  ]
+ },
+ {
+  "slug": "fashion",
+  "title": "Fashion",
+  "area": 54,
+  "type": "commercial",
+  "location": {
+   "uk": "Самбір",
+   "en": "Sambir"
+  },
+  "description": {
+   "uk": "Бутик одягу в Самборі: чорні металеві рейли, світлий камінь і великий острівний стіл-вітрина. Нейтральне тло, на якому головним стає одяг.",
+   "en": "A clothing boutique in Sambir: black metal rails, light stone and a large island display table. A neutral backdrop where the clothes take centre stage."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 851,
+    "h": 605
+   },
+   {
+    "file": "02.jpg",
+    "w": 1772,
+    "h": 1259
+   },
+   {
+    "file": "03.jpg",
+    "w": 1772,
+    "h": 1259
+   },
+   {
+    "file": "04.jpg",
+    "w": 1772,
+    "h": 1259
+   },
+   {
+    "file": "05.jpg",
+    "w": 1772,
+    "h": 1259
+   },
+   {
+    "file": "06.jpg",
+    "w": 1772,
+    "h": 1259
+   }
+  ]
+ },
+ {
+  "slug": "bruhsellresidence",
+  "title": "Bruhsell Residence",
+  "area": 150,
+  "type": "house",
+  "location": {
+   "uk": "",
+   "en": ""
+  },
+  "description": {
+   "uk": "Резиденція з темним деревом, глибокими кольорами та терасою з басейном і вуличним каміном. Дитяча у бірюзових тонах, спальня в шпоні горіха та кухня-їдальня для великої родини.",
+   "en": "A residence with dark wood, deep colours and a terrace with a pool and outdoor fireplace. A children's room in turquoise, a bedroom in walnut veneer and a kitchen-dining room for a large family."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 3000,
+    "h": 2121
+   },
+   {
+    "file": "02.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "03.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "04.jpg",
+    "w": 3508,
+    "h": 2096
+   },
+   {
+    "file": "05.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "06.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "07.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "08.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "09.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "10.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "11.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "12.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "13.jpg",
+    "w": 2908,
+    "h": 2056
+   },
+   {
+    "file": "14.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "15.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "16.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "17.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "18.jpg",
+    "w": 1325,
+    "h": 2105
+   },
+   {
+    "file": "19.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "20.jpg",
+    "w": 3000,
+    "h": 2121
+   },
+   {
+    "file": "21.jpg",
+    "w": 3000,
+    "h": 2121
+   },
+   {
+    "file": "22.jpg",
+    "w": 3000,
+    "h": 2121
+   }
+  ]
+ },
+ {
+  "slug": "icecream",
+  "title": "Icecream",
+  "area": 25,
+  "type": "commercial",
+  "location": {
+   "uk": "",
+   "en": ""
+  },
+  "description": {
+   "uk": "Кіоск джелато у рожево-білу смужку з літньою терасою. Маленький формат, який запам’ятовується з першого погляду.",
+   "en": "A gelato kiosk in pink and white stripes with a summer terrace. A small format that is remembered at first glance."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 889,
+    "h": 632
+   },
+   {
+    "file": "02.jpg",
+    "w": 889,
+    "h": 632
+   },
+   {
+    "file": "03.jpg",
+    "w": 889,
+    "h": 632
+   },
+   {
+    "file": "04.jpg",
+    "w": 889,
+    "h": 632
+   },
+   {
+    "file": "05.jpg",
+    "w": 889,
+    "h": 632
+   }
+  ]
+ },
+ {
+  "slug": "becauselife",
+  "title": "Because.. Life",
+  "area": 213,
+  "type": "house",
+  "location": {
+   "uk": "Обарів",
+   "en": "Obariv"
+  },
+  "description": {
+   "uk": "Світлий заміський будинок в Обарові: бежеві стіни, дуб, дерев’яні стільці та окрема ванна. Дитяча з робочим місцем і багато повітря у кожній кімнаті.",
+   "en": "A light country house in Obariv: beige walls, oak, wooden chairs and a freestanding bath. A children's room with a workspace and plenty of air in every room."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "02.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "03.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "04.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "05.jpg",
+    "w": 1756,
+    "h": 2480
+   },
+   {
+    "file": "06.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "07.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "08.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "09.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "10.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "11.jpg",
+    "w": 1752,
+    "h": 2480
+   },
+   {
+    "file": "12.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "13.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "14.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "15.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "16.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "17.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "18.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "19.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "20.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "21.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "22.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "23.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "24.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "25.jpg",
+    "w": 1758,
+    "h": 2480
+   },
+   {
+    "file": "26.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "27.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "28.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "29.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "30.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "31.jpg",
+    "w": 2880,
+    "h": 2048
+   }
+  ]
+ },
+ {
+  "slug": "quitespace",
+  "title": "Quite Space",
+  "area": 62,
+  "type": "apartment",
+  "location": {
+   "uk": "Львів",
+   "en": "Lviv"
+  },
+  "description": {
+   "uk": "Біла кухня-вітальня з пастельними акцентами та дитяча у синіх візерунках. Тиха квартира у Львові, де простір не перевантажений деталями.",
+   "en": "A white kitchen-living room with pastel accents and a children's room in blue patterns. A quiet apartment in Lviv where the space is not overloaded with details."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "02.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "03.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "04.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "05.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "06.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "07.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "08.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "09.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "10.jpg",
+    "w": 3508,
+    "h": 2480
+   }
+  ]
+ },
+ {
+  "slug": "whitelight",
+  "title": "White Light",
+  "area": 142,
+  "type": "house",
+  "location": {
+   "uk": "Рівне",
+   "en": "Rivne"
+  },
+  "description": {
+   "uk": "Будинок у Рівному з гаражем, спортзалом і великою кухнею-їдальнею. Біле й світле дерево, сіро-блакитна дитяча та пральня, схована за фасадами.",
+   "en": "A house in Rivne with a garage, a gym and a large kitchen-dining room. White and light wood, a grey-blue children's room and a laundry hidden behind cabinet fronts."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "02.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "03.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "04.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "05.jpg",
+    "w": 1393,
+    "h": 1600
+   },
+   {
+    "file": "06.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "07.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "08.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "09.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "10.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "11.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "12.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "13.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "14.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "15.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "16.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "17.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "18.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "19.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "20.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "21.jpg",
+    "w": 2241,
+    "h": 1600
+   },
+   {
+    "file": "22.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "23.jpg",
+    "w": 2263,
+    "h": 1600
+   }
+  ]
+ },
+ {
+  "slug": "vectorsemycvit",
+  "title": "Vector Semycvit",
+  "area": 895,
+  "type": "office",
+  "location": {
+   "uk": "",
+   "en": ""
+  },
+  "description": {
+   "uk": "Офіс IT-компанії на 895 м²: опенспейс, переговорні, кухня та зона відпочинку. Коралова рецепція, чорна стеля та скляні перегородки.",
+   "en": "An IT company office of 895 m²: open space, meeting rooms, a kitchen and a lounge. A coral reception, a black ceiling and glass partitions."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 2880,
+    "h": 2028
+   },
+   {
+    "file": "02.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "03.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "04.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "05.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "06.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "07.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "08.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "09.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "10.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "11.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "12.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "13.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "14.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "15.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "16.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "17.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "18.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "19.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "20.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "21.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "22.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "23.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "24.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "25.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "26.jpg",
+    "w": 1600,
+    "h": 2250
+   },
+   {
+    "file": "27.jpg",
+    "w": 2250,
+    "h": 1600
+   },
+   {
+    "file": "28.jpg",
+    "w": 1600,
+    "h": 2250
+   },
+   {
+    "file": "29.jpg",
+    "w": 2250,
+    "h": 1600
+   },
+   {
+    "file": "30.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "31.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "32.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "33.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "34.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "35.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "36.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "37.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "38.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "39.jpg",
+    "w": 1500,
+    "h": 1067
+   },
+   {
+    "file": "40.jpg",
+    "w": 1500,
+    "h": 1067
+   }
+  ]
+ },
+ {
+  "slug": "pinksugar",
+  "title": "Pink Sugar",
+  "area": 32,
+  "type": "commercial",
+  "location": {
+   "uk": "Рівне",
+   "en": "Rivne"
+  },
+  "description": {
+   "uk": "Кав’ярня-бар у рожевих тонах: арки, оксамитові сидіння, золото та мармур. Барна стійка, м’яка зона і санвузли в одній кольоровій історії.",
+   "en": "A café-bar in pink tones: arches, velvet seating, gold and marble. A bar counter, a lounge area and restrooms in a single colour story."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "02.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "03.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "04.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "05.jpg",
+    "w": 2880,
+    "h": 2048
+   },
+   {
+    "file": "06.jpg",
+    "w": 1799,
+    "h": 2528
+   }
+  ]
+ },
+ {
+  "slug": "transform",
+  "title": "Transform",
+  "area": 27,
+  "type": "apartment",
+  "location": {
+   "uk": "Одеса",
+   "en": "Odesa"
+  },
+  "description": {
+   "uk": "Мікроквартира в Одесі на 27 м² із меблями-трансформерами. Синя стіна, розкладний стіл і два сценарії планування для життя та прийому гостей.",
+   "en": "A 27 m² micro-apartment in Odesa with transformable furniture. A blue wall, a folding table and two layout scenarios for daily life and hosting guests."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 854,
+    "h": 607
+   },
+   {
+    "file": "02.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "03.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "04.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "05.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "06.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "07.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "08.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "09.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "10.jpg",
+    "w": 1778,
+    "h": 1264
+   }
+  ]
+ },
+ {
+  "slug": "minimalgray",
+  "title": "Minimal Gray",
+  "area": 92,
+  "type": "apartment",
+  "location": {
+   "uk": "ЖК Spectrum",
+   "en": "Spectrum housing complex"
+  },
+  "description": {
+   "uk": "Сірий бетон, м’ятні акценти та повноцінна гардеробна. Кухня-вітальня з островом, спальня з чорним торшером і ванна у теплому дереві.",
+   "en": "Grey concrete, mint accents and a full dressing room. A kitchen-living room with an island, a bedroom with a black floor lamp and a bathroom in warm wood."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 3507,
+    "h": 2480
+   },
+   {
+    "file": "02.jpg",
+    "w": 2500,
+    "h": 1768
+   },
+   {
+    "file": "03.jpg",
+    "w": 3000,
+    "h": 2122
+   },
+   {
+    "file": "04.jpg",
+    "w": 3000,
+    "h": 2122
+   },
+   {
+    "file": "05.jpg",
+    "w": 3000,
+    "h": 2122
+   },
+   {
+    "file": "06.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "07.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "08.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "09.jpg",
+    "w": 2442,
+    "h": 2480
+   },
+   {
+    "file": "10.jpg",
+    "w": 2392,
+    "h": 2480
+   },
+   {
+    "file": "11.jpg",
+    "w": 1923,
+    "h": 2480
+   },
+   {
+    "file": "12.jpg",
+    "w": 3000,
+    "h": 2122
+   },
+   {
+    "file": "13.jpg",
+    "w": 3000,
+    "h": 2122
+   },
+   {
+    "file": "14.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "15.jpg",
+    "w": 3000,
+    "h": 2122
+   },
+   {
+    "file": "16.jpg",
+    "w": 3500,
+    "h": 2475
+   },
+   {
+    "file": "17.jpg",
+    "w": 2464,
+    "h": 2480
+   },
+   {
+    "file": "18.jpg",
+    "w": 2418,
+    "h": 2480
+   },
+   {
+    "file": "19.jpg",
+    "w": 923,
+    "h": 1149
+   },
+   {
+    "file": "20.jpg",
+    "w": 3508,
+    "h": 2480
+   }
+  ]
+ },
+ {
+  "slug": "homecoming",
+  "title": "Homecoming",
+  "area": 62,
+  "type": "apartment",
+  "location": {
+   "uk": "ЖК Semycvit",
+   "en": "Semycvit housing complex"
+  },
+  "description": {
+   "uk": "Квартира з видом на місто: жовті акценти, цегла, ліжко-будиночок у дитячій та барна стійка біля вікна. Дім, до якого хочеться повертатись.",
+   "en": "An apartment with a city view: yellow accents, brick, a house-shaped bed in the children's room and a bar counter by the window. A home you want to come back to."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "02.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "03.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "04.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "05.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "06.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "07.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "08.jpg",
+    "w": 516,
+    "h": 638
+   },
+   {
+    "file": "09.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "10.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "11.jpg",
+    "w": 3600,
+    "h": 3000
+   },
+   {
+    "file": "12.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "13.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "14.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "15.jpg",
+    "w": 3508,
+    "h": 2480
+   }
+  ]
+ },
+ {
+  "slug": "softloft",
+  "title": "Soft Loft",
+  "area": 50,
+  "type": "apartment",
+  "location": {
+   "uk": "ЖК Spectrum",
+   "en": "Spectrum housing complex"
+  },
+  "description": {
+   "uk": "М’який лофт: цегла, чорний метал, антресоль і жовте крісло. Компактна квартира з другим рівнем для спальні та відкритою кухнею.",
+   "en": "A soft loft: brick, black metal, a mezzanine and a yellow armchair. A compact apartment with a second level for the bedroom and an open kitchen."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "02.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "03.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "04.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "05.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "06.jpg",
+    "w": 2750,
+    "h": 2400
+   },
+   {
+    "file": "07.jpg",
+    "w": 2799,
+    "h": 2480
+   },
+   {
+    "file": "08.jpg",
+    "w": 2320,
+    "h": 3396
+   },
+   {
+    "file": "09.jpg",
+    "w": 2799,
+    "h": 2480
+   }
+  ]
+ },
+ {
+  "slug": "r2home",
+  "title": "R2 Home",
+  "area": 132,
+  "type": "house",
+  "location": {
+   "uk": "Рівне",
+   "en": "Rivne"
+  },
+  "description": {
+   "uk": "Двоповерховий будинок у Рівному: глянцева темна кухня, гардеробна з відкритими системами, дерево й графіт. Спальня з панорамним узголів’ям та кабінет із синім акцентом.",
+   "en": "A two-storey house in Rivne: a glossy dark kitchen, a dressing room with open storage, wood and graphite. A bedroom with a panoramic headboard and a study with a blue accent."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 2133,
+    "h": 1600
+   },
+   {
+    "file": "02.jpg",
+    "w": 2133,
+    "h": 1600
+   },
+   {
+    "file": "03.jpg",
+    "w": 2046,
+    "h": 1600
+   },
+   {
+    "file": "04.jpg",
+    "w": 2133,
+    "h": 1600
+   },
+   {
+    "file": "05.jpg",
+    "w": 2133,
+    "h": 1600
+   },
+   {
+    "file": "06.jpg",
+    "w": 2133,
+    "h": 1600
+   },
+   {
+    "file": "07.jpg",
+    "w": 2133,
+    "h": 1600
+   },
+   {
+    "file": "08.jpg",
+    "w": 1506,
+    "h": 1600
+   },
+   {
+    "file": "09.jpg",
+    "w": 2133,
+    "h": 1600
+   },
+   {
+    "file": "10.jpg",
+    "w": 2133,
+    "h": 1600
+   },
+   {
+    "file": "11.jpg",
+    "w": 2560,
+    "h": 1600
+   },
+   {
+    "file": "12.jpg",
+    "w": 2560,
+    "h": 1600
+   },
+   {
+    "file": "13.jpg",
+    "w": 2560,
+    "h": 1600
+   },
+   {
+    "file": "14.jpg",
+    "w": 2560,
+    "h": 1600
+   },
+   {
+    "file": "15.jpg",
+    "w": 2560,
+    "h": 1600
+   },
+   {
+    "file": "16.jpg",
+    "w": 2560,
+    "h": 1600
+   },
+   {
+    "file": "17.jpg",
+    "w": 1600,
+    "h": 1600
+   },
+   {
+    "file": "18.jpg",
+    "w": 1559,
+    "h": 1600
+   },
+   {
+    "file": "19.jpg",
+    "w": 2188,
+    "h": 1600
+   },
+   {
+    "file": "20.jpg",
+    "w": 2224,
+    "h": 1600
+   }
+  ]
+ },
+ {
+  "slug": "elegantapartment",
+  "title": "Elegant Apartment",
+  "area": 63,
+  "type": "apartment",
+  "location": {
+   "uk": "ЖК Misto Trav",
+   "en": "Misto Trav housing complex"
+  },
+  "description": {
+   "uk": "Тепле дерево, бордові акценти та плавні форми. Кругле дзеркало у передпокої, м’яка спальня і ванна з деревом та графікою на плитці.",
+   "en": "Warm wood, burgundy accents and soft curves. A round mirror in the hallway, a soft bedroom and a bathroom with wood and graphic tiles."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "02.jpg",
+    "w": 1508,
+    "h": 1066
+   },
+   {
+    "file": "03.jpg",
+    "w": 1508,
+    "h": 1066
+   },
+   {
+    "file": "04.jpg",
+    "w": 1508,
+    "h": 1066
+   },
+   {
+    "file": "05.jpg",
+    "w": 3508,
+    "h": 2480
+   },
+   {
+    "file": "06.jpg",
+    "w": 987,
+    "h": 1061
+   },
+   {
+    "file": "07.jpg",
+    "w": 3469,
+    "h": 2453
+   },
+   {
+    "file": "08.jpg",
+    "w": 1381,
+    "h": 977
+   },
+   {
+    "file": "09.jpg",
+    "w": 3508,
+    "h": 2480
+   }
+  ]
+ },
+ {
+  "slug": "warmhapines",
+  "title": "Warm Happiness",
+  "area": 81,
+  "type": "apartment",
+  "location": {
+   "uk": "ЖК Na shchaslyvomu",
+   "en": "Na shchaslyvomu housing complex"
+  },
+  "description": {
+   "uk": "Сімейна квартира з оливковими акцентами, деревом та світлими стінами. Дитяча з гірляндами й робочим місцем, ванна в біло-сірій гамі.",
+   "en": "A family apartment with olive accents, wood and light walls. A children's room with garlands and a workspace, a bathroom in white and grey."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "02.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "03.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "04.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "05.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "06.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "07.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "08.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "09.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "10.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "11.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "12.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "13.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "14.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "15.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "16.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "17.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "18.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "19.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "20.jpg",
+    "w": 3555,
+    "h": 2528
+   }
+  ]
+ },
+ {
+  "slug": "terranova",
+  "title": "Terra Nova",
+  "area": 78,
+  "type": "apartment",
+  "location": {
+   "uk": "ЖК Na shchaslyvomu",
+   "en": "Na shchaslyvomu housing complex"
+  },
+  "description": {
+   "uk": "Теракота і зелень, дерев’яні рейки на стелі та дитяча з рожевими деталями. Кухня-вітальня з теплою підсвіткою і ванна в дереві.",
+   "en": "Terracotta and green, timber ceiling slats and a children's room with pink details. A kitchen-living room with warm lighting and a bathroom in wood."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "02.jpg",
+    "w": 2400,
+    "h": 1707
+   },
+   {
+    "file": "03.jpg",
+    "w": 2400,
+    "h": 1707
+   },
+   {
+    "file": "04.jpg",
+    "w": 2400,
+    "h": 1707
+   },
+   {
+    "file": "05.jpg",
+    "w": 2400,
+    "h": 1707
+   },
+   {
+    "file": "06.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "07.jpg",
+    "w": 2400,
+    "h": 1707
+   },
+   {
+    "file": "08.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "09.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "10.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "11.jpg",
+    "w": 2500,
+    "h": 1778
+   },
+   {
+    "file": "12.jpg",
+    "w": 2500,
+    "h": 1778
+   },
+   {
+    "file": "13.jpg",
+    "w": 2500,
+    "h": 1778
+   },
+   {
+    "file": "14.jpg",
+    "w": 2500,
+    "h": 1778
+   },
+   {
+    "file": "15.jpg",
+    "w": 1000,
+    "h": 711
+   },
+   {
+    "file": "16.jpg",
+    "w": 1000,
+    "h": 711
+   },
+   {
+    "file": "17.jpg",
+    "w": 1000,
+    "h": 711
+   },
+   {
+    "file": "18.jpg",
+    "w": 1000,
+    "h": 711
+   },
+   {
+    "file": "19.jpg",
+    "w": 2400,
+    "h": 1707
+   },
+   {
+    "file": "20.jpg",
+    "w": 2400,
+    "h": 1707
+   }
+  ]
+ },
+ {
+  "slug": "avalon",
+  "title": "Avalon",
+  "area": 60,
+  "type": "apartment",
+  "location": {
+   "uk": "ЖК Avalon Light",
+   "en": "Avalon Light housing complex"
+  },
+  "description": {
+   "uk": "Оливково-зелена вітальня, мармур і чорні скляні перегородки. Темний передпокій, спальня з гардеробною і кухня з барною стійкою.",
+   "en": "An olive-green living room, marble and black glass partitions. A dark hallway, a bedroom with a dressing room and a kitchen with a bar counter."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "02.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "03.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "04.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "05.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "06.jpg",
+    "w": 3555,
+    "h": 2277
+   },
+   {
+    "file": "07.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "08.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "09.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "10.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "11.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "12.jpg",
+    "w": 3555,
+    "h": 2528
+   }
+  ]
+ },
+ {
+  "slug": "moccorest",
+  "title": "Mocco Rest",
+  "area": 142,
+  "type": "apartment",
+  "location": {
+   "uk": "ЖК Radiozavod",
+   "en": "Radiozavod housing complex"
+  },
+  "description": {
+   "uk": "Квартира в тонах мокко з великим сірим диваном і власною терасою з газоном. Шпон, графіт та м’яке освітлення для відпочинку після роботи.",
+   "en": "An apartment in mocha tones with a large grey sofa and a private lawn terrace. Veneer, graphite and soft lighting for rest after work."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "02.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "03.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "04.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "05.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "06.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "07.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "08.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "09.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "10.jpg",
+    "w": 2880,
+    "h": 2049
+   },
+   {
+    "file": "11.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "12.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "13.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "14.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "15.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "16.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "17.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "18.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "19.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "20.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "21.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "22.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "23.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "24.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "25.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "26.jpg",
+    "w": 2880,
+    "h": 2036
+   },
+   {
+    "file": "27.jpg",
+    "w": 2880,
+    "h": 2036
+   }
+  ]
+ },
+ {
+  "slug": "officeelitex",
+  "title": "Office Elitex",
+  "area": 165,
+  "type": "office",
+  "location": {
+   "uk": "Львів",
+   "en": "Lviv"
+  },
+  "description": {
+   "uk": "Офіс у Львові з бірюзовими акцентами, перфорованими перегородками та деревом у зоні відпочинку. Мотиваційна графіка на склі та кухня для команди.",
+   "en": "An office in Lviv with turquoise accents, perforated partitions and a tree in the lounge. Motivational graphics on glass and a kitchen for the team."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "02.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "03.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "04.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "05.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "06.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "07.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "08.jpg",
+    "w": 2000,
+    "h": 1442
+   },
+   {
+    "file": "09.jpg",
+    "w": 2000,
+    "h": 1424
+   },
+   {
+    "file": "10.jpg",
+    "w": 2000,
+    "h": 1442
+   },
+   {
+    "file": "11.jpg",
+    "w": 1000,
+    "h": 712
+   },
+   {
+    "file": "12.jpg",
+    "w": 2000,
+    "h": 1442
+   },
+   {
+    "file": "13.jpg",
+    "w": 2000,
+    "h": 1442
+   },
+   {
+    "file": "14.jpg",
+    "w": 2000,
+    "h": 1442
+   },
+   {
+    "file": "15.jpg",
+    "w": 2000,
+    "h": 1442
+   }
+  ]
+ },
+ {
+  "slug": "cottageb",
+  "title": "Cottage B",
+  "area": 90,
+  "type": "house",
+  "location": {
+   "uk": "Сарни",
+   "en": "Sarny"
+  },
+  "description": {
+   "uk": "Світлий котедж у Сарнах: камін, дизайнерська люстра, галерея фото на стіні та мармурова ванна. Спокійна сіра гама з теплими акцентами.",
+   "en": "A light cottage in Sarny: a fireplace, a designer chandelier, a photo gallery wall and a marble bathroom. A calm grey palette with warm accents."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 2500,
+    "h": 1778
+   },
+   {
+    "file": "02.jpg",
+    "w": 2500,
+    "h": 1778
+   },
+   {
+    "file": "03.jpg",
+    "w": 2500,
+    "h": 1778
+   },
+   {
+    "file": "04.jpg",
+    "w": 2500,
+    "h": 1777
+   },
+   {
+    "file": "05.jpg",
+    "w": 2500,
+    "h": 1778
+   },
+   {
+    "file": "06.jpg",
+    "w": 2500,
+    "h": 1778
+   },
+   {
+    "file": "07.jpg",
+    "w": 2500,
+    "h": 1778
+   },
+   {
+    "file": "08.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "09.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "10.jpg",
+    "w": 2500,
+    "h": 1778
+   },
+   {
+    "file": "11.jpg",
+    "w": 3555,
+    "h": 2528
+   }
+  ]
+ },
+ {
+  "slug": "officeb",
+  "title": "Office B",
+  "area": 300,
+  "type": "office",
+  "location": {
+   "uk": "Рівне",
+   "en": "Rivne"
+  },
+  "description": {
+   "uk": "Офіс на 300 м² у Рівному: бетон, жовті лінії навігації, чорні рейки та зелень. Опенспейс, кабінети, переговорні та зона відпочинку.",
+   "en": "A 300 m² office in Rivne: concrete, yellow wayfinding lines, black slats and greenery. Open space, private offices, meeting rooms and a lounge."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "02.jpg",
+    "w": 2500,
+    "h": 1778
+   },
+   {
+    "file": "03.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "04.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "05.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "06.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "07.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "08.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "09.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "10.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "11.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "12.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "13.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "14.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "15.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "16.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "17.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "18.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "19.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "20.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "21.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "22.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "23.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "24.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "25.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "26.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "27.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "28.jpg",
+    "w": 2500,
+    "h": 1778
+   },
+   {
+    "file": "29.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "30.jpg",
+    "w": 2500,
+    "h": 1778
+   },
+   {
+    "file": "31.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "32.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "33.jpg",
+    "w": 2500,
+    "h": 1778
+   },
+   {
+    "file": "34.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "35.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "36.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "37.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "38.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "39.jpg",
+    "w": 2528,
+    "h": 3555
+   }
+  ]
+ },
+ {
+  "slug": "newlife",
+  "title": "New Life",
+  "area": 50,
+  "type": "apartment",
+  "location": {
+   "uk": "ЖК Velyka Brytaniya",
+   "en": "Velyka Brytaniya housing complex"
+  },
+  "description": {
+   "uk": "Стіна з мохом, чорні скляні перегородки та цегла. Дубовий стіл, зелена спальня та ванна з графітом і деревом у компактній квартирі.",
+   "en": "A moss wall, black glass partitions and brick. An oak table, a green bedroom and a bathroom in graphite and wood in a compact apartment."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "02.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "03.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "04.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "05.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "06.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "07.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "08.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "09.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "10.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "11.jpg",
+    "w": 2263,
+    "h": 1600
+   }
+  ]
+ },
+ {
+  "slug": "simplelife",
+  "title": "Simple Life",
+  "area": 92,
+  "type": "apartment",
+  "location": {
+   "uk": "ЖК Vigovskiy",
+   "en": "Vigovskiy housing complex"
+  },
+  "description": {
+   "uk": "Дерево та графіт, шестикутна плитка й лоджія, перетворена на робоче місце з пральнею. Спальня з рейковою стіною та підсвіткою.",
+   "en": "Wood and graphite, hexagonal tiles and a loggia turned into a workspace with a laundry. A bedroom with a slatted wall and backlighting."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "02.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "03.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "04.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "05.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "06.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "07.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "08.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "09.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "10.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "11.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "12.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "13.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "14.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "15.jpg",
+    "w": 2263,
+    "h": 1600
+   }
+  ]
+ },
+ {
+  "slug": "greenville",
+  "title": "Green Ville",
+  "area": 42,
+  "type": "apartment",
+  "location": {
+   "uk": "",
+   "en": ""
+  },
+  "description": {
+   "uk": "Компактна квартира у біло-сірій гамі з жовтими подушками та мармуром. Передпокій із вбудованими шафами і кухня-вітальня з м’яким диваном.",
+   "en": "A compact apartment in white and grey with yellow cushions and marble. A hallway with built-in wardrobes and a kitchen-living room with a soft sofa."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "02.jpg",
+    "w": 3555,
+    "h": 2422
+   },
+   {
+    "file": "03.jpg",
+    "w": 1754,
+    "h": 1240
+   },
+   {
+    "file": "04.jpg",
+    "w": 1754,
+    "h": 1240
+   },
+   {
+    "file": "05.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "06.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "07.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "08.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "09.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "10.jpg",
+    "w": 1754,
+    "h": 1240
+   },
+   {
+    "file": "11.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "12.jpg",
+    "w": 2528,
+    "h": 3555
+   }
+  ]
+ },
+ {
+  "slug": "apartmentd",
+  "title": "Apartment D",
+  "area": 90,
+  "type": "apartment",
+  "location": {
+   "uk": "ЖК Spectrum",
+   "en": "Spectrum housing complex"
+  },
+  "description": {
+   "uk": "Темно-синій диван, шкіряне крісло та дитяча з ліжком-будиночком і місяцем на стіні. Передпокій із рослинами та ванна в синьому кольорі.",
+   "en": "A navy sofa, a leather armchair and a children's room with a house bed and a moon on the wall. A hallway with plants and a bathroom in blue."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 854,
+    "h": 607
+   },
+   {
+    "file": "02.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "03.jpg",
+    "w": 3106,
+    "h": 2528
+   },
+   {
+    "file": "04.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "05.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "06.jpg",
+    "w": 1778,
+    "h": 1264
+   },
+   {
+    "file": "07.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "08.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "09.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "10.jpg",
+    "w": 2528,
+    "h": 3555
+   },
+   {
+    "file": "11.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "12.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "13.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "14.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "15.jpg",
+    "w": 1778,
+    "h": 1264
+   }
+  ]
+ },
+ {
+  "slug": "office32x32",
+  "title": "Office 32х32",
+  "area": 140,
+  "type": "office",
+  "location": {
+   "uk": "Рівне",
+   "en": "Rivne"
+  },
+  "description": {
+   "uk": "Офіс IT-компанії у Рівному: опенспейс із зеленими кріслами, візерунок на склі, кухня та зона для клієнтів. Легка сіра гама з акцентом бренду.",
+   "en": "An IT company office in Rivne: an open space with green chairs, patterned glass, a kitchen and a client area. A light grey palette with a brand accent."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "02.jpg",
+    "w": 3000,
+    "h": 2133
+   },
+   {
+    "file": "03.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "04.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "05.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "06.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "07.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "08.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "09.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "10.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "11.jpg",
+    "w": 2500,
+    "h": 1778
+   },
+   {
+    "file": "12.jpg",
+    "w": 3555,
+    "h": 2528
+   },
+   {
+    "file": "13.jpg",
+    "w": 3555,
+    "h": 2528
+   }
+  ]
+ },
+ {
+  "slug": "shadow",
+  "title": "Shadow",
+  "area": 80,
+  "type": "apartment",
+  "location": {
+   "uk": "ЖК Parus Park",
+   "en": "Parus Park housing complex"
+  },
+  "description": {
+   "uk": "Сірі стіни, коньячна шкіра, чорне скло і дерев’яні рейки. Темна спальня з гардеробною та кухня зі столом з масиву.",
+   "en": "Grey walls, cognac leather, black glass and timber slats. A dark bedroom with a dressing room and a kitchen with a solid wood table."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 2000,
+    "h": 1422
+   },
+   {
+    "file": "02.jpg",
+    "w": 2000,
+    "h": 1422
+   },
+   {
+    "file": "03.jpg",
+    "w": 2000,
+    "h": 1422
+   },
+   {
+    "file": "04.jpg",
+    "w": 2000,
+    "h": 1422
+   },
+   {
+    "file": "05.jpg",
+    "w": 2000,
+    "h": 1422
+   },
+   {
+    "file": "06.jpg",
+    "w": 2000,
+    "h": 1422
+   },
+   {
+    "file": "07.jpg",
+    "w": 2000,
+    "h": 1422
+   },
+   {
+    "file": "08.jpg",
+    "w": 2000,
+    "h": 1422
+   },
+   {
+    "file": "09.jpg",
+    "w": 1422,
+    "h": 2000
+   },
+   {
+    "file": "10.jpg",
+    "w": 2000,
+    "h": 1422
+   },
+   {
+    "file": "11.jpg",
+    "w": 2000,
+    "h": 1422
+   },
+   {
+    "file": "12.jpg",
+    "w": 2000,
+    "h": 1422
+   },
+   {
+    "file": "13.jpg",
+    "w": 2000,
+    "h": 1422
+   }
+  ]
+ },
+ {
+  "slug": "bazikalo",
+  "title": "Bazikalo",
+  "area": 28,
+  "type": "commercial",
+  "location": {
+   "uk": "",
+   "en": ""
+  },
+  "description": {
+   "uk": "Кав’ярня «Базікало»: лофт, сині металеві стільці, візерункова плитка та індустріальні лампи. Маленький простір з великим характером.",
+   "en": "Bazikalo coffee bar: loft, blue metal chairs, patterned tiles and industrial lamps. A small space with a big character."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "02.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "03.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "04.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "05.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "06.jpg",
+    "w": 2263,
+    "h": 1600
+   }
+  ]
+ },
+ {
+  "slug": "graphitespace",
+  "title": "Graphite Space",
+  "area": 75,
+  "type": "apartment",
+  "location": {
+   "uk": "ЖК Spectrum",
+   "en": "Spectrum housing complex"
+  },
+  "description": {
+   "uk": "Графітова кухня-вітальня з каміном, дитяча з кольоровим зигзагом та повноцінна гардеробна. Темне і світле у рівновазі.",
+   "en": "A graphite kitchen-living room with a fireplace, a children's room with a colourful chevron and a full dressing room. Dark and light in balance."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "02.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "03.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "04.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "05.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "06.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "07.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "08.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "09.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "10.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "11.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "12.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "13.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "14.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "15.jpg",
+    "w": 2263,
+    "h": 1600
+   }
+  ]
+ },
+ {
+  "slug": "bodyandsoul",
+  "title": "Body and Soul",
+  "area": 114,
+  "type": "commercial",
+  "location": {
+   "uk": "ЖК Vigovskiy",
+   "en": "Vigovskiy housing complex"
+  },
+  "description": {
+   "uk": "Студія йоги та пілатесу: дерево, синій, реформери біля панорамних вікон. Роздягальні, душові та рецепція в єдиному спокійному стилі.",
+   "en": "A yoga and pilates studio: wood, navy, reformers by panoramic windows. Changing rooms, showers and a reception in one calm style."
+  },
+  "images": [
+   {
+    "file": "01.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "02.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "03.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "04.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "05.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "06.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "07.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "08.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "09.jpg",
+    "w": 2263,
+    "h": 1600
+   },
+   {
+    "file": "10.jpg",
+    "w": 2263,
+    "h": 1600
+   }
+  ]
+ }
+]
