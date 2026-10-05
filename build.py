@@ -215,7 +215,7 @@ def head(t, base, title, desc, alt_href, self_href, og_image):
 <html lang="{lang}">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(desc)}">
 <meta property="og:type" content="website">
@@ -223,7 +223,7 @@ def head(t, base, title, desc, alt_href, self_href, og_image):
 <meta property="og:description" content="{esc(desc)}">
 <meta property="og:image" content="{base}{og_image}">
 <meta property="og:locale" content="{'uk_UA' if lang=='uk' else 'en_US'}">
-<meta name="theme-color" content="#17171a">
+<meta name="theme-color" content="#f6f3ee">
 <link rel="alternate" hreflang="{t['other']}" href="{alt_href}">
 <link rel="alternate" hreflang="{lang}" href="{self_href}">
 <link rel="icon" type="image/png" sizes="32x32" href="{base}img/favicon/32x32.png">
@@ -641,7 +641,7 @@ def notfound_page():
 <html lang="uk">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>{esc(t['nf_title'])} · {esc(t['site_short'])}</title>
 <meta name="robots" content="noindex">
 <link rel="preconnect" href="https://fonts.googleapis.com">

@@ -3,6 +3,10 @@
   'use strict';
 
   var body = document.body;
+  // Tint the mobile browser toolbar to match whatever covers the screen (iOS Safari reads theme-color live)
+  var themeMeta = document.querySelector('meta[name="theme-color"]');
+  var themeDefault = themeMeta ? themeMeta.getAttribute('content') : '#f6f3ee';
+  function setTheme(color) { if (themeMeta) themeMeta.setAttribute('content', color || themeDefault); }
   if (/[?&]static\b/.test(location.search)) {
     document.documentElement.classList.add('no-fx');
     window.addEventListener('load', function () { var h = location.hash && document.querySelector(location.hash); if (h) h.scrollIntoView({ behavior: 'instant', block: 'start' }); });
@@ -24,11 +28,13 @@
       var open = body.classList.toggle('menu-open');
       body.classList.toggle('is-locked', open);
       burger.setAttribute('aria-expanded', open ? 'true' : 'false');
+      setTheme(open ? '#17171a' : null);
     });
     document.querySelectorAll('.menu a').forEach(function (a) {
       a.addEventListener('click', function () {
         body.classList.remove('menu-open', 'is-locked');
         burger.setAttribute('aria-expanded', 'false');
+        setTheme(null);
       });
     });
   }
@@ -187,12 +193,14 @@
       lastFocus = document.activeElement;
       lb.classList.add('is-open');
       body.classList.add('is-locked');
+      setTheme('#0c0c0e');
       show(i);
       lb.querySelector('.lightbox__close').focus();
     }
     function close() {
       lb.classList.remove('is-open');
       body.classList.remove('is-locked');
+      setTheme(null);
       img.src = '';
       if (lastFocus) lastFocus.focus();
     }
