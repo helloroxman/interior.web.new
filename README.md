@@ -5,20 +5,27 @@ Modern, fully static, bilingual (UA / EN) portfolio site. No build tools or fram
 ## Structure
 
 ```
-New/
-├── index.html              Ukrainian home page
-├── en/index.html           English home page
-├── projects/<slug>.html    Ukrainian project pages (37)
-├── en/projects/<slug>.html English project pages (37)
-├── 404.html                bilingual "not found" page
-├── css/style.css           all styles
-├── js/main.js              header, mobile menu, filters, reveal, counters, lightbox
-├── img/                    logo, icons, favicons, optimized project images
-├── files/sample_project.pdf
-├── data/projects.json      project list: titles, areas, locations, types, descriptions, images
-├── build.py                generator: data/projects.json → all HTML pages
-└── .nojekyll               tells GitHub Pages to serve the folder as-is
+index.html, en/index.html             home pages (UA / EN)
+projects/<slug>.html                  project pages (37 per language)
+services/<slug>.html                  service pages: apartment, house, office & commercial, supervision
+<slug>.html, en/<slug>.html           redirects from the old site's URLs to the new project pages
+sample_project.pdf                    sample design album (kept at its old URL)
+robots.txt, sitemap.xml               generated for search engines
+404.html                              bilingual "not found" page
+css/style.css, js/main.js             styles and scripts
+fonts/                                self-hosted Inter (OFL licence)
+img/projs/<slug>/                     NN.webp (≤2000 px), NN-s.webp (≤900 px), cover.webp, cover-s.webp, cover.jpg (link previews)
+data/projects.json                    projects: title, area, type, location, description, photos with room labels
+data/services.json                    service page texts and FAQ (UA / EN)
+build.py                              generator: data → every HTML page, sitemap and robots
 ```
+
+## SEO notes
+
+- Every page has a canonical URL, `hreflang` links (uk, en, x-default) and Open Graph tags with absolute URLs on https://oksanaivanova.com.
+- Structured data (JSON-LD): the studio as `ProfessionalService` on every page, `BreadcrumbList` and `CreativeWork` on projects, `Service` and `FAQPage` on service pages.
+- Gallery `alt` texts come from the room labels in `data/projects.json` (`images[].label.uk/en`). Edit them there.
+- Prices and timelines are deliberately not on the service pages. Add them in `data/services.json` when ready.
 
 ## Editing content
 
@@ -37,8 +44,8 @@ Only Python 3 is required (no extra packages).
 
 ## Adding a project
 
-1. Put the images in `img/projs/<slug>/` as `01.jpg`, `02.jpg`, … (max 2000 px) and `01-s.jpg`, `02-s.jpg`, … (max 900 px thumbnails), plus `cover.jpg` for the grid.
-2. Add an entry to `data/projects.json` (copy an existing one; `w` and `h` are the pixel size of the full image, used to decide the gallery layout).
+1. Put the images in `img/projs/<slug>/` as `01.webp`, `02.webp`, … (max 2000 px) and `01-s.webp`, … (max 900 px), plus `cover.webp` (1230 px), `cover-s.webp` (640 px) and `cover.jpg` for link previews.
+2. Add an entry to `data/projects.json` (copy an existing one; `w` and `h` are the original pixel size, `label` describes the room in both languages).
 3. Run `python3 build.py`.
 
 ## Deploying to GitHub Pages

@@ -16,127 +16,227 @@
    {
     "file": "01.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "передпокій з пуфами",
+     "en": "hallway with ottomans"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "коридор",
+     "en": "corridor"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "сходи на другий рівень",
+     "en": "staircase to upper level"
+    }
    },
    {
     "file": "05.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "вітальня зі сходами",
+     "en": "living room with staircase"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "вітальня з пуфами",
+     "en": "living room with ottomans"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "вітальня з блакитним диваном",
+     "en": "living room with blue sofa"
+    }
    },
    {
     "file": "08.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "вітальня з модульним диваном",
+     "en": "living room with modular sofa"
+    }
    },
    {
     "file": "09.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "вітальня з журнальним столиком",
+     "en": "living room with coffee table"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "крісло біля каміна",
+     "en": "armchair by fireplace"
+    }
    },
    {
     "file": "11.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "вітальня з каміном",
+     "en": "living room with fireplace"
+    }
    },
    {
     "file": "12.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "обідня зона",
+     "en": "dining area"
+    }
    },
    {
     "file": "13.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "їдальня з дерев'яним столом",
+     "en": "dining room with wooden table"
+    }
    },
    {
     "file": "14.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "обідній стіл",
+     "en": "dining table"
+    }
    },
    {
     "file": "15.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "обідня зона з каміном",
+     "en": "dining area with fireplace"
+    }
    },
    {
     "file": "16.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "кухня",
+     "en": "kitchen"
+    }
    },
    {
     "file": "17.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "кухня з дерев'яними фасадами",
+     "en": "kitchen with wooden cabinets"
+    }
    },
    {
     "file": "18.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "ванна кімната з червоним підсвічуванням",
+     "en": "bathroom with red lighting"
+    }
    },
    {
     "file": "19.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "ванна кімната з червоним підсвічуванням",
+     "en": "bathroom with red lighting"
+    }
    },
    {
     "file": "20.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "санвузол з червоним підсвічуванням",
+     "en": "washroom with red lighting"
+    }
    },
    {
     "file": "21.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "тераса з обіднім столом",
+     "en": "terrace with dining table"
+    }
    },
    {
     "file": "22.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "тераса з зоною відпочинку",
+     "en": "terrace with lounge area"
+    }
    },
    {
     "file": "23.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "тераса з диваном",
+     "en": "terrace with sofa"
+    }
    },
    {
     "file": "24.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "тераса з обідньою зоною",
+     "en": "terrace with dining area"
+    }
    },
    {
     "file": "25.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "тераса на даху",
+     "en": "rooftop terrace"
+    }
    }
   ]
  },
@@ -157,137 +257,245 @@
    {
     "file": "01.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня з диваном",
+     "en": "living room with sofa"
+    }
    },
    {
     "file": "03.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня з мармуровою стіною",
+     "en": "living room with marble wall"
+    }
    },
    {
     "file": "04.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня з телевізором",
+     "en": "living room with TV"
+    }
    },
    {
     "file": "05.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня з кутовим диваном",
+     "en": "living room with corner sofa"
+    }
    },
    {
     "file": "06.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "робоче місце у вітальні",
+     "en": "workspace in living room"
+    }
    },
    {
     "file": "07.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кухня-вітальня",
+     "en": "kitchen-living room"
+    }
    },
    {
     "file": "08.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кухня з обідньою зоною",
+     "en": "kitchen with dining area"
+    }
    },
    {
     "file": "09.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кухня-їдальня",
+     "en": "kitchen-dining room"
+    }
    },
    {
     "file": "10.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "спальня з м'яким узголів'ям",
+     "en": "bedroom with upholstered headboard"
+    }
    },
    {
     "file": "11.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "спальня з телевізором",
+     "en": "bedroom with TV"
+    }
    },
    {
     "file": "12.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "спальня з м'яким узголів'ям",
+     "en": "bedroom with upholstered headboard"
+    }
    },
    {
     "file": "13.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "спальня з зеленим кріслом",
+     "en": "bedroom with green armchair"
+    }
    },
    {
     "file": "14.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "передпокій з лавкою",
+     "en": "hallway with bench"
+    }
    },
    {
     "file": "15.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "передпокій",
+     "en": "hallway"
+    }
    },
    {
     "file": "16.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "ванна кімната з ванною",
+     "en": "bathroom with bathtub"
+    }
    },
    {
     "file": "17.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "ванна кімната з ванною",
+     "en": "bathroom with bathtub"
+    }
    },
    {
     "file": "18.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "ванна кімната з круглим дзеркалом",
+     "en": "bathroom with round mirror"
+    }
    },
    {
     "file": "19.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "умивальник у ванній",
+     "en": "bathroom vanity"
+    }
    },
    {
     "file": "20.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "ванна кімната з накладною раковиною",
+     "en": "bathroom with vessel sink"
+    }
    },
    {
     "file": "21.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "туалет",
+     "en": "toilet"
+    }
    },
    {
     "file": "22.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "туалет з чорною сантехнікою",
+     "en": "toilet with black fixtures"
+    }
    },
    {
     "file": "23.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "туалет",
+     "en": "toilet"
+    }
    },
    {
     "file": "24.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кімната з диваном",
+     "en": "room with sofa"
+    }
    },
    {
     "file": "25.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кабінет з диваном",
+     "en": "study with sofa"
+    }
    },
    {
     "file": "26.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кабінет зі стелажем",
+     "en": "study with bookshelves"
+    }
    },
    {
     "file": "27.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "робоче місце зі стелажем",
+     "en": "workspace with bookshelves"
+    }
    }
   ]
  },
@@ -308,112 +516,200 @@
    {
     "file": "01.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "кухня-вітальня",
+     "en": "kitchen-living room"
+    }
    },
    {
     "file": "03.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня з кутовим диваном",
+     "en": "living room with corner sofa"
+    }
    },
    {
     "file": "04.jpg",
     "w": 3554,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кухня з барною стійкою",
+     "en": "kitchen with bar counter"
+    }
    },
    {
     "file": "05.jpg",
     "w": 3554,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня з кутовим диваном",
+     "en": "living room with corner sofa"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "вітальня",
+     "en": "living room"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "вітальня з телевізором",
+     "en": "living room with TV"
+    }
    },
    {
     "file": "08.jpg",
     "w": 3554,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кухня-вітальня з телевізором",
+     "en": "kitchen-living room with TV"
+    }
    },
    {
     "file": "09.jpg",
     "w": 3554,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня з кутовим диваном",
+     "en": "living room with corner sofa"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "кухня",
+     "en": "kitchen"
+    }
    },
    {
     "file": "11.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "кухня-вітальня",
+     "en": "kitchen-living room"
+    }
    },
    {
     "file": "12.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "передпокій з шафою",
+     "en": "hallway with wardrobe"
+    }
    },
    {
     "file": "13.jpg",
     "w": 3554,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня з телевізором",
+     "en": "living room with TV"
+    }
    },
    {
     "file": "14.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "15.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "16.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "17.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "спальня з робочим місцем",
+     "en": "bedroom with workspace"
+    }
    },
    {
     "file": "18.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "робоче місце з полицями",
+     "en": "workspace with shelves"
+    }
    },
    {
     "file": "19.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "ванна кімната",
+     "en": "bathroom"
+    }
    },
    {
     "file": "20.jpg",
     "w": 3554,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "ванна кімната з ванною",
+     "en": "bathroom with bathtub"
+    }
    },
    {
     "file": "21.jpg",
     "w": 3554,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "ванна кімната з умивальником",
+     "en": "bathroom with vanity"
+    }
    },
    {
     "file": "22.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "ванна кімната з ванною",
+     "en": "bathroom with bathtub"
+    }
    }
   ]
  },
@@ -434,107 +730,191 @@
    {
     "file": "01.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "план будинку",
+     "en": "house floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "передпокій зі сходами",
+     "en": "hallway with staircase"
+    }
    },
    {
     "file": "03.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кухня-вітальня",
+     "en": "kitchen-living room"
+    }
    },
    {
     "file": "04.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кухня з островом",
+     "en": "kitchen with island"
+    }
    },
    {
     "file": "05.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кухня-вітальня з островом",
+     "en": "kitchen-living room with island"
+    }
    },
    {
     "file": "06.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня",
+     "en": "living room"
+    }
    },
    {
     "file": "07.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "обідня зона з каміном",
+     "en": "dining area with fireplace"
+    }
    },
    {
     "file": "08.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня з каміном",
+     "en": "living room with fireplace"
+    }
    },
    {
     "file": "09.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня з видом на кухню",
+     "en": "living room with kitchen view"
+    }
    },
    {
     "file": "10.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кабінет",
+     "en": "study"
+    }
    },
    {
     "file": "11.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кабінет з диваном",
+     "en": "study with sofa"
+    }
    },
    {
     "file": "12.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кабінет з книжковими полицями",
+     "en": "study with bookshelves"
+    }
    },
    {
     "file": "13.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "туалет",
+     "en": "toilet"
+    }
    },
    {
     "file": "14.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "ванна кімната з душем",
+     "en": "bathroom with shower"
+    }
    },
    {
     "file": "15.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "сходовий хол з кам'яною стіною",
+     "en": "stair hall with stone wall"
+    }
    },
    {
     "file": "16.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "сходи",
+     "en": "staircase"
+    }
    },
    {
     "file": "17.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "спальня з дерев'яною стіною",
+     "en": "bedroom with wooden wall"
+    }
    },
    {
     "file": "18.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "спальня з дерев'яною стіною",
+     "en": "bedroom with wooden wall"
+    }
    },
    {
     "file": "19.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "20.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "гардеробна",
+     "en": "walk-in wardrobe"
+    }
    },
    {
     "file": "21.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "ванна кімната з двома дзеркалами",
+     "en": "bathroom with two mirrors"
+    }
    }
   ]
  },
@@ -555,222 +935,398 @@
    {
     "file": "01.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "план поверху",
+     "en": "floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "план поверху",
+     "en": "floor plan"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "спальня з круглим дзеркалом",
+     "en": "bedroom with round mirror"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "спальня з круглим дзеркалом",
+     "en": "bedroom with round mirror"
+    }
    },
    {
     "file": "05.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "08.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "спальня з круглим килимом",
+     "en": "bedroom with round rug"
+    }
    },
    {
     "file": "09.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "гардеробна",
+     "en": "walk-in wardrobe"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "крісло в спальні",
+     "en": "bedroom armchair"
+    }
    },
    {
     "file": "11.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "гардеробна",
+     "en": "walk-in wardrobe"
+    }
    },
    {
     "file": "12.jpg",
     "w": 711,
-    "h": 1000
+    "h": 1000,
+    "label": {
+     "uk": "ванна кімната",
+     "en": "bathroom"
+    }
    },
    {
     "file": "13.jpg",
     "w": 711,
-    "h": 1000
+    "h": 1000,
+    "label": {
+     "uk": "ванна кімната з круглим дзеркалом",
+     "en": "bathroom with round mirror"
+    }
    },
    {
     "file": "14.jpg",
     "w": 711,
-    "h": 1000
+    "h": 1000,
+    "label": {
+     "uk": "раковина у ванній",
+     "en": "bathroom sink"
+    }
    },
    {
     "file": "15.jpg",
     "w": 711,
-    "h": 1000
+    "h": 1000,
+    "label": {
+     "uk": "ванна кімната з душем",
+     "en": "bathroom with shower"
+    }
    },
    {
     "file": "16.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "дитяча кімната",
+     "en": "children's room"
+    }
    },
    {
     "file": "17.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "дитяча кімната зі скеледромом",
+     "en": "children's room with climbing wall"
+    }
    },
    {
     "file": "18.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "дитяча кімната з робочим столом",
+     "en": "children's room with desk"
+    }
    },
    {
     "file": "19.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "дитяча кімната",
+     "en": "children's room"
+    }
    },
    {
     "file": "20.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "робоче місце в дитячій",
+     "en": "desk in children's room"
+    }
    },
    {
     "file": "21.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "дитяча кімната зі скеледромом",
+     "en": "children's room with climbing wall"
+    }
    },
    {
     "file": "22.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "ліжко в дитячій",
+     "en": "bed in children's room"
+    }
    },
    {
     "file": "23.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "дитяча кімната",
+     "en": "children's room"
+    }
    },
    {
     "file": "24.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "гардеробна",
+     "en": "walk-in wardrobe"
+    }
    },
    {
     "file": "25.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "гардеробна",
+     "en": "walk-in wardrobe"
+    }
    },
    {
     "file": "26.jpg",
     "w": 711,
-    "h": 1000
+    "h": 1000,
+    "label": {
+     "uk": "ванна кімната з темною плиткою",
+     "en": "bathroom with dark tiles"
+    }
    },
    {
     "file": "27.jpg",
     "w": 711,
-    "h": 1000
+    "h": 1000,
+    "label": {
+     "uk": "ванна кімната з овальними дзеркалами",
+     "en": "bathroom with oval mirrors"
+    }
    },
    {
     "file": "28.jpg",
     "w": 711,
-    "h": 1000
+    "h": 1000,
+    "label": {
+     "uk": "ванна кімната",
+     "en": "bathroom"
+    }
    },
    {
     "file": "29.jpg",
     "w": 711,
-    "h": 1000
+    "h": 1000,
+    "label": {
+     "uk": "раковина у ванній",
+     "en": "bathroom sink"
+    }
    },
    {
     "file": "30.jpg",
     "w": 711,
-    "h": 1000
+    "h": 1000,
+    "label": {
+     "uk": "душова",
+     "en": "shower"
+    }
    },
    {
     "file": "31.jpg",
     "w": 711,
-    "h": 1000
+    "h": 1000,
+    "label": {
+     "uk": "кухня з барною стійкою",
+     "en": "kitchen with bar counter"
+    }
    },
    {
     "file": "32.jpg",
     "w": 711,
-    "h": 1000
+    "h": 1000,
+    "label": {
+     "uk": "кухня",
+     "en": "kitchen"
+    }
    },
    {
     "file": "33.jpg",
     "w": 711,
-    "h": 1000
+    "h": 1000,
+    "label": {
+     "uk": "кухня з барною стійкою",
+     "en": "kitchen with bar counter"
+    }
    },
    {
     "file": "34.jpg",
     "w": 1000,
-    "h": 711
+    "h": 711,
+    "label": {
+     "uk": "обідня зона",
+     "en": "dining area"
+    }
    },
    {
     "file": "35.jpg",
     "w": 711,
-    "h": 1000
+    "h": 1000,
+    "label": {
+     "uk": "обідня зона",
+     "en": "dining area"
+    }
    },
    {
     "file": "36.jpg",
     "w": 711,
-    "h": 1000
+    "h": 1000,
+    "label": {
+     "uk": "обідня зона",
+     "en": "dining area"
+    }
    },
    {
     "file": "37.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "вітальня з каміном",
+     "en": "living room with fireplace"
+    }
    },
    {
     "file": "38.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "вітальня з кутовим диваном",
+     "en": "living room with corner sofa"
+    }
    },
    {
     "file": "39.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "вітальня",
+     "en": "living room"
+    }
    },
    {
     "file": "40.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "вітальня з кутовим диваном",
+     "en": "living room with corner sofa"
+    }
    },
    {
     "file": "41.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "вітальня з каміном",
+     "en": "living room with fireplace"
+    }
    },
    {
     "file": "42.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "вітальня з каміном",
+     "en": "living room with fireplace"
+    }
    },
    {
     "file": "43.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "передпокій з шафою",
+     "en": "hallway with wardrobe"
+    }
    },
    {
     "file": "44.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "передпокій",
+     "en": "hallway"
+    }
    }
   ]
  },
@@ -791,112 +1347,200 @@
    {
     "file": "01.jpg",
     "w": 854,
-    "h": 607
+    "h": 607,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "передпокій з дзеркалом",
+     "en": "hallway with mirror"
+    }
    },
    {
     "file": "03.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "передпокій",
+     "en": "hallway"
+    }
    },
    {
     "file": "04.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "кухня-вітальня",
+     "en": "kitchen-living room"
+    }
    },
    {
     "file": "05.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "кухня-вітальня",
+     "en": "kitchen-living room"
+    }
    },
    {
     "file": "06.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "вітальня з обідньою зоною",
+     "en": "living room with dining area"
+    }
    },
    {
     "file": "07.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "вітальня з каміном",
+     "en": "living room with fireplace"
+    }
    },
    {
     "file": "08.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "обідній стіл",
+     "en": "dining table"
+    }
    },
    {
     "file": "09.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "вітальня з каміном",
+     "en": "living room with fireplace"
+    }
    },
    {
     "file": "10.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "спальня з декором на стіні",
+     "en": "bedroom with wall decor"
+    }
    },
    {
     "file": "11.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "12.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "спальня з телевізором",
+     "en": "bedroom with TV"
+    }
    },
    {
     "file": "13.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "спальня з овальним дзеркалом",
+     "en": "bedroom with oval mirror"
+    }
    },
    {
     "file": "14.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "15.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "спальня з робочим місцем",
+     "en": "bedroom with workspace"
+    }
    },
    {
     "file": "16.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "спальня з постерами",
+     "en": "bedroom with posters"
+    }
    },
    {
     "file": "17.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "спальня з постерами",
+     "en": "bedroom with posters"
+    }
    },
    {
     "file": "18.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "19.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "ванна кімната з ванною",
+     "en": "bathroom with bathtub"
+    }
    },
    {
     "file": "20.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "ванна кімната з душем",
+     "en": "bathroom with shower"
+    }
    },
    {
     "file": "21.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "ванна кімната",
+     "en": "bathroom"
+    }
    },
    {
     "file": "22.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "ванна кімната з ванною",
+     "en": "bathroom with bathtub"
+    }
    }
   ]
  },
@@ -917,102 +1561,182 @@
    {
     "file": "01.jpg",
     "w": 1067,
-    "h": 759
+    "h": 759,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2222,
-    "h": 1580
+    "h": 1580,
+    "label": {
+     "uk": "вітальня з обідньою зоною",
+     "en": "living room with dining area"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2222,
-    "h": 1580
+    "h": 1580,
+    "label": {
+     "uk": "кухня-вітальня",
+     "en": "kitchen-living room"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2222,
-    "h": 1580
+    "h": 1580,
+    "label": {
+     "uk": "кухня-вітальня з островом",
+     "en": "kitchen-living room with island"
+    }
    },
    {
     "file": "05.jpg",
     "w": 2222,
-    "h": 1580
+    "h": 1580,
+    "label": {
+     "uk": "кухня-вітальня з островом",
+     "en": "kitchen-living room with island"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2222,
-    "h": 1580
+    "h": 1580,
+    "label": {
+     "uk": "кухня з островом",
+     "en": "kitchen with island"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2222,
-    "h": 1580
+    "h": 1580,
+    "label": {
+     "uk": "вітальня з мармуровою стіною",
+     "en": "living room with marble wall"
+    }
    },
    {
     "file": "08.jpg",
     "w": 2222,
-    "h": 1580
+    "h": 1580,
+    "label": {
+     "uk": "вітальня з мармуровою стіною",
+     "en": "living room with marble wall"
+    }
    },
    {
     "file": "09.jpg",
     "w": 2222,
-    "h": 1580
+    "h": 1580,
+    "label": {
+     "uk": "вітальня",
+     "en": "living room"
+    }
    },
    {
     "file": "10.jpg",
     "w": 1754,
-    "h": 1240
+    "h": 1240,
+    "label": {
+     "uk": "туалет з темною плиткою",
+     "en": "toilet with dark tiles"
+    }
    },
    {
     "file": "11.jpg",
     "w": 802,
-    "h": 1003
+    "h": 1003,
+    "label": {
+     "uk": "туалет",
+     "en": "toilet"
+    }
    },
    {
     "file": "12.jpg",
     "w": 2222,
-    "h": 1580
+    "h": 1580,
+    "label": {
+     "uk": "передпокій з шафою",
+     "en": "hallway with wardrobe"
+    }
    },
    {
     "file": "13.jpg",
     "w": 2222,
-    "h": 1580
+    "h": 1580,
+    "label": {
+     "uk": "спальня з мармуровою стіною",
+     "en": "bedroom with marble wall"
+    }
    },
    {
     "file": "14.jpg",
     "w": 2200,
-    "h": 1564
+    "h": 1564,
+    "label": {
+     "uk": "спальня з мармуровою стіною",
+     "en": "bedroom with marble wall"
+    }
    },
    {
     "file": "15.jpg",
     "w": 2222,
-    "h": 1580
+    "h": 1580,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "16.jpg",
     "w": 2222,
-    "h": 1580
+    "h": 1580,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "17.jpg",
     "w": 2222,
-    "h": 1580
+    "h": 1580,
+    "label": {
+     "uk": "спальня з полицями",
+     "en": "bedroom with shelving"
+    }
    },
    {
     "file": "18.jpg",
     "w": 2222,
-    "h": 1580
+    "h": 1580,
+    "label": {
+     "uk": "спальня з телевізором",
+     "en": "bedroom with TV"
+    }
    },
    {
     "file": "19.jpg",
     "w": 7407,
-    "h": 5267
+    "h": 5267,
+    "label": {
+     "uk": "ванна кімната з душем",
+     "en": "bathroom with shower"
+    }
    },
    {
     "file": "20.jpg",
     "w": 7407,
-    "h": 5267
+    "h": 5267,
+    "label": {
+     "uk": "ванна кімната з мармуровими стінами",
+     "en": "bathroom with marble walls"
+    }
    }
   ]
  },
@@ -1033,32 +1757,56 @@
    {
     "file": "01.jpg",
     "w": 851,
-    "h": 605
+    "h": 605,
+    "label": {
+     "uk": "план магазину",
+     "en": "store floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 1772,
-    "h": 1259
+    "h": 1259,
+    "label": {
+     "uk": "торговий зал магазину одягу",
+     "en": "clothing store sales floor"
+    }
    },
    {
     "file": "03.jpg",
     "w": 1772,
-    "h": 1259
+    "h": 1259,
+    "label": {
+     "uk": "торговий зал з касою",
+     "en": "sales floor with checkout counter"
+    }
    },
    {
     "file": "04.jpg",
     "w": 1772,
-    "h": 1259
+    "h": 1259,
+    "label": {
+     "uk": "торговий зал з вішаками",
+     "en": "sales floor with clothing racks"
+    }
    },
    {
     "file": "05.jpg",
     "w": 1772,
-    "h": 1259
+    "h": 1259,
+    "label": {
+     "uk": "торговий зал з вішаками",
+     "en": "sales floor with clothing racks"
+    }
    },
    {
     "file": "06.jpg",
     "w": 1772,
-    "h": 1259
+    "h": 1259,
+    "label": {
+     "uk": "торговий зал",
+     "en": "sales floor"
+    }
    }
   ]
  },
@@ -1079,112 +1827,200 @@
    {
     "file": "01.jpg",
     "w": 3000,
-    "h": 2121
+    "h": 2121,
+    "label": {
+     "uk": "план будинку",
+     "en": "house floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "кухня-вітальня",
+     "en": "kitchen-living room"
+    }
    },
    {
     "file": "03.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "вітальня",
+     "en": "living room"
+    }
    },
    {
     "file": "04.jpg",
     "w": 3508,
-    "h": 2096
+    "h": 2096,
+    "label": {
+     "uk": "вітальня з обідньою зоною",
+     "en": "living room with dining area"
+    }
    },
    {
     "file": "05.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "кухня-вітальня",
+     "en": "kitchen-living room"
+    }
    },
    {
     "file": "06.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "кухня",
+     "en": "kitchen"
+    }
    },
    {
     "file": "07.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "туалет з підсвіченим дзеркалом",
+     "en": "toilet with backlit mirror"
+    }
    },
    {
     "file": "08.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "сходи з кам'яною стіною",
+     "en": "staircase with stone wall"
+    }
    },
    {
     "file": "09.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "ванна кімната з окремою ванною",
+     "en": "bathroom with freestanding bathtub"
+    }
    },
    {
     "file": "10.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "ванна кімната",
+     "en": "bathroom"
+    }
    },
    {
     "file": "11.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "спальня з дерев'яною стіною",
+     "en": "bedroom with wooden wall"
+    }
    },
    {
     "file": "12.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "13.jpg",
     "w": 2908,
-    "h": 2056
+    "h": 2056,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "14.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "гардеробна",
+     "en": "walk-in wardrobe"
+    }
    },
    {
     "file": "15.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "дитяча кімната з хмаринками",
+     "en": "children's room with clouds"
+    }
    },
    {
     "file": "16.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "дитяча кімната",
+     "en": "children's room"
+    }
    },
    {
     "file": "17.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "дитяча кімната",
+     "en": "children's room"
+    }
    },
    {
     "file": "18.jpg",
     "w": 1325,
-    "h": 2105
+    "h": 2105,
+    "label": {
+     "uk": "дитяча кімната з кріслом",
+     "en": "children's room with armchair"
+    }
    },
    {
     "file": "19.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "дитяча кімната з фламінго",
+     "en": "children's room with flamingos"
+    }
    },
    {
     "file": "20.jpg",
     "w": 3000,
-    "h": 2121
+    "h": 2121,
+    "label": {
+     "uk": "ігрова зона",
+     "en": "play area"
+    }
    },
    {
     "file": "21.jpg",
     "w": 3000,
-    "h": 2121
+    "h": 2121,
+    "label": {
+     "uk": "тераса з басейном",
+     "en": "terrace with pool"
+    }
    },
    {
     "file": "22.jpg",
     "w": 3000,
-    "h": 2121
+    "h": 2121,
+    "label": {
+     "uk": "двір з басейном",
+     "en": "backyard with pool"
+    }
    }
   ]
  },
@@ -1205,27 +2041,47 @@
    {
     "file": "01.jpg",
     "w": 889,
-    "h": 632
+    "h": 632,
+    "label": {
+     "uk": "зал кафе-морозива з вітриною",
+     "en": "ice cream parlour with counter"
+    }
    },
    {
     "file": "02.jpg",
     "w": 889,
-    "h": 632
+    "h": 632,
+    "label": {
+     "uk": "кафе зі смугастою маркізою",
+     "en": "cafe seating by striped awning"
+    }
    },
    {
     "file": "03.jpg",
     "w": 889,
-    "h": 632
+    "h": 632,
+    "label": {
+     "uk": "зал кафе з рожевими диванами",
+     "en": "cafe hall with pink banquettes"
+    }
    },
    {
     "file": "04.jpg",
     "w": 889,
-    "h": 632
+    "h": 632,
+    "label": {
+     "uk": "фасад кафе з маркізою",
+     "en": "cafe facade with striped awning"
+    }
    },
    {
     "file": "05.jpg",
     "w": 889,
-    "h": 632
+    "h": 632,
+    "label": {
+     "uk": "вхід у кафе з літнім майданчиком",
+     "en": "cafe entrance with outdoor seating"
+    }
    }
   ]
  },
@@ -1246,157 +2102,281 @@
    {
     "file": "01.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "план першого поверху",
+     "en": "ground floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "план другого поверху",
+     "en": "upper floor plan"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "кухня з обідньою зоною",
+     "en": "kitchen with dining area"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "кухня з вбудованою технікою",
+     "en": "kitchen with built-in appliances"
+    }
    },
    {
     "file": "05.jpg",
     "w": 1756,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "обідня зона",
+     "en": "dining area"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "обідня зона з підвісними світильниками",
+     "en": "dining area with pendant lights"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "вітальня з каміном",
+     "en": "living room with fireplace"
+    }
    },
    {
     "file": "08.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "вітальня з кутовим диваном",
+     "en": "living room with corner sofa"
+    }
    },
    {
     "file": "09.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "вітальня зі стелажами",
+     "en": "living room with shelving"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "вітальня з журнальними столиками",
+     "en": "living room with coffee tables"
+    }
    },
    {
     "file": "11.jpg",
     "w": 1752,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "передпокій з дзеркалом",
+     "en": "hallway with mirror"
+    }
    },
    {
     "file": "12.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "передпокій з шафою",
+     "en": "hallway with wardrobe"
+    }
    },
    {
     "file": "13.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "хол зі сходами",
+     "en": "hall with staircase"
+    }
    },
    {
     "file": "14.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "хол другого поверху",
+     "en": "upper floor landing"
+    }
    },
    {
     "file": "15.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "коридор",
+     "en": "corridor"
+    }
    },
    {
     "file": "16.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "коридор з вбудованими полицями",
+     "en": "corridor with built-in shelves"
+    }
    },
    {
     "file": "17.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "ванна кімната з душем",
+     "en": "bathroom with shower"
+    }
    },
    {
     "file": "18.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "ванна кімната з круглим дзеркалом",
+     "en": "bathroom with round mirror"
+    }
    },
    {
     "file": "19.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "спальня з дерев'яними балками",
+     "en": "bedroom with wooden beams"
+    }
    },
    {
     "file": "20.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "спальня з туалетним столиком",
+     "en": "bedroom with dressing table"
+    }
    },
    {
     "file": "21.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "мансардна спальня",
+     "en": "attic bedroom"
+    }
    },
    {
     "file": "22.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "спальня з гардеробом",
+     "en": "bedroom with wardrobe"
+    }
    },
    {
     "file": "23.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "ванна кімната з окремою ванною",
+     "en": "bathroom with freestanding bathtub"
+    }
    },
    {
     "file": "24.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "ванна кімната з рушникосушкою",
+     "en": "bathroom with towel radiator"
+    }
    },
    {
     "file": "25.jpg",
     "w": 1758,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "санвузол",
+     "en": "toilet room"
+    }
    },
    {
     "file": "26.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "ванна кімната з дерев'яною стіною",
+     "en": "bathroom with wood-panelled wall"
+    }
    },
    {
     "file": "27.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "кімната підлітка з робочим місцем",
+     "en": "teenager's room with desk"
+    }
    },
    {
     "file": "28.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "кімната підлітка з графічною стіною",
+     "en": "teenager's room with graphic wall"
+    }
    },
    {
     "file": "29.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "кімната підлітка з шафою",
+     "en": "teenager's room with wardrobe"
+    }
    },
    {
     "file": "30.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "дитяча кімната з робочим столом",
+     "en": "children's room with desk"
+    }
    },
    {
     "file": "31.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "дитяча кімната з картою світу",
+     "en": "children's room with world map"
+    }
    }
   ]
  },
@@ -1417,52 +2397,92 @@
    {
     "file": "01.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "кухня-вітальня",
+     "en": "kitchen-living room"
+    }
    },
    {
     "file": "02.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "вітальня з сірим диваном",
+     "en": "living room with grey sofa"
+    }
    },
    {
     "file": "03.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "кухня з обіднім столом",
+     "en": "kitchen with dining table"
+    }
    },
    {
     "file": "04.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "дитяча кімната з рожевою стіною",
+     "en": "children's room with pink wall"
+    }
    },
    {
     "file": "05.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "дитяча з ліжком-горищем",
+     "en": "children's room with loft bed"
+    }
    },
    {
     "file": "06.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "дитяча з робочим місцем",
+     "en": "children's room with desk"
+    }
    },
    {
     "file": "07.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "ванна кімната з нішами",
+     "en": "bathroom with niche shelving"
+    }
    },
    {
     "file": "08.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "спальня з робочим столом",
+     "en": "bedroom with desk"
+    }
    },
    {
     "file": "09.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "спальня біля вікна",
+     "en": "bedroom by the window"
+    }
    },
    {
     "file": "10.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "спальня з туалетним столиком",
+     "en": "bedroom with dressing table"
+    }
    }
   ]
  },
@@ -1483,117 +2503,209 @@
    {
     "file": "01.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "план першого поверху",
+     "en": "ground floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "план другого поверху",
+     "en": "upper floor plan"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "коридор з дерев'яною підлогою",
+     "en": "hallway with wooden floor"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "санвузол з душовою",
+     "en": "bathroom with shower"
+    }
    },
    {
     "file": "05.jpg",
     "w": 1393,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "санвузол",
+     "en": "toilet room"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "вітальня зі сходами",
+     "en": "living room with staircase"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "вітальня з дерев'яною стіною",
+     "en": "living room with wood-panelled wall"
+    }
    },
    {
     "file": "08.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "вітальня з обіднім столом",
+     "en": "living room with dining table"
+    }
    },
    {
     "file": "09.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "кухня з барною стійкою",
+     "en": "kitchen with breakfast bar"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "кухня-їдальня",
+     "en": "kitchen-dining room"
+    }
    },
    {
     "file": "11.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "спальня з телевізором",
+     "en": "bedroom with TV"
+    }
    },
    {
     "file": "12.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "спальня з дитячим ліжечком",
+     "en": "bedroom with baby cot"
+    }
    },
    {
     "file": "13.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "спальня з шафою",
+     "en": "bedroom with wardrobe"
+    }
    },
    {
     "file": "14.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "дитяча з робочим місцем",
+     "en": "children's room with desk"
+    }
    },
    {
     "file": "15.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "дитяча з вігвамом",
+     "en": "children's room with teepee"
+    }
    },
    {
     "file": "16.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "дитяча з двоярусним ліжком",
+     "en": "children's room with bunk bed"
+    }
    },
    {
     "file": "17.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "кабінет з тренажером",
+     "en": "home office with exercise bike"
+    }
    },
    {
     "file": "18.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "спортзона з тренажерами",
+     "en": "home gym area"
+    }
    },
    {
     "file": "19.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "кімната відпочинку з гітарами",
+     "en": "lounge with guitars on wall"
+    }
    },
    {
     "file": "20.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "гардеробна",
+     "en": "walk-in wardrobe"
+    }
    },
    {
     "file": "21.jpg",
     "w": 2241,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "ванна кімната з пральною машиною",
+     "en": "bathroom with washing machine"
+    }
    },
    {
     "file": "22.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "ванна кімната з біде",
+     "en": "bathroom with bidet"
+    }
    },
    {
     "file": "23.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "ванна кімната з кутовою ванною",
+     "en": "bathroom with corner bathtub"
+    }
    }
   ]
  },
@@ -1614,202 +2726,362 @@
    {
     "file": "01.jpg",
     "w": 2880,
-    "h": 2028
+    "h": 2028,
+    "label": {
+     "uk": "план офісу",
+     "en": "office floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "рецепція",
+     "en": "reception"
+    }
    },
    {
     "file": "03.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "рецепція з кавомашиною",
+     "en": "reception with coffee machine"
+    }
    },
    {
     "file": "04.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "рецепція з логотипом",
+     "en": "reception with logo wall"
+    }
    },
    {
     "file": "05.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "зона очікування",
+     "en": "waiting area"
+    }
    },
    {
     "file": "06.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "лаунж з деревом у кадці",
+     "en": "lounge with potted tree"
+    }
    },
    {
     "file": "07.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "коридор",
+     "en": "corridor"
+    }
    },
    {
     "file": "08.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "скляний бокс переговорної",
+     "en": "glass meeting pod"
+    }
    },
    {
     "file": "09.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "переговорна зі скляною стіною",
+     "en": "meeting room with glass wall"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "переговорна з телевізором",
+     "en": "meeting room with TV screen"
+    }
    },
    {
     "file": "11.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "переговорна з білим столом",
+     "en": "meeting room with white table"
+    }
    },
    {
     "file": "12.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "скляна переговорна",
+     "en": "glass meeting room"
+    }
    },
    {
     "file": "13.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "конференц-зал з помаранчевою стіною",
+     "en": "conference room with orange wall"
+    }
    },
    {
     "file": "14.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "опенспейс",
+     "en": "open-plan office"
+    }
    },
    {
     "file": "15.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "опенспейс з пуфами",
+     "en": "open-plan office with poufs"
+    }
    },
    {
     "file": "16.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "зона відпочинку в опенспейсі",
+     "en": "lounge area in open-plan office"
+    }
    },
    {
     "file": "17.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "опенспейс з робочими місцями",
+     "en": "open-plan office with workstations"
+    }
    },
    {
     "file": "18.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "ряди робочих місць",
+     "en": "rows of workstations"
+    }
    },
    {
     "file": "19.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "опенспейс",
+     "en": "open-plan office"
+    }
    },
    {
     "file": "20.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "опенспейс зі скляними перегородками",
+     "en": "open-plan office with glass partitions"
+    }
    },
    {
     "file": "21.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "робочі місця біля вікон",
+     "en": "workstations by windows"
+    }
    },
    {
     "file": "22.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "кухня для персоналу",
+     "en": "staff kitchen"
+    }
    },
    {
     "file": "23.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "їдальня з барною стійкою",
+     "en": "dining area with bar counter"
+    }
    },
    {
     "file": "24.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "зона відпочинку з телевізором",
+     "en": "break area with TV"
+    }
    },
    {
     "file": "25.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "кухня-їдальня",
+     "en": "staff dining area"
+    }
    },
    {
     "file": "26.jpg",
     "w": 1600,
-    "h": 2250
+    "h": 2250,
+    "label": {
+     "uk": "вбиральня з умивальниками",
+     "en": "restroom with washbasins"
+    }
    },
    {
     "file": "27.jpg",
     "w": 2250,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "чоловіча вбиральня",
+     "en": "men's restroom"
+    }
    },
    {
     "file": "28.jpg",
     "w": 1600,
-    "h": 2250
+    "h": 2250,
+    "label": {
+     "uk": "вбиральня з арковими дзеркалами",
+     "en": "restroom with arched mirrors"
+    }
    },
    {
     "file": "29.jpg",
     "w": 2250,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "вбиральня з кабінками",
+     "en": "restroom with stalls"
+    }
    },
    {
     "file": "30.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "скляні переговорні",
+     "en": "glass meeting rooms"
+    }
    },
    {
     "file": "31.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "лаунж біля панорамних вікон",
+     "en": "lounge by panoramic windows"
+    }
    },
    {
     "file": "32.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "опенспейс",
+     "en": "open-plan office"
+    }
    },
    {
     "file": "33.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "робоче місце з акустичною перегородкою",
+     "en": "workstation with acoustic panel"
+    }
    },
    {
     "file": "34.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "акустичні кабінки",
+     "en": "acoustic booths"
+    }
    },
    {
     "file": "35.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "акустична кабінка з диваном",
+     "en": "acoustic booth with sofa"
+    }
    },
    {
     "file": "36.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "опенспейс",
+     "en": "open-plan office"
+    }
    },
    {
     "file": "37.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "робочі місця біля вікон",
+     "en": "workstations by windows"
+    }
    },
    {
     "file": "38.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "опенспейс зі скляними перегородками",
+     "en": "open-plan office with glass partitions"
+    }
    },
    {
     "file": "39.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "ряди робочих місць",
+     "en": "rows of workstations"
+    }
    },
    {
     "file": "40.jpg",
     "w": 1500,
-    "h": 1067
+    "h": 1067,
+    "label": {
+     "uk": "опенспейс",
+     "en": "open-plan office"
+    }
    }
   ]
  },
@@ -1830,32 +3102,56 @@
    {
     "file": "01.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "барна стійка з високими стільцями",
+     "en": "bar counter with high stools"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "зал кафе з барною стійкою",
+     "en": "cafe hall with bar counter"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "зал кафе з арками",
+     "en": "cafe hall with arches"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "зала з рожевими кріслами",
+     "en": "seating with pink armchairs"
+    }
    },
    {
     "file": "05.jpg",
     "w": 2880,
-    "h": 2048
+    "h": 2048,
+    "label": {
+     "uk": "зала з м'якими диванами",
+     "en": "cafe seating with banquettes"
+    }
    },
    {
     "file": "06.jpg",
     "w": 1799,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "коридор з круглими дзеркалами",
+     "en": "corridor with round mirrors"
+    }
    }
   ]
  },
@@ -1876,52 +3172,92 @@
    {
     "file": "01.jpg",
     "w": 854,
-    "h": 607
+    "h": 607,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "коридор",
+     "en": "hallway"
+    }
    },
    {
     "file": "03.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "кухня-вітальня",
+     "en": "kitchen-living room"
+    }
    },
    {
     "file": "04.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "студія з ліжком",
+     "en": "studio with bed"
+    }
    },
    {
     "file": "05.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "вітальня з обіднім столом",
+     "en": "living room with dining table"
+    }
    },
    {
     "file": "06.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "кухня з обідньою зоною",
+     "en": "kitchen with dining area"
+    }
    },
    {
     "file": "07.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "студія з кухнею і ліжком",
+     "en": "studio with kitchen and bed"
+    }
    },
    {
     "file": "08.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "кухня-вітальня з диваном",
+     "en": "kitchen-living room with sofa"
+    }
    },
    {
     "file": "09.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "кухня-вітальня зі спальним місцем",
+     "en": "kitchen-living room with sleeping area"
+    }
    },
    {
     "file": "10.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "ванна кімната з душовою",
+     "en": "bathroom with shower"
+    }
    }
   ]
  },
@@ -1942,102 +3278,182 @@
    {
     "file": "01.jpg",
     "w": 3507,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "кухня-вітальня з другим світлом",
+     "en": "kitchen-living room with double-height ceiling"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2500,
-    "h": 1768
+    "h": 1768,
+    "label": {
+     "uk": "кухня зі сходами",
+     "en": "kitchen with staircase"
+    }
    },
    {
     "file": "03.jpg",
     "w": 3000,
-    "h": 2122
+    "h": 2122,
+    "label": {
+     "uk": "кухня з консольними сходами",
+     "en": "kitchen with floating staircase"
+    }
    },
    {
     "file": "04.jpg",
     "w": 3000,
-    "h": 2122
+    "h": 2122,
+    "label": {
+     "uk": "кухня з вбудованою технікою",
+     "en": "kitchen with built-in appliances"
+    }
    },
    {
     "file": "05.jpg",
     "w": 3000,
-    "h": 2122
+    "h": 2122,
+    "label": {
+     "uk": "передпокій",
+     "en": "hallway"
+    }
    },
    {
     "file": "06.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "спальня з телевізором",
+     "en": "bedroom with TV"
+    }
    },
    {
     "file": "07.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "спальня з туалетним столиком",
+     "en": "bedroom with dressing table"
+    }
    },
    {
     "file": "08.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "спальня з зеленим покривалом",
+     "en": "bedroom with green bedspread"
+    }
    },
    {
     "file": "09.jpg",
     "w": 2442,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "санвузол з умивальником",
+     "en": "toilet room with washbasin"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2392,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "ванна кімната з ванною",
+     "en": "bathroom with bathtub"
+    }
    },
    {
     "file": "11.jpg",
     "w": 1923,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "сходи на антресоль",
+     "en": "staircase to mezzanine"
+    }
    },
    {
     "file": "12.jpg",
     "w": 3000,
-    "h": 2122
+    "h": 2122,
+    "label": {
+     "uk": "антресоль зі стелажами",
+     "en": "mezzanine with bookshelves"
+    }
    },
    {
     "file": "13.jpg",
     "w": 3000,
-    "h": 2122
+    "h": 2122,
+    "label": {
+     "uk": "спальня з сірим ліжком",
+     "en": "bedroom with grey bed"
+    }
    },
    {
     "file": "14.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "спальня з підвісним світильником",
+     "en": "bedroom with pendant lamp"
+    }
    },
    {
     "file": "15.jpg",
     "w": 3000,
-    "h": 2122
+    "h": 2122,
+    "label": {
+     "uk": "спальня з торшером",
+     "en": "bedroom with floor lamp"
+    }
    },
    {
     "file": "16.jpg",
     "w": 3500,
-    "h": 2475
+    "h": 2475,
+    "label": {
+     "uk": "спальня зі скляною перегородкою",
+     "en": "bedroom with glass partition"
+    }
    },
    {
     "file": "17.jpg",
     "w": 2464,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "ванна кімната з душем",
+     "en": "bathroom with shower"
+    }
    },
    {
     "file": "18.jpg",
     "w": 2418,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "душова зі скляною перегородкою",
+     "en": "shower with glass screen"
+    }
    },
    {
     "file": "19.jpg",
     "w": 923,
-    "h": 1149
+    "h": 1149,
+    "label": {
+     "uk": "балкон з підвісним кріслом",
+     "en": "balcony with hanging chair"
+    }
    },
    {
     "file": "20.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "гардеробна",
+     "en": "walk-in wardrobe"
+    }
    }
   ]
  },
@@ -2058,77 +3474,137 @@
    {
     "file": "01.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "передпокій з лавкою",
+     "en": "hallway with bench"
+    }
    },
    {
     "file": "03.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "кухня з обіднім столом",
+     "en": "kitchen with dining table"
+    }
    },
    {
     "file": "04.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "барна стійка біля вікна",
+     "en": "bar counter by the window"
+    }
    },
    {
     "file": "05.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "вітальня з телевізором",
+     "en": "living room with TV"
+    }
    },
    {
     "file": "06.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "вітальня з кутовим диваном",
+     "en": "living room with corner sofa"
+    }
    },
    {
     "file": "07.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "вітальня зі стелажем",
+     "en": "living room with shelving unit"
+    }
    },
    {
     "file": "08.jpg",
     "w": 516,
-    "h": 638
+    "h": 638,
+    "label": {
+     "uk": "ніша з диваном",
+     "en": "sofa nook"
+    }
    },
    {
     "file": "09.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "робоче місце біля вікна",
+     "en": "workspace by the window"
+    }
    },
    {
     "file": "10.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "ванна кімната з круглим дзеркалом",
+     "en": "bathroom with round mirror"
+    }
    },
    {
     "file": "11.jpg",
     "w": 3600,
-    "h": 3000
+    "h": 3000,
+    "label": {
+     "uk": "ванна кімната з ванною",
+     "en": "bathroom with bathtub"
+    }
    },
    {
     "file": "12.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "дитяча кімната",
+     "en": "children's room"
+    }
    },
    {
     "file": "13.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "дитяча з ліжком-будиночком",
+     "en": "children's room with house bed"
+    }
    },
    {
     "file": "14.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "дитяча з робочим столом",
+     "en": "children's room with desk"
+    }
    },
    {
     "file": "15.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "дитяча з гірляндою",
+     "en": "children's room with bunting"
+    }
    }
   ]
  },
@@ -2149,47 +3625,83 @@
    {
     "file": "01.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "кухня з цегляною стіною",
+     "en": "kitchen with brick wall"
+    }
    },
    {
     "file": "02.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "вітальня з дерев'яними сходами",
+     "en": "living room with wooden staircase"
+    }
    },
    {
     "file": "03.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "вітальня з книжковими стелажами",
+     "en": "living room with bookshelves"
+    }
    },
    {
     "file": "04.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "вітальня, вигляд згори",
+     "en": "living room, top view"
+    }
    },
    {
     "file": "05.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "передпокій зі сходами",
+     "en": "hallway with staircase"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2750,
-    "h": 2400
+    "h": 2400,
+    "label": {
+     "uk": "спальня з цегляною стіною",
+     "en": "bedroom with brick wall"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2799,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "спальня, вигляд згори",
+     "en": "bedroom, top view"
+    }
    },
    {
     "file": "08.jpg",
     "w": 2320,
-    "h": 3396
+    "h": 3396,
+    "label": {
+     "uk": "спальня з каміном",
+     "en": "bedroom with fireplace"
+    }
    },
    {
     "file": "09.jpg",
     "w": 2799,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "робоче місце на антресолі",
+     "en": "mezzanine workspace"
+    }
    }
   ]
  },
@@ -2210,102 +3722,182 @@
    {
     "file": "01.jpg",
     "w": 2133,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "передпокій",
+     "en": "hallway"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2133,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "передпокій з полицями",
+     "en": "hallway with shelves"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2046,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "вітальня з кутовим диваном",
+     "en": "living room with corner sofa"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2133,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "вітальня з обідньою зоною",
+     "en": "living room with dining area"
+    }
    },
    {
     "file": "05.jpg",
     "w": 2133,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "кухня з підсвіткою",
+     "en": "kitchen with lighting"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2133,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "кухня з барною стійкою",
+     "en": "kitchen with bar counter"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2133,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "вітальня зі сходами",
+     "en": "living room with staircase"
+    }
    },
    {
     "file": "08.jpg",
     "w": 1506,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "ванна кімната з фітостіною",
+     "en": "bathroom with green wall"
+    }
    },
    {
     "file": "09.jpg",
     "w": 2133,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "гардеробна з пральною машиною",
+     "en": "walk-in wardrobe with washer"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2133,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "гардеробна",
+     "en": "walk-in wardrobe"
+    }
    },
    {
     "file": "11.jpg",
     "w": 2560,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "вітальня з синім диваном",
+     "en": "living room with blue sofa"
+    }
    },
    {
     "file": "12.jpg",
     "w": 2560,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "вітальня з телевізором",
+     "en": "living room with TV"
+    }
    },
    {
     "file": "13.jpg",
     "w": 2560,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "вітальня",
+     "en": "living room"
+    }
    },
    {
     "file": "14.jpg",
     "w": 2560,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "спальня з м'яким узголів'ям",
+     "en": "bedroom with upholstered headboard"
+    }
    },
    {
     "file": "15.jpg",
     "w": 2560,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "16.jpg",
     "w": 2560,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "спальня з телевізором",
+     "en": "bedroom with TV"
+    }
    },
    {
     "file": "17.jpg",
     "w": 1600,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "ванна кімната з ванною",
+     "en": "bathroom with bathtub"
+    }
    },
    {
     "file": "18.jpg",
     "w": 1559,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "санвузол",
+     "en": "toilet room"
+    }
    },
    {
     "file": "19.jpg",
     "w": 2188,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "дитяча кімната з робочим місцем",
+     "en": "children's room with desk"
+    }
    },
    {
     "file": "20.jpg",
     "w": 2224,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "дитяча кімната",
+     "en": "children's room"
+    }
    }
   ]
  },
@@ -2326,47 +3918,83 @@
    {
     "file": "01.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "передпокій з круглим дзеркалом",
+     "en": "hallway with round mirror"
+    }
    },
    {
     "file": "02.jpg",
     "w": 1508,
-    "h": 1066
+    "h": 1066,
+    "label": {
+     "uk": "кухня-їдальня",
+     "en": "kitchen-dining room"
+    }
    },
    {
     "file": "03.jpg",
     "w": 1508,
-    "h": 1066
+    "h": 1066,
+    "label": {
+     "uk": "кухня-вітальня",
+     "en": "kitchen-living room"
+    }
    },
    {
     "file": "04.jpg",
     "w": 1508,
-    "h": 1066
+    "h": 1066,
+    "label": {
+     "uk": "вітальня з диваном",
+     "en": "living room with sofa"
+    }
    },
    {
     "file": "05.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "спальня з підвісними світильниками",
+     "en": "bedroom with pendant lights"
+    }
    },
    {
     "file": "06.jpg",
     "w": 987,
-    "h": 1061
+    "h": 1061,
+    "label": {
+     "uk": "спальня з кріслом",
+     "en": "bedroom with armchair"
+    }
    },
    {
     "file": "07.jpg",
     "w": 3469,
-    "h": 2453
+    "h": 2453,
+    "label": {
+     "uk": "спальня з телевізором",
+     "en": "bedroom with TV"
+    }
    },
    {
     "file": "08.jpg",
     "w": 1381,
-    "h": 977
+    "h": 977,
+    "label": {
+     "uk": "гардеробна і душова",
+     "en": "walk-in wardrobe and shower"
+    }
    },
    {
     "file": "09.jpg",
     "w": 3508,
-    "h": 2480
+    "h": 2480,
+    "label": {
+     "uk": "ванна кімната",
+     "en": "bathroom"
+    }
    }
   ]
  },
@@ -2387,102 +4015,182 @@
    {
     "file": "01.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кухня-їдальня",
+     "en": "kitchen-dining room"
+    }
    },
    {
     "file": "03.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кухня",
+     "en": "kitchen"
+    }
    },
    {
     "file": "04.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кухня з цегляною стіною",
+     "en": "kitchen with brick wall"
+    }
    },
    {
     "file": "05.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня з кутовим диваном",
+     "en": "living room with corner sofa"
+    }
    },
    {
     "file": "06.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня",
+     "en": "living room"
+    }
    },
    {
     "file": "07.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня з телевізором",
+     "en": "living room with TV"
+    }
    },
    {
     "file": "08.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня з дерев'яними рейками",
+     "en": "living room with wooden slats"
+    }
    },
    {
     "file": "09.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня з диваном",
+     "en": "living room with sofa"
+    }
    },
    {
     "file": "10.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "передпокій",
+     "en": "hallway"
+    }
    },
    {
     "file": "11.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "спальня з підвісними світильниками",
+     "en": "bedroom with pendant lights"
+    }
    },
    {
     "file": "12.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "13.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "спальня з телевізором",
+     "en": "bedroom with TV"
+    }
    },
    {
     "file": "14.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "дитяча кімната з сіткою",
+     "en": "children's room with net"
+    }
    },
    {
     "file": "15.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "дитяча кімната з робочим місцем",
+     "en": "children's room with desk"
+    }
    },
    {
     "file": "16.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "дитяча кімната з шафою",
+     "en": "children's room with wardrobe"
+    }
    },
    {
     "file": "17.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "дитяча кімната",
+     "en": "children's room"
+    }
    },
    {
     "file": "18.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "ванна кімната з круглим дзеркалом",
+     "en": "bathroom with round mirror"
+    }
    },
    {
     "file": "19.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "ванна кімната",
+     "en": "bathroom"
+    }
    },
    {
     "file": "20.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "ванна кімната з ванною",
+     "en": "bathroom with bathtub"
+    }
    }
   ]
  },
@@ -2503,102 +4211,182 @@
    {
     "file": "01.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2400,
-    "h": 1707
+    "h": 1707,
+    "label": {
+     "uk": "вітальня з теракотовим диваном",
+     "en": "living room with terracotta sofa"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2400,
-    "h": 1707
+    "h": 1707,
+    "label": {
+     "uk": "вітальня з телевізором",
+     "en": "living room with TV"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2400,
-    "h": 1707
+    "h": 1707,
+    "label": {
+     "uk": "кухня-вітальня",
+     "en": "kitchen-living room"
+    }
    },
    {
     "file": "05.jpg",
     "w": 2400,
-    "h": 1707
+    "h": 1707,
+    "label": {
+     "uk": "кухня-їдальня",
+     "en": "kitchen-dining room"
+    }
    },
    {
     "file": "06.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кухня з острівцем",
+     "en": "kitchen with island"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2400,
-    "h": 1707
+    "h": 1707,
+    "label": {
+     "uk": "їдальня",
+     "en": "dining area"
+    }
    },
    {
     "file": "08.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кухня-вітальня з острівцем",
+     "en": "kitchen-living room with island"
+    }
    },
    {
     "file": "09.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня з піаніно",
+     "en": "living room with piano"
+    }
    },
    {
     "file": "10.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "передпокій",
+     "en": "hallway"
+    }
    },
    {
     "file": "11.jpg",
     "w": 2500,
-    "h": 1778
+    "h": 1778,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "12.jpg",
     "w": 2500,
-    "h": 1778
+    "h": 1778,
+    "label": {
+     "uk": "спальня з рожевими шторами",
+     "en": "bedroom with pink curtains"
+    }
    },
    {
     "file": "13.jpg",
     "w": 2500,
-    "h": 1778
+    "h": 1778,
+    "label": {
+     "uk": "спальня з робочим місцем",
+     "en": "bedroom with desk"
+    }
    },
    {
     "file": "14.jpg",
     "w": 2500,
-    "h": 1778
+    "h": 1778,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "15.jpg",
     "w": 1000,
-    "h": 711
+    "h": 711,
+    "label": {
+     "uk": "дитяча кімната з двоярусним ліжком",
+     "en": "children's room with bunk bed"
+    }
    },
    {
     "file": "16.jpg",
     "w": 1000,
-    "h": 711
+    "h": 711,
+    "label": {
+     "uk": "дитяча кімната з двоярусним ліжком",
+     "en": "children's room with bunk bed"
+    }
    },
    {
     "file": "17.jpg",
     "w": 1000,
-    "h": 711
+    "h": 711,
+    "label": {
+     "uk": "дитяча кімната",
+     "en": "children's room"
+    }
    },
    {
     "file": "18.jpg",
     "w": 1000,
-    "h": 711
+    "h": 711,
+    "label": {
+     "uk": "дитяча кімната з шафою",
+     "en": "children's room with wardrobe"
+    }
    },
    {
     "file": "19.jpg",
     "w": 2400,
-    "h": 1707
+    "h": 1707,
+    "label": {
+     "uk": "ванна кімната з душем",
+     "en": "bathroom with shower"
+    }
    },
    {
     "file": "20.jpg",
     "w": 2400,
-    "h": 1707
+    "h": 1707,
+    "label": {
+     "uk": "ванна кімната з ванною",
+     "en": "bathroom with bathtub"
+    }
    }
   ]
  },
@@ -2619,62 +4407,110 @@
    {
     "file": "01.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "передпокій",
+     "en": "hallway"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "коридор",
+     "en": "corridor"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "передпокій зі скляною перегородкою",
+     "en": "hallway with glass partition"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "ванна кімната з окремою ванною",
+     "en": "bathroom with freestanding bathtub"
+    }
    },
    {
     "file": "05.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "ванна кімната з тумбою",
+     "en": "bathroom with vanity unit"
+    }
    },
    {
     "file": "06.jpg",
     "w": 3555,
-    "h": 2277
+    "h": 2277,
+    "label": {
+     "uk": "вітальня",
+     "en": "living room"
+    }
    },
    {
     "file": "07.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня з диваном",
+     "en": "living room with sofa"
+    }
    },
    {
     "file": "08.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня з мармуровою стіною",
+     "en": "living room with marble wall"
+    }
    },
    {
     "file": "09.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кухня-вітальня",
+     "en": "kitchen-living room"
+    }
    },
    {
     "file": "10.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "11.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "спальня з туалетним столиком",
+     "en": "bedroom with dressing table"
+    }
    },
    {
     "file": "12.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "спальня з гардеробною",
+     "en": "bedroom with walk-in wardrobe"
+    }
    }
   ]
  },
@@ -2695,137 +4531,245 @@
    {
     "file": "01.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "план першого поверху",
+     "en": "ground floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "передпокій зі сходами",
+     "en": "hallway with staircase"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "вітальня з диваном",
+     "en": "living room with sofa"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "вітальня з телевізором",
+     "en": "living room with TV"
+    }
    },
    {
     "file": "05.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "вітальня з мармуровою стіною",
+     "en": "living room with marble wall"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "кухня-їдальня",
+     "en": "kitchen-dining room"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "кухня-вітальня",
+     "en": "kitchen-living room"
+    }
    },
    {
     "file": "08.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "кухня-вітальня",
+     "en": "kitchen-living room"
+    }
    },
    {
     "file": "09.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "кухня-вітальня з кутовим диваном",
+     "en": "kitchen-living room with corner sofa"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2880,
-    "h": 2049
+    "h": 2049,
+    "label": {
+     "uk": "санвузол",
+     "en": "toilet room"
+    }
    },
    {
     "file": "11.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "план другого поверху",
+     "en": "upper floor plan"
+    }
    },
    {
     "file": "12.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "ванна кімната з круглим дзеркалом",
+     "en": "bathroom with round mirror"
+    }
    },
    {
     "file": "13.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "ванна кімната з душем",
+     "en": "bathroom with shower"
+    }
    },
    {
     "file": "14.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "спальня з еркером",
+     "en": "bedroom with bay window"
+    }
    },
    {
     "file": "15.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "16.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "спальня з дитячим ліжечком",
+     "en": "bedroom with crib"
+    }
    },
    {
     "file": "17.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "спальня з дитячим ліжечком",
+     "en": "bedroom with crib"
+    }
    },
    {
     "file": "18.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "спальня з телевізором",
+     "en": "bedroom with TV"
+    }
    },
    {
     "file": "19.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "спальня з гардеробом",
+     "en": "bedroom with wardrobe"
+    }
    },
    {
     "file": "20.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "гардеробна",
+     "en": "walk-in wardrobe"
+    }
    },
    {
     "file": "21.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "22.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "спальня з картиною",
+     "en": "bedroom with painting"
+    }
    },
    {
     "file": "23.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "24.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "спальня з телевізором",
+     "en": "bedroom with TV"
+    }
    },
    {
     "file": "25.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "подвір'я, вигляд згори",
+     "en": "courtyard, top view"
+    }
    },
    {
     "file": "26.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "подвір'я з газоном",
+     "en": "courtyard with lawn"
+    }
    },
    {
     "file": "27.jpg",
     "w": 2880,
-    "h": 2036
+    "h": 2036,
+    "label": {
+     "uk": "тераса з навісом",
+     "en": "terrace with canopy"
+    }
    }
   ]
  },
@@ -2846,77 +4790,137 @@
    {
     "file": "01.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "конференц-зала",
+     "en": "conference hall"
+    }
    },
    {
     "file": "02.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "конференц-зала",
+     "en": "conference hall"
+    }
    },
    {
     "file": "03.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "конференц-зала",
+     "en": "conference hall"
+    }
    },
    {
     "file": "04.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "зона відпочинку",
+     "en": "lounge area"
+    }
    },
    {
     "file": "05.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "опенспейс",
+     "en": "open-plan office"
+    }
    },
    {
     "file": "06.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "опенспейс",
+     "en": "open-plan office"
+    }
    },
    {
     "file": "07.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "робоче місце",
+     "en": "workstation"
+    }
    },
    {
     "file": "08.jpg",
     "w": 2000,
-    "h": 1442
+    "h": 1442,
+    "label": {
+     "uk": "переговорна з деревом",
+     "en": "meeting room with tree"
+    }
    },
    {
     "file": "09.jpg",
     "w": 2000,
-    "h": 1424
+    "h": 1424,
+    "label": {
+     "uk": "переговорна з деревом",
+     "en": "meeting room with tree"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2000,
-    "h": 1442
+    "h": 1442,
+    "label": {
+     "uk": "переговорна",
+     "en": "meeting room"
+    }
    },
    {
     "file": "11.jpg",
     "w": 1000,
-    "h": 712
+    "h": 712,
+    "label": {
+     "uk": "переговорна з неоновим написом",
+     "en": "meeting room with neon sign"
+    }
    },
    {
     "file": "12.jpg",
     "w": 2000,
-    "h": 1442
+    "h": 1442,
+    "label": {
+     "uk": "зона відпочинку",
+     "en": "lounge area"
+    }
    },
    {
     "file": "13.jpg",
     "w": 2000,
-    "h": 1442
+    "h": 1442,
+    "label": {
+     "uk": "опенспейс",
+     "en": "open-plan office"
+    }
    },
    {
     "file": "14.jpg",
     "w": 2000,
-    "h": 1442
+    "h": 1442,
+    "label": {
+     "uk": "опенспейс з написом на стіні",
+     "en": "open-plan office with wall lettering"
+    }
    },
    {
     "file": "15.jpg",
     "w": 2000,
-    "h": 1442
+    "h": 1442,
+    "label": {
+     "uk": "опенспейс",
+     "en": "open-plan office"
+    }
    }
   ]
  },
@@ -2937,57 +4941,101 @@
    {
     "file": "01.jpg",
     "w": 2500,
-    "h": 1778
+    "h": 1778,
+    "label": {
+     "uk": "вітальня з каміном",
+     "en": "living room with fireplace"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2500,
-    "h": 1778
+    "h": 1778,
+    "label": {
+     "uk": "вітальня",
+     "en": "living room"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2500,
-    "h": 1778
+    "h": 1778,
+    "label": {
+     "uk": "вітальня з фотографіями на стіні",
+     "en": "living room with photo wall"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2500,
-    "h": 1777
+    "h": 1777,
+    "label": {
+     "uk": "вітальня з обідньою зоною",
+     "en": "living room with dining area"
+    }
    },
    {
     "file": "05.jpg",
     "w": 2500,
-    "h": 1778
+    "h": 1778,
+    "label": {
+     "uk": "кухня",
+     "en": "kitchen"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2500,
-    "h": 1778
+    "h": 1778,
+    "label": {
+     "uk": "кухня",
+     "en": "kitchen"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2500,
-    "h": 1778
+    "h": 1778,
+    "label": {
+     "uk": "кухня",
+     "en": "kitchen"
+    }
    },
    {
     "file": "08.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "ванна кімната",
+     "en": "bathroom"
+    }
    },
    {
     "file": "09.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "душова",
+     "en": "shower room"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2500,
-    "h": 1778
+    "h": 1778,
+    "label": {
+     "uk": "хол зі сходами",
+     "en": "hall with staircase"
+    }
    },
    {
     "file": "11.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "хол",
+     "en": "hall"
+    }
    }
   ]
  },
@@ -3008,197 +5056,353 @@
    {
     "file": "01.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "план офісу",
+     "en": "office floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2500,
-    "h": 1778
+    "h": 1778,
+    "label": {
+     "uk": "кухня для персоналу",
+     "en": "staff kitchen"
+    }
    },
    {
     "file": "03.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вхідна зона",
+     "en": "entrance area"
+    }
    },
    {
     "file": "04.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "рецепція",
+     "en": "reception"
+    }
    },
    {
     "file": "05.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "рецепція",
+     "en": "reception"
+    }
    },
    {
     "file": "06.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "коридор",
+     "en": "corridor"
+    }
    },
    {
     "file": "07.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "коридор",
+     "en": "corridor"
+    }
    },
    {
     "file": "08.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "зона очікування",
+     "en": "waiting area"
+    }
    },
    {
     "file": "09.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "зона очікування",
+     "en": "waiting area"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "коридор",
+     "en": "corridor"
+    }
    },
    {
     "file": "11.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кабінет керівника з фітостіною",
+     "en": "executive office with green wall"
+    }
    },
    {
     "file": "12.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кабінет керівника",
+     "en": "executive office"
+    }
    },
    {
     "file": "13.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кабінет керівника",
+     "en": "executive office"
+    }
    },
    {
     "file": "14.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кабінет керівника",
+     "en": "executive office"
+    }
    },
    {
     "file": "15.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "зона відпочинку",
+     "en": "lounge area"
+    }
    },
    {
     "file": "16.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "зона відпочинку зі стелажами",
+     "en": "lounge area with shelving"
+    }
    },
    {
     "file": "17.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "зона відпочинку з винною шафою",
+     "en": "lounge area with wine cabinet"
+    }
    },
    {
     "file": "18.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "санвузол",
+     "en": "restroom"
+    }
    },
    {
     "file": "19.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "опенспейс",
+     "en": "open-plan office"
+    }
    },
    {
     "file": "20.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "опенспейс",
+     "en": "open-plan office"
+    }
    },
    {
     "file": "21.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "опенспейс",
+     "en": "open-plan office"
+    }
    },
    {
     "file": "22.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "опенспейс",
+     "en": "open-plan office"
+    }
    },
    {
     "file": "23.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "опенспейс",
+     "en": "open-plan office"
+    }
    },
    {
     "file": "24.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "опенспейс",
+     "en": "open-plan office"
+    }
    },
    {
     "file": "25.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кабінет",
+     "en": "office"
+    }
    },
    {
     "file": "26.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кабінет",
+     "en": "office"
+    }
    },
    {
     "file": "27.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кабінет з диваном",
+     "en": "office with sofa"
+    }
    },
    {
     "file": "28.jpg",
     "w": 2500,
-    "h": 1778
+    "h": 1778,
+    "label": {
+     "uk": "опенспейс",
+     "en": "open-plan office"
+    }
    },
    {
     "file": "29.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "опенспейс",
+     "en": "open-plan office"
+    }
    },
    {
     "file": "30.jpg",
     "w": 2500,
-    "h": 1778
+    "h": 1778,
+    "label": {
+     "uk": "опенспейс",
+     "en": "open-plan office"
+    }
    },
    {
     "file": "31.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кабінет",
+     "en": "office"
+    }
    },
    {
     "file": "32.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кухня для персоналу",
+     "en": "staff kitchen"
+    }
    },
    {
     "file": "33.jpg",
     "w": 2500,
-    "h": 1778
+    "h": 1778,
+    "label": {
+     "uk": "кухня з барною стійкою",
+     "en": "kitchen with bar counter"
+    }
    },
    {
     "file": "34.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "санвузол з умивальниками",
+     "en": "restroom with washbasins"
+    }
    },
    {
     "file": "35.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "санвузол з умивальниками",
+     "en": "restroom with washbasins"
+    }
    },
    {
     "file": "36.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "санвузол",
+     "en": "restroom"
+    }
    },
    {
     "file": "37.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вхід до санвузлів",
+     "en": "restroom entrance"
+    }
    },
    {
     "file": "38.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "туалет",
+     "en": "toilet"
+    }
    },
    {
     "file": "39.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "коридор",
+     "en": "corridor"
+    }
    }
   ]
  },
@@ -3219,57 +5423,101 @@
    {
     "file": "01.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "передпокій з велосипедами на стіні",
+     "en": "hallway with wall-mounted bicycles"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "робоча зона зі скляною перегородкою",
+     "en": "workspace with glass partition"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "кухня з острівцем",
+     "en": "kitchen with island"
+    }
    },
    {
     "file": "05.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "вітальня з цегляною стіною",
+     "en": "living room with brick wall"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "кухня-вітальня з обіднім столом",
+     "en": "kitchen-living room with dining table"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "кухня-вітальня з робочим місцем",
+     "en": "kitchen-living room with workspace"
+    }
    },
    {
     "file": "08.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "спальня із зеленою стіною",
+     "en": "bedroom with green wall"
+    }
    },
    {
     "file": "09.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "гардеробна",
+     "en": "walk-in wardrobe"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "спальня за скляною перегородкою",
+     "en": "bedroom behind glass partition"
+    }
    },
    {
     "file": "11.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "ванна кімната",
+     "en": "bathroom"
+    }
    }
   ]
  },
@@ -3290,77 +5538,137 @@
    {
     "file": "01.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "вітальня з книжковим стелажем",
+     "en": "living room with bookshelf"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "передпокій",
+     "en": "hallway"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "кухня з обідньою зоною",
+     "en": "kitchen with dining area"
+    }
    },
    {
     "file": "05.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "кухня з обіднім столом",
+     "en": "kitchen with dining table"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "вітальня з обідньою зоною",
+     "en": "living room with dining area"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "вітальня з телевізором",
+     "en": "living room with tv"
+    }
    },
    {
     "file": "08.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "санвузол з душовою",
+     "en": "bathroom with shower"
+    }
    },
    {
     "file": "09.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "ванна кімната з кутовою ванною",
+     "en": "bathroom with corner bathtub"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "спальня з гардеробною",
+     "en": "bedroom with walk-in wardrobe"
+    }
    },
    {
     "file": "11.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "спальня з телевізором",
+     "en": "bedroom with tv"
+    }
    },
    {
     "file": "12.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "спальня з м'яким узголів'ям",
+     "en": "bedroom with upholstered headboard"
+    }
    },
    {
     "file": "13.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "дитяча кімната з ліжечком",
+     "en": "children's room with crib"
+    }
    },
    {
     "file": "14.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "дитяча кімната",
+     "en": "children's room"
+    }
    },
    {
     "file": "15.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "балкон з пральною машиною",
+     "en": "balcony with washing machine"
+    }
    }
   ]
  },
@@ -3381,62 +5689,110 @@
    {
     "file": "01.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 3555,
-    "h": 2422
+    "h": 2422,
+    "label": {
+     "uk": "кухня-вітальня з диваном",
+     "en": "kitchen-living room with sofa"
+    }
    },
    {
     "file": "03.jpg",
     "w": 1754,
-    "h": 1240
+    "h": 1240,
+    "label": {
+     "uk": "передпокій з шафами",
+     "en": "hallway with wardrobes"
+    }
    },
    {
     "file": "04.jpg",
     "w": 1754,
-    "h": 1240
+    "h": 1240,
+    "label": {
+     "uk": "коридор зі сходами",
+     "en": "hallway with staircase"
+    }
    },
    {
     "file": "05.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "вітальня з великим вікном",
+     "en": "living room with large window"
+    }
    },
    {
     "file": "06.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "кухня-вітальня",
+     "en": "kitchen-living room"
+    }
    },
    {
     "file": "07.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "вітальня з мармуровою стіною",
+     "en": "living room with marble wall"
+    }
    },
    {
     "file": "08.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "обідня зона",
+     "en": "dining area"
+    }
    },
    {
     "file": "09.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "вітальня з телевізором",
+     "en": "living room with tv"
+    }
    },
    {
     "file": "10.jpg",
     "w": 1754,
-    "h": 1240
+    "h": 1240,
+    "label": {
+     "uk": "ванна кімната з мармуром",
+     "en": "bathroom with marble"
+    }
    },
    {
     "file": "11.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "санвузол",
+     "en": "toilet room"
+    }
    },
    {
     "file": "12.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "ванна кімната",
+     "en": "bathroom"
+    }
    }
   ]
  },
@@ -3457,77 +5813,137 @@
    {
     "file": "01.jpg",
     "w": 854,
-    "h": 607
+    "h": 607,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня з синім диваном",
+     "en": "living room with blue sofa"
+    }
    },
    {
     "file": "03.jpg",
     "w": 3106,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "вітальня з кутовим диваном",
+     "en": "living room with corner sofa"
+    }
    },
    {
     "file": "04.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "коридор",
+     "en": "hallway"
+    }
    },
    {
     "file": "05.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "кухня з обідньою зоною",
+     "en": "kitchen with dining area"
+    }
    },
    {
     "file": "06.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "кухня з обіднім столом",
+     "en": "kitchen with dining table"
+    }
    },
    {
     "file": "07.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "спальня з декоративним панно",
+     "en": "bedroom with decorative wall panel"
+    }
    },
    {
     "file": "08.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "спальня з кріслом",
+     "en": "bedroom with armchair"
+    }
    },
    {
     "file": "09.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "гардеробна",
+     "en": "walk-in wardrobe"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2528,
-    "h": 3555
+    "h": 3555,
+    "label": {
+     "uk": "туалетний столик",
+     "en": "vanity table"
+    }
    },
    {
     "file": "11.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "дитяча кімната з ліжком-будиночком",
+     "en": "children's room with house bed"
+    }
    },
    {
     "file": "12.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "дитяча кімната зі скеледромом",
+     "en": "children's room with climbing wall"
+    }
    },
    {
     "file": "13.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "ігрова зона в дитячій",
+     "en": "play area in children's room"
+    }
    },
    {
     "file": "14.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "робоче місце в дитячій",
+     "en": "study desk in children's room"
+    }
    },
    {
     "file": "15.jpg",
     "w": 1778,
-    "h": 1264
+    "h": 1264,
+    "label": {
+     "uk": "ванна кімната",
+     "en": "bathroom"
+    }
    }
   ]
  },
@@ -3548,67 +5964,119 @@
    {
     "file": "01.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "рецепція",
+     "en": "reception"
+    }
    },
    {
     "file": "02.jpg",
     "w": 3000,
-    "h": 2133
+    "h": 2133,
+    "label": {
+     "uk": "коридор із зоною очікування",
+     "en": "corridor with waiting area"
+    }
    },
    {
     "file": "03.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "робоче місце біля переговорної",
+     "en": "workstation by meeting room"
+    }
    },
    {
     "file": "04.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "опенспейс",
+     "en": "open-plan office"
+    }
    },
    {
     "file": "05.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "опенспейс з робочими місцями",
+     "en": "open-plan office with workstations"
+    }
    },
    {
     "file": "06.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "опенспейс зі скляними перегородками",
+     "en": "open-plan office with glass partitions"
+    }
    },
    {
     "file": "07.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "опенспейс з декоративною перегородкою",
+     "en": "open-plan office with decorative partition"
+    }
    },
    {
     "file": "08.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "переговорна з телевізором",
+     "en": "meeting room with tv"
+    }
    },
    {
     "file": "09.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "переговорна з дерев'яними панелями",
+     "en": "meeting room with wood panels"
+    }
    },
    {
     "file": "10.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "переговорна зі скляною стіною",
+     "en": "meeting room with glass wall"
+    }
    },
    {
     "file": "11.jpg",
     "w": 2500,
-    "h": 1778
+    "h": 1778,
+    "label": {
+     "uk": "зона відпочинку з барною стійкою",
+     "en": "lounge with bar counter"
+    }
    },
    {
     "file": "12.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "зона відпочинку з кріслами-мішками",
+     "en": "lounge with beanbags"
+    }
    },
    {
     "file": "13.jpg",
     "w": 3555,
-    "h": 2528
+    "h": 2528,
+    "label": {
+     "uk": "кухня для персоналу",
+     "en": "staff kitchen"
+    }
    }
   ]
  },
@@ -3629,67 +6097,119 @@
    {
     "file": "01.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кухня-вітальня з перегородкою",
+     "en": "kitchen-living room with partition"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кухня з обідньою зоною",
+     "en": "kitchen with dining area"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "обідня зона з дерев'яним столом",
+     "en": "dining area with wooden table"
+    }
    },
    {
     "file": "05.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кухня-вітальня з телевізором",
+     "en": "kitchen-living room with tv"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "вітальня з коричневим диваном",
+     "en": "living room with brown sofa"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "вітальня з кутовим диваном",
+     "en": "living room with corner sofa"
+    }
    },
    {
     "file": "08.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "вітальня з телевізором",
+     "en": "living room with tv"
+    }
    },
    {
     "file": "09.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "коридор з темними шафами",
+     "en": "hallway with dark wardrobes"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня з панорамними вікнами",
+     "en": "bedroom with floor-to-ceiling windows"
+    }
    },
    {
     "file": "11.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня з гардеробною",
+     "en": "bedroom with walk-in wardrobe"
+    }
    },
    {
     "file": "12.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня з круглим дзеркалом",
+     "en": "bedroom with round mirror"
+    }
    },
    {
     "file": "13.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня зі скляною гардеробною",
+     "en": "bedroom with glass wardrobe"
+    }
    }
   ]
  },
@@ -3710,32 +6230,56 @@
    {
     "file": "01.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "план кав'ярні",
+     "en": "café floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "зала кав'ярні з вітриною",
+     "en": "café hall with display counter"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "місця для сидіння біля вікон",
+     "en": "seating by the windows"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "зала з блакитними стільцями",
+     "en": "café hall with blue chairs"
+    }
    },
    {
     "file": "05.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "барна стійка з вітриною",
+     "en": "bar counter with display case"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "зала з підвісними лампами",
+     "en": "café hall with pendant lamps"
+    }
    }
   ]
  },
@@ -3756,77 +6300,137 @@
    {
     "file": "01.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "їдальня з гвинтовими сходами",
+     "en": "dining area with spiral staircase"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "кухня-вітальня з каміном",
+     "en": "kitchen-living room with fireplace"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "вітальня з каміном",
+     "en": "living room with fireplace"
+    }
    },
    {
     "file": "05.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "вітальня з антресоллю",
+     "en": "living room with mezzanine"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "ванна кімната з кутовою ванною",
+     "en": "bathroom with corner bathtub"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "санвузол з душовою",
+     "en": "bathroom with shower"
+    }
    },
    {
     "file": "08.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "спальня з робочим столом",
+     "en": "bedroom with desk"
+    }
    },
    {
     "file": "09.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "спальня з мольбертом",
+     "en": "bedroom with easel"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "спальня з шафами",
+     "en": "bedroom with wardrobes"
+    }
    },
    {
     "file": "11.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "спальня з візерунчастими шпалерами",
+     "en": "bedroom with patterned wallpaper"
+    }
    },
    {
     "file": "12.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "спальня з підвісними лампами",
+     "en": "bedroom with pendant lamps"
+    }
    },
    {
     "file": "13.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "спальня з картиною над ліжком",
+     "en": "bedroom with painting above bed"
+    }
    },
    {
     "file": "14.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "спальня",
+     "en": "bedroom"
+    }
    },
    {
     "file": "15.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "гардеробна",
+     "en": "walk-in wardrobe"
+    }
    }
   ]
  },
@@ -3847,52 +6451,92 @@
    {
     "file": "01.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "план студії",
+     "en": "studio floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "зона відпочинку з диваном",
+     "en": "lounge with sofa"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "хол з дзеркальною шафою",
+     "en": "lobby with mirrored wardrobe"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "роздягальня з шафками",
+     "en": "changing room with lockers"
+    }
    },
    {
     "file": "05.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "душова та санвузол",
+     "en": "shower and toilet"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "зала пілатесу",
+     "en": "pilates studio"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "зала з фітболами",
+     "en": "studio with fitness balls"
+    }
    },
    {
     "file": "08.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "зала з тренажерами для пілатесу",
+     "en": "studio with pilates equipment"
+    }
    },
    {
     "file": "09.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "тренувальна зала",
+     "en": "training hall"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2263,
-    "h": 1600
+    "h": 1600,
+    "label": {
+     "uk": "зала з лавою біля вікна",
+     "en": "studio with window bench"
+    }
    }
   ]
  }

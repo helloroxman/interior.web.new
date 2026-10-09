@@ -1,0 +1,261 @@
+[
+ {
+  "slug": "apartment-design",
+  "types": [
+   "apartment"
+  ],
+  "icon": "ico-case-2-1.svg",
+  "uk": {
+   "nav": "Дизайн квартири",
+   "h1": "Дизайн інтер’єру квартири",
+   "seo_title": "Дизайн інтер’єру квартири — дизайн-проєкт під ключ | Oksana Ivanova",
+   "desc": "Дизайн інтер’єру квартири від студії Oksana Ivanova: планування, 3D-візуалізації, повний пакет креслень і авторський нагляд. {n} реалізованих квартир від {min} до {max} м².",
+   "lead": "Проєктуємо квартири, у яких зручно жити щодня: від мікростудії з меблями-трансформерами до дворівневих апартаментів. Кожне рішення починається з вашого способу життя, а не з каталогу.",
+   "body": [
+    "Дизайн-проєкт квартири — це не лише красиві картинки. Ми продумуємо планування, освітлення та системи зберігання, підбираємо матеріали й меблі, а потім готуємо креслення, за якими будівельна бригада працює без імпровізацій і переробок.",
+    "Візуалізації показують, як виглядатиме кожне приміщення на фініші, тому змінити колір, меблі чи світло можна ще до початку ремонту. Після завершення проєкту студія може супроводжувати ремонт в рамках авторського нагляду."
+   ],
+   "faq": [
+    [
+     "Що входить у дизайн-проєкт квартири?",
+     "3D-візуалізації приміщень, планувальне рішення, будівельні креслення (демонтаж і монтаж стін, електрика, водопостачання, опалення, розгортки стін), креслення меблів і підбір матеріалів."
+    ],
+    [
+     "З чого починається робота?",
+     "Із замірів на об’єкті та планування. Далі ми підписуємо договір, пропрацьовуємо концепцію, готуємо робочі креслення й друкуємо альбом проєкту."
+    ],
+    [
+     "Які квартири вже є в портфоліо?",
+     "У портфоліо студії {n} квартир площею від {min} до {max} м², зокрема в містах {cities}."
+    ],
+    [
+     "Скільки коштує дизайн квартири?",
+     "Вартість залежить від площі, складності планування та складу робіт. Залиште запит телефоном або поштою — ми розрахуємо її для вашого об’єкта."
+    ]
+   ]
+  },
+  "en": {
+   "nav": "Apartment design",
+   "h1": "Apartment interior design",
+   "seo_title": "Apartment Interior Design — Turnkey Design Project | Oksana Ivanova",
+   "desc": "Apartment interior design by Oksana Ivanova studio: layout, 3D visualisations, a complete set of drawings and design supervision. {n} completed apartments from {min} to {max} m².",
+   "lead": "We design apartments that are comfortable to live in every day: from a micro-studio with transformable furniture to two-level residences. Every decision starts with your way of life, not with a catalogue.",
+   "body": [
+    "An apartment design project is more than beautiful pictures. We work out the layout, lighting and storage, select materials and furniture, and then prepare drawings the construction crew can follow without improvising or redoing work.",
+    "Visualisations show what every room will look like at the finish line, so colours, furniture or lighting can be changed before renovation starts. Once the project is complete, the studio can accompany the renovation through design supervision."
+   ],
+   "faq": [
+    [
+     "What does an apartment design project include?",
+     "3D visualisations of the rooms, a layout solution, construction drawings (wall demolition and construction, electrics, plumbing, heating, wall elevations), furniture drawings and material selection."
+    ],
+    [
+     "Where does the work start?",
+     "With on-site measurements and space planning. Then we sign the contract, develop the concept, prepare working drawings and print the project album."
+    ],
+    [
+     "Which apartments are already in the portfolio?",
+     "The studio's portfolio includes {n} apartments from {min} to {max} m², including in {cities}."
+    ],
+    [
+     "How much does apartment design cost?",
+     "The price depends on the area, layout complexity and scope of work. Get in touch by phone or email and we will calculate it for your property."
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "house-design",
+  "types": [
+   "house"
+  ],
+  "icon": "ico-case-2-3.svg",
+  "uk": {
+   "nav": "Дизайн будинку",
+   "h1": "Дизайн інтер’єру будинку",
+   "seo_title": "Дизайн інтер’єру приватного будинку та котеджу | Oksana Ivanova",
+   "desc": "Дизайн інтер’єру приватного будинку чи котеджу: планування поверхів, візуалізації, креслення інженерних мереж, тераси та зовнішній простір. {n} будинків у портфоліо.",
+   "lead": "Приватний будинок дає більше свободи і вимагає більше рішень: сходи, кілька поверхів, тераси, каміни, гаражі та спортзали. Ми збираємо все це в цілісний простір для всієї родини.",
+   "body": [
+    "Студія має досвід проєктування як внутрішнього, так і зовнішнього простору. У проєктах будинків ми опрацьовуємо планування кожного поверху, зв’язок між зонами, освітлення, системи зберігання й інженерні мережі, а за потреби — тераси, зони біля басейну та вуличні каміни.",
+    "Для будівельників готуємо повний пакет креслень: від плану демонтажу й монтажу стін до розгорток та схем електрики, водопостачання й опалення. Візуалізації допомагають ухвалити всі рішення до початку робіт."
+   ],
+   "faq": [
+    [
+     "Чим дизайн будинку відрізняється від дизайну квартири?",
+     "Більшою кількістю зон і інженерних рішень: кілька поверхів, сходи, тераси, технічні приміщення. Тому особливу увагу ми приділяємо плануванню й робочим кресленням."
+    ],
+    [
+     "Чи проєктуєте ви тераси та зовнішній простір?",
+     "Так. Студія працює і з внутрішнім, і з зовнішнім простором — у портфоліо є, зокрема, тераса з басейном і вуличним каміном."
+    ],
+    [
+     "Які будинки вже є в портфоліо?",
+     "У портфоліо студії {n} будинків і котеджів площею від {min} до {max} м², зокрема в містах {cities}."
+    ],
+    [
+     "Скільки коштує дизайн будинку?",
+     "Вартість залежить від площі, кількості поверхів і складу робіт. Залиште запит — ми розрахуємо її для вашого будинку."
+    ]
+   ]
+  },
+  "en": {
+   "nav": "House design",
+   "h1": "House interior design",
+   "seo_title": "Private House & Cottage Interior Design | Oksana Ivanova",
+   "desc": "Interior design for private houses and cottages: floor layouts, visualisations, engineering drawings, terraces and outdoor spaces. {n} houses in the portfolio.",
+   "lead": "A private house gives more freedom and demands more decisions: staircases, several floors, terraces, fireplaces, garages and gyms. We bring all of this together into one coherent space for the whole family.",
+   "body": [
+    "The studio designs both interior and exterior spaces. In house projects we work out the layout of every floor, the connections between zones, lighting, storage and engineering, and where needed terraces, pool areas and outdoor fireplaces.",
+    "For the builders we prepare a complete drawing set: from the wall demolition and construction plan to elevations and electrical, plumbing and heating schemes. Visualisations help to make every decision before work begins."
+   ],
+   "faq": [
+    [
+     "How is house design different from apartment design?",
+     "More zones and more engineering decisions: several floors, staircases, terraces, technical rooms. That is why we pay special attention to the layout and working drawings."
+    ],
+    [
+     "Do you design terraces and outdoor spaces?",
+     "Yes. The studio works with both interior and exterior spaces — the portfolio includes, for example, a terrace with a pool and an outdoor fireplace."
+    ],
+    [
+     "Which houses are already in the portfolio?",
+     "The studio's portfolio includes {n} houses and cottages from {min} to {max} m², including in {cities}."
+    ],
+    [
+     "How much does house design cost?",
+     "The price depends on the area, number of floors and scope of work. Get in touch and we will calculate it for your house."
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "office-commercial-design",
+  "types": [
+   "office",
+   "commercial"
+  ],
+  "icon": "ico-case-2-2.svg",
+  "uk": {
+   "nav": "Офіси та комерція",
+   "h1": "Дизайн офісів і комерційних просторів",
+   "seo_title": "Дизайн офісу, кав’ярні, магазину та студії | Oksana Ivanova",
+   "desc": "Дизайн інтер’єру офісів, кав’ярень, бутиків і студій: опенспейси, переговорні, зони відпочинку, барні стійки й вітрини. {n} комерційних проєктів у портфоліо.",
+   "lead": "Офіс чи заклад має працювати на команду й на бізнес: бути зручним щодня, легко впізнаватись і запам’ятовуватись клієнтам. Ми проєктуємо такі простори від невеликого кіоску до офісу на кількасот квадратних метрів.",
+   "body": [
+    "Для офісів ми плануємо опенспейси, переговорні, кабінети, кухні й зони відпочинку, продумуємо навігацію та акустичні перегородки. Для кав’ярень, магазинів і студій — барні стійки, вітрини, посадку гостей і зони обслуговування.",
+    "За потреби розробляємо індивідуальні меблі та елементи декору спеціально під проєкт. Робочі креслення й підбір матеріалів дозволяють підряднику реалізувати простір точно за візуалізацією."
+   ],
+   "faq": [
+    [
+     "Які комерційні простори ви проєктуєте?",
+     "Офіси, зокрема для IT-компаній, кав’ярні й бари, бутики одягу, студії йоги та пілатесу, кіоски."
+    ],
+    [
+     "Чи розробляєте ви меблі під проєкт?",
+     "Так, предметний дизайн — одна з послуг студії: індивідуальні меблі, декор і ексклюзивні елементи інтер’єру."
+    ],
+    [
+     "Які проєкти вже є в портфоліо?",
+     "У портфоліо студії {n} офісів і комерційних просторів площею від {min} до {max} м², зокрема в містах {cities}."
+    ],
+    [
+     "Скільки коштує дизайн офісу чи закладу?",
+     "Вартість залежить від площі, призначення простору та складу робіт. Залиште запит — ми розрахуємо її для вашого об’єкта."
+    ]
+   ]
+  },
+  "en": {
+   "nav": "Offices & commercial",
+   "h1": "Office and commercial interior design",
+   "seo_title": "Office, Café, Shop & Studio Interior Design | Oksana Ivanova",
+   "desc": "Interior design for offices, cafés, boutiques and studios: open spaces, meeting rooms, lounges, bar counters and displays. {n} commercial projects in the portfolio.",
+   "lead": "An office or venue has to work for the team and for the business: comfortable every day, easy to recognise and memorable for clients. We design such spaces from a small kiosk to an office of several hundred square metres.",
+   "body": [
+    "For offices we plan open spaces, meeting rooms, private offices, kitchens and lounges, and think through wayfinding and partitions. For cafés, shops and studios we design bar counters, displays, guest seating and service areas.",
+    "Where needed we design bespoke furniture and décor specifically for the project. Working drawings and material selection let the contractor build the space exactly as visualised."
+   ],
+   "faq": [
+    [
+     "Which commercial spaces do you design?",
+     "Offices, including for IT companies, cafés and bars, clothing boutiques, yoga and pilates studios, kiosks."
+    ],
+    [
+     "Do you design bespoke furniture?",
+     "Yes, product design is one of the studio's services: bespoke furniture, décor and exclusive interior elements."
+    ],
+    [
+     "Which projects are already in the portfolio?",
+     "The studio's portfolio includes {n} offices and commercial spaces from {min} to {max} m², including in {cities}."
+    ],
+    [
+     "How much does office or venue design cost?",
+     "The price depends on the area, purpose of the space and scope of work. Get in touch and we will calculate it for your property."
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "design-supervision",
+  "types": [],
+  "icon": "ico-case-2-4.svg",
+  "uk": {
+   "nav": "Авторський нагляд",
+   "h1": "Авторський нагляд за ремонтом",
+   "seo_title": "Авторський нагляд дизайнера за ремонтом | Oksana Ivanova",
+   "desc": "Авторський нагляд студії Oksana Ivanova: кошторис, контроль ремонту й вибір матеріалів, щоб інтер’єр реалізували вчасно й точно за дизайн-проєктом.",
+   "lead": "Навіть найкращий проєкт можна зіпсувати під час ремонту. Авторський нагляд фахового дизайнера допомагає реалізувати інтер’єр вчасно й у точності з візуалізацією.",
+   "body": [
+    "Авторський нагляд — другий етап роботи після дизайн-проєкту. Ми складаємо кошторис, контролюємо хід ремонту й допомагаємо з вибором матеріалів, щоб рішення з візуалізацій не загубились між кресленням і будмайданчиком.",
+    "Будівництво — це колосальні кошти, зусилля та час, якщо все робити самому. Нагляд дизайнера зменшує кількість переробок і помилок, а отже, економить і гроші, і час."
+   ],
+   "faq": [
+    [
+     "Що входить в авторський нагляд?",
+     "Складання кошторису, контроль ремонту й вибір матеріалів."
+    ],
+    [
+     "Навіщо потрібен авторський нагляд, якщо є креслення?",
+     "Креслення описують, що зробити, а нагляд стежить, щоб це зробили саме так. Дизайнер вчасно помічає відхилення від проєкту й допомагає ухвалювати рішення, коли щось на об’єкті йде не за планом."
+    ],
+    [
+     "Для яких об’єктів доступний нагляд?",
+     "Для квартир, будинків, офісів і комерційних просторів — усіх типів об’єктів, які проєктує студія."
+    ],
+    [
+     "Скільки коштує авторський нагляд?",
+     "Вартість залежить від об’єкта й обсягу робіт. Залиште запит — ми розрахуємо її для вашого проєкту."
+    ]
+   ]
+  },
+  "en": {
+   "nav": "Design supervision",
+   "h1": "Design supervision during renovation",
+   "seo_title": "Designer Supervision of Renovation | Oksana Ivanova",
+   "desc": "Design supervision by Oksana Ivanova studio: cost estimate, renovation control and material selection, so the interior is built on time and exactly as designed.",
+   "lead": "Even the best project can be spoiled during renovation. Supervision by a professional designer helps deliver the interior on schedule and exactly as visualised.",
+   "body": [
+    "Design supervision is the second stage of work after the design project. We prepare the cost estimate, control the renovation and help select materials, so the decisions from the visualisations are not lost between the drawing board and the site.",
+    "Construction takes enormous money, effort and time when you do it all yourself. A designer's supervision reduces rework and mistakes, and so saves both money and time."
+   ],
+   "faq": [
+    [
+     "What does design supervision include?",
+     "A cost estimate, renovation control and material selection."
+    ],
+    [
+     "Why is supervision needed if there are drawings?",
+     "Drawings describe what to do; supervision makes sure it is done exactly that way. The designer spots deviations from the project in time and helps make decisions when something on site does not go to plan."
+    ],
+    [
+     "Which properties is supervision available for?",
+     "Apartments, houses, offices and commercial spaces — every type of property the studio designs."
+    ],
+    [
+     "How much does design supervision cost?",
+     "The price depends on the property and the scope of work. Get in touch and we will calculate it for your project."
+    ]
+   ]
+  }
+ }
+]
