@@ -40,7 +40,7 @@ SOCIAL = {
     "behance": "https://www.behance.net/oksanaivanovadesign",
 }
 HERO = ("darkside", "07")        # project slug, image number
-ABOUT = ("bruhsellresidence", "03")
+ABOUT = ("bruhsellresidence", "02")
 ABOUT_PROJECT = "bruhsellresidence"
 BANNER = ("shale", "08")
 OG_HOME = "img/projs/darkside/07.jpg"   # JPEG kept for link previews (Facebook, Telegram, Viber)
