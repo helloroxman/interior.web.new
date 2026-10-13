@@ -29,7 +29,7 @@ CLICKY_ID = "101476466"                      # analytics site id carried over fr
 PDF = "sample_project.pdf"                   # kept at the root so the old URL keeps working
 BUILD_DATE = datetime.date.today().isoformat()
 STAT_PROJECTS = 120      # all completed projects (the site shows a selection)
-STAT_AREA = 12000        # m² designed in total
+STAT_AREA = 12517        # m² designed in total
 
 PHONE = "+380 97 141 99 77"
 PHONE_HREF = "tel:+380971419977"
@@ -536,7 +536,7 @@ def home_page(lang):
     <div class="hero__foot">
       <div class="stats">
         <div class="stat"><div class="stat__num" data-count="{STAT_PROJECTS}">{STAT_PROJECTS}</div><div class="stat__label">{esc(t['stat_projects'])}</div></div>
-        <div class="stat"><div class="stat__num" data-count="{STAT_AREA}" data-suffix="+">{fmt_num(STAT_AREA)}+</div><div class="stat__label">{esc(t['stat_area'])}</div></div>
+        <div class="stat"><div class="stat__num" data-count="{STAT_AREA}">{fmt_num(STAT_AREA)}</div><div class="stat__label">{esc(t['stat_area'])}</div></div>
       </div>
       <a href="#about" class="scroll-hint"><i></i>{esc(t['scroll'])}</a>
     </div>
