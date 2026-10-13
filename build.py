@@ -28,6 +28,8 @@ SITE = "https://oksanaivanova.com"          # canonical origin, no trailing slas
 CLICKY_ID = "101476466"                      # analytics site id carried over from the old site
 PDF = "sample_project.pdf"                   # kept at the root so the old URL keeps working
 BUILD_DATE = datetime.date.today().isoformat()
+STAT_PROJECTS = 120      # all completed projects (the site shows a selection)
+STAT_AREA = 12000        # m² designed in total
 
 PHONE = "+380 97 141 99 77"
 PHONE_HREF = "tel:+380971419977"
@@ -38,8 +40,8 @@ SOCIAL = {
     "behance": "https://www.behance.net/oksanaivanovadesign",
 }
 HERO = ("darkside", "07")        # project slug, image number
-ABOUT = ("becauselife", "07")
-ABOUT_PROJECT = "becauselife"
+ABOUT = ("greenville", "05")
+ABOUT_PROJECT = "greenville"
 BANNER = ("shale", "08")
 OG_HOME = "img/projs/darkside/07.jpg"   # JPEG kept for link previews (Facebook, Telegram, Viber)
 
@@ -56,7 +58,7 @@ T = {
   "lang": "uk", "other": "en", "dir_prefix": "",
   "site": "Студія дизайну інтер’єрів Oksana Ivanova",
   "site_short": "Oksana Ivanova",
-  "meta_desc": "Студія дизайну інтер’єрів Oksana Ivanova: дизайн квартир, будинків, офісів та комерційних просторів. 37 реалізованих проєктів, авторський нагляд, проєкти під ключ.",
+  "meta_desc": "Студія дизайну інтер’єрів Oksana Ivanova: дизайн квартир, будинків, офісів та комерційних просторів. 120 реалізованих проєктів, авторський нагляд, проєкти під ключ.",
   "nav": [("#projects","Проєкти"),("#services","Послуги"),("#process","Процес"),("#about","Про студію"),("#contacts","Контакти")],
   "hero_eyebrow": "Студія дизайну інтер’єрів",
   "hero_title": "Ми створюємо <span class=\"i\">гармонію</span> та комфорт для вашого життя",
@@ -149,7 +151,7 @@ T = {
   "lang": "en", "other": "uk", "dir_prefix": "en/",
   "site": "Oksana Ivanova Interior Design Studio",
   "site_short": "Oksana Ivanova",
-  "meta_desc": "Oksana Ivanova interior design studio: apartments, houses, offices and commercial spaces. 37 completed projects, design supervision and turnkey delivery.",
+  "meta_desc": "Oksana Ivanova interior design studio: apartments, houses, offices and commercial spaces. 120 completed projects, design supervision and turnkey delivery.",
   "nav": [("#projects","Projects"),("#services","Services"),("#process","Process"),("#about","Studio"),("#contacts","Contacts")],
   "hero_eyebrow": "Interior design studio",
   "hero_title": "We create <span class=\"i\">harmony</span> and comfort for your life",
@@ -533,9 +535,8 @@ def home_page(lang):
     </div>
     <div class="hero__foot">
       <div class="stats">
-        <div class="stat"><div class="stat__num" data-count="{len(PROJECTS)}">{len(PROJECTS)}</div><div class="stat__label">{esc(t['stat_projects'])}</div></div>
-        <div class="stat"><div class="stat__num" data-count="{total_area}" data-suffix="+">{fmt_num(total_area)}+</div><div class="stat__label">{esc(t['stat_area'])}</div></div>
-        <div class="stat"><div class="stat__num" data-count="{n_cities}">{n_cities}</div><div class="stat__label">{esc(t['stat_cities'])}</div></div>
+        <div class="stat"><div class="stat__num" data-count="{STAT_PROJECTS}">{STAT_PROJECTS}</div><div class="stat__label">{esc(t['stat_projects'])}</div></div>
+        <div class="stat"><div class="stat__num" data-count="{STAT_AREA}" data-suffix="+">{fmt_num(STAT_AREA)}+</div><div class="stat__label">{esc(t['stat_area'])}</div></div>
       </div>
       <a href="#about" class="scroll-hint"><i></i>{esc(t['scroll'])}</a>
     </div>
@@ -557,7 +558,7 @@ def home_page(lang):
         <figcaption>
           <span class="about__cap-label">{esc(t['about_caption'])}</span>
           <span class="about__cap-title">{esc(about_p['title'])}</span>
-          <span class="about__cap-meta">{esc(t['types'][about_p['type']])} · {about_p['area']} {area_unit(lang)} · {esc(about_p['location'][lang])}</span>
+          <span class="about__cap-meta">{" · ".join(x for x in (esc(t['types'][about_p['type']]), f"{about_p['area']} {area_unit(lang)}", esc(about_p['location'][lang])) if x)}</span>
           <span class="about__cap-more">{esc(t['about_caption_more'])} {SVG_ARROW}</span>
         </figcaption>
       </a>
@@ -721,7 +722,7 @@ def project_page(lang, p, prev_p, next_p):
         n = f"{i:02d}"
         lab = im.get("label", {}).get(lang, "")
         alt = (lab[:1].upper() + lab[1:] + " — " + ctx) if lab else t["img_alt"].format(title=p["title"], n=i)
-        gal.append(f'<a href="{imgdir}{n}.webp" class="{gallery_class(im)} reveal" data-full="{imgdir}{n}.webp"><img src="{imgdir}{n}-s.webp" alt="{esc(alt)}" loading="lazy" decoding="async" width="{im["w"]}" height="{im["h"]}"><span class="gallery__num">{n}</span></a>')
+        gal.append(f'<a href="{imgdir}{n}.webp" class="{gallery_class(im)} reveal" data-full="{imgdir}{n}.webp"><img src="{imgdir}{n}-s.webp" srcset="{imgdir}{n}-s.webp {img_width(im, 900)[0]}w, {imgdir}{n}.webp {img_width(im, 2000)[0]}w" sizes="(max-width: 700px) 100vw, (max-width: 900px) 50vw, 33vw" alt="{esc(alt)}" loading="lazy" decoding="async" width="{im["w"]}" height="{im["h"]}"><span class="gallery__num">{n}</span></a>')
     gallery = "\n".join(gal)
 
     chips = f'<span class="chip">{p["area"]} {unit}</span><span class="chip">{esc(typ)}</span>' + (f'<span class="chip">{esc(loc)}</span>' if loc else "")

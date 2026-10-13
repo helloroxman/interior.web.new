@@ -56,8 +56,15 @@
 
   /* ---------- Gallery masonry (keeps every photo uncropped) ---------- */
   var gallery = document.querySelector('.gallery');
+  // Phones: photos simply stack in one column at full width and do not open the lightbox
+  var phone = window.matchMedia('(max-width: 700px)');
   function layoutGallery() {
     if (!gallery) return;
+    if (phone.matches) {
+      gallery.classList.remove('gallery--masonry');
+      gallery.querySelectorAll('.gallery__item').forEach(function (it) { it.style.gridRowEnd = ''; });
+      return;
+    }
     gallery.classList.add('gallery--masonry');
     var cs = getComputedStyle(gallery);
     var row = parseFloat(cs.gridAutoRows) || 8;
@@ -204,7 +211,7 @@
       img.src = '';
       if (lastFocus) lastFocus.focus();
     }
-    items.forEach(function (it, i) { it.addEventListener('click', function (e) { e.preventDefault(); open(i); }); });
+    items.forEach(function (it, i) { it.addEventListener('click', function (e) { e.preventDefault(); if (!phone.matches) open(i); }); });
     lb.querySelector('.lightbox__close').addEventListener('click', close);
     lb.querySelector('.lightbox__prev').addEventListener('click', function () { show(idx - 1, -1); });
     lb.querySelector('.lightbox__next').addEventListener('click', function () { show(idx + 1, 1); });
