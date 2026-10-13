@@ -389,8 +389,8 @@ body.menu-open .menu { transform: translateY(0); visibility: visible; }
 .gallery__item:hover .gallery__num { opacity: 1; }
 @media (max-width: 900px) { .gallery { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 700px) {
-  .gallery { display: flex; flex-direction: column; gap: 12px; }
-  .gallery__item { cursor: default; }
+  .gallery { display: flex; flex-direction: column; gap: 4px; margin-left: calc(-1 * var(--gutter)); margin-right: calc(-1 * var(--gutter)); }
+  .gallery__item { cursor: default; border-radius: 0; }
   .gallery__item img { height: auto; }
   .gallery__item:hover img { transform: none; }
   .gallery__item::after, .gallery__num { display: none; }
