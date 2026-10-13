@@ -40,8 +40,8 @@ SOCIAL = {
     "behance": "https://www.behance.net/oksanaivanovadesign",
 }
 HERO = ("darkside", "07")        # project slug, image number
-ABOUT = ("greenville", "05")
-ABOUT_PROJECT = "greenville"
+ABOUT = ("bruhsellresidence", "03")
+ABOUT_PROJECT = "bruhsellresidence"
 BANNER = ("shale", "08")
 OG_HOME = "img/projs/darkside/07.jpg"   # JPEG kept for link previews (Facebook, Telegram, Viber)
 
@@ -58,7 +58,7 @@ T = {
   "lang": "uk", "other": "en", "dir_prefix": "",
   "site": "Студія дизайну інтер’єрів Oksana Ivanova",
   "site_short": "Oksana Ivanova",
-  "meta_desc": "Студія дизайну інтер’єрів Oksana Ivanova: дизайн квартир, будинків, офісів та комерційних просторів. 120 реалізованих проєктів, авторський нагляд, проєкти під ключ.",
+  "meta_desc": "Студія дизайну інтер’єрів Oksana Ivanova: дизайн квартир, будинків, офісів та комерційних просторів. понад 120 реалізованих проєктів, авторський нагляд, проєкти під ключ.",
   "nav": [("#projects","Проєкти"),("#services","Послуги"),("#process","Процес"),("#about","Про студію"),("#contacts","Контакти")],
   "hero_eyebrow": "Студія дизайну інтер’єрів",
   "hero_title": "Ми створюємо <span class=\"i\">гармонію</span> та комфорт для вашого життя",
@@ -151,7 +151,7 @@ T = {
   "lang": "en", "other": "uk", "dir_prefix": "en/",
   "site": "Oksana Ivanova Interior Design Studio",
   "site_short": "Oksana Ivanova",
-  "meta_desc": "Oksana Ivanova interior design studio: apartments, houses, offices and commercial spaces. 120 completed projects, design supervision and turnkey delivery.",
+  "meta_desc": "Oksana Ivanova interior design studio: apartments, houses, offices and commercial spaces. 120+ completed projects, design supervision and turnkey delivery.",
   "nav": [("#projects","Projects"),("#services","Services"),("#process","Process"),("#about","Studio"),("#contacts","Contacts")],
   "hero_eyebrow": "Interior design studio",
   "hero_title": "We create <span class=\"i\">harmony</span> and comfort for your life",
@@ -535,7 +535,7 @@ def home_page(lang):
     </div>
     <div class="hero__foot">
       <div class="stats">
-        <div class="stat"><div class="stat__num" data-count="{STAT_PROJECTS}">{STAT_PROJECTS}</div><div class="stat__label">{esc(t['stat_projects'])}</div></div>
+        <div class="stat"><div class="stat__num" data-count="{STAT_PROJECTS}" data-suffix="+">{STAT_PROJECTS}+</div><div class="stat__label">{esc(t['stat_projects'])}</div></div>
         <div class="stat"><div class="stat__num" data-count="{STAT_AREA}">{fmt_num(STAT_AREA)}</div><div class="stat__label">{esc(t['stat_area'])}</div></div>
       </div>
       <a href="#about" class="scroll-hint"><i></i>{esc(t['scroll'])}</a>
