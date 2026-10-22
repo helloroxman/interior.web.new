@@ -2381,112 +2381,6 @@
   ]
  },
  {
-  "slug": "quitespace",
-  "title": "Quite Space",
-  "area": 62,
-  "type": "apartment",
-  "location": {
-   "uk": "Львів",
-   "en": "Lviv"
-  },
-  "description": {
-   "uk": "Біла кухня-вітальня з пастельними акцентами та дитяча у синіх візерунках. Тиха квартира у Львові, де простір не перевантажений деталями.",
-   "en": "A white kitchen-living room with pastel accents and a children's room in blue patterns. A quiet apartment in Lviv where the space is not overloaded with details."
-  },
-  "images": [
-   {
-    "file": "01.jpg",
-    "w": 3508,
-    "h": 2480,
-    "label": {
-     "uk": "кухня-вітальня",
-     "en": "kitchen-living room"
-    }
-   },
-   {
-    "file": "02.jpg",
-    "w": 3508,
-    "h": 2480,
-    "label": {
-     "uk": "вітальня з сірим диваном",
-     "en": "living room with grey sofa"
-    }
-   },
-   {
-    "file": "03.jpg",
-    "w": 3508,
-    "h": 2480,
-    "label": {
-     "uk": "кухня з обіднім столом",
-     "en": "kitchen with dining table"
-    }
-   },
-   {
-    "file": "04.jpg",
-    "w": 3555,
-    "h": 2528,
-    "label": {
-     "uk": "дитяча кімната з рожевою стіною",
-     "en": "children's room with pink wall"
-    }
-   },
-   {
-    "file": "05.jpg",
-    "w": 3555,
-    "h": 2528,
-    "label": {
-     "uk": "дитяча з ліжком-горищем",
-     "en": "children's room with loft bed"
-    }
-   },
-   {
-    "file": "06.jpg",
-    "w": 3555,
-    "h": 2528,
-    "label": {
-     "uk": "дитяча з робочим місцем",
-     "en": "children's room with desk"
-    }
-   },
-   {
-    "file": "07.jpg",
-    "w": 3508,
-    "h": 2480,
-    "label": {
-     "uk": "ванна кімната з нішами",
-     "en": "bathroom with niche shelving"
-    }
-   },
-   {
-    "file": "08.jpg",
-    "w": 3508,
-    "h": 2480,
-    "label": {
-     "uk": "спальня з робочим столом",
-     "en": "bedroom with desk"
-    }
-   },
-   {
-    "file": "09.jpg",
-    "w": 3508,
-    "h": 2480,
-    "label": {
-     "uk": "спальня біля вікна",
-     "en": "bedroom by the window"
-    }
-   },
-   {
-    "file": "10.jpg",
-    "w": 3508,
-    "h": 2480,
-    "label": {
-     "uk": "спальня з туалетним столиком",
-     "en": "bedroom with dressing table"
-    }
-   }
-  ]
- },
- {
   "slug": "whitelight",
   "title": "White Light",
   "area": 142,
@@ -5558,21 +5452,12 @@
     "w": 2263,
     "h": 1600,
     "label": {
-     "uk": "передпокій",
-     "en": "hallway"
-    }
-   },
-   {
-    "file": "04.jpg",
-    "w": 2263,
-    "h": 1600,
-    "label": {
      "uk": "кухня з обідньою зоною",
      "en": "kitchen with dining area"
     }
    },
    {
-    "file": "05.jpg",
+    "file": "04.jpg",
     "w": 2263,
     "h": 1600,
     "label": {
@@ -5581,7 +5466,7 @@
     }
    },
    {
-    "file": "06.jpg",
+    "file": "05.jpg",
     "w": 2263,
     "h": 1600,
     "label": {
@@ -5590,7 +5475,7 @@
     }
    },
    {
-    "file": "07.jpg",
+    "file": "06.jpg",
     "w": 2263,
     "h": 1600,
     "label": {
@@ -5599,7 +5484,7 @@
     }
    },
    {
-    "file": "08.jpg",
+    "file": "07.jpg",
     "w": 2263,
     "h": 1600,
     "label": {
@@ -5608,7 +5493,7 @@
     }
    },
    {
-    "file": "09.jpg",
+    "file": "08.jpg",
     "w": 2263,
     "h": 1600,
     "label": {
@@ -5617,7 +5502,7 @@
     }
    },
    {
-    "file": "10.jpg",
+    "file": "09.jpg",
     "w": 2263,
     "h": 1600,
     "label": {
@@ -5626,7 +5511,7 @@
     }
    },
    {
-    "file": "11.jpg",
+    "file": "10.jpg",
     "w": 2263,
     "h": 1600,
     "label": {
@@ -5635,7 +5520,7 @@
     }
    },
    {
-    "file": "12.jpg",
+    "file": "11.jpg",
     "w": 2263,
     "h": 1600,
     "label": {
@@ -5644,7 +5529,7 @@
     }
    },
    {
-    "file": "13.jpg",
+    "file": "12.jpg",
     "w": 2263,
     "h": 1600,
     "label": {
@@ -5653,7 +5538,7 @@
     }
    },
    {
-    "file": "14.jpg",
+    "file": "13.jpg",
     "w": 2263,
     "h": 1600,
     "label": {
@@ -5662,7 +5547,7 @@
     }
    },
    {
-    "file": "15.jpg",
+    "file": "14.jpg",
     "w": 2263,
     "h": 1600,
     "label": {
@@ -6214,156 +6099,86 @@
   ]
  },
  {
-  "slug": "bazikalo",
-  "title": "Bazikalo",
-  "area": 28,
-  "type": "commercial",
-  "location": {
-   "uk": "",
-   "en": ""
-  },
-  "description": {
-   "uk": "Кав’ярня «Базікало»: лофт, сині металеві стільці, візерункова плитка та індустріальні лампи. Маленький простір з великим характером.",
-   "en": "Bazikalo coffee bar: loft, blue metal chairs, patterned tiles and industrial lamps. A small space with a big character."
-  },
-  "images": [
-   {
-    "file": "01.jpg",
-    "w": 2263,
-    "h": 1600,
-    "label": {
-     "uk": "план кав'ярні",
-     "en": "café floor plan"
-    }
-   },
-   {
-    "file": "02.jpg",
-    "w": 2263,
-    "h": 1600,
-    "label": {
-     "uk": "зала кав'ярні з вітриною",
-     "en": "café hall with display counter"
-    }
-   },
-   {
-    "file": "03.jpg",
-    "w": 2263,
-    "h": 1600,
-    "label": {
-     "uk": "місця для сидіння біля вікон",
-     "en": "seating by the windows"
-    }
-   },
-   {
-    "file": "04.jpg",
-    "w": 2263,
-    "h": 1600,
-    "label": {
-     "uk": "зала з блакитними стільцями",
-     "en": "café hall with blue chairs"
-    }
-   },
-   {
-    "file": "05.jpg",
-    "w": 2263,
-    "h": 1600,
-    "label": {
-     "uk": "барна стійка з вітриною",
-     "en": "bar counter with display case"
-    }
-   },
-   {
-    "file": "06.jpg",
-    "w": 2263,
-    "h": 1600,
-    "label": {
-     "uk": "зала з підвісними лампами",
-     "en": "café hall with pendant lamps"
-    }
-   }
-  ]
- },
- {
-  "slug": "graphitespace",
-  "title": "Graphite Space",
-  "area": 75,
+  "slug": "quitespace",
+  "title": "Quite Space",
+  "area": 62,
   "type": "apartment",
   "location": {
-   "uk": "ЖК Spectrum",
-   "en": "Spectrum housing complex"
+   "uk": "Львів",
+   "en": "Lviv"
   },
   "description": {
-   "uk": "Графітова кухня-вітальня з каміном, дитяча з кольоровим зигзагом та повноцінна гардеробна. Темне і світле у рівновазі.",
-   "en": "A graphite kitchen-living room with a fireplace, a children's room with a colourful chevron and a full dressing room. Dark and light in balance."
+   "uk": "Біла кухня-вітальня з пастельними акцентами та дитяча у синіх візерунках. Тиха квартира у Львові, де простір не перевантажений деталями.",
+   "en": "A white kitchen-living room with pastel accents and a children's room in blue patterns. A quiet apartment in Lviv where the space is not overloaded with details."
   },
   "images": [
    {
     "file": "01.jpg",
-    "w": 2263,
-    "h": 1600,
+    "w": 3508,
+    "h": 2480,
     "label": {
-     "uk": "план квартири",
-     "en": "apartment floor plan"
+     "uk": "кухня-вітальня",
+     "en": "kitchen-living room"
     }
    },
    {
     "file": "02.jpg",
-    "w": 2263,
-    "h": 1600,
+    "w": 3508,
+    "h": 2480,
     "label": {
-     "uk": "їдальня з гвинтовими сходами",
-     "en": "dining area with spiral staircase"
+     "uk": "вітальня з сірим диваном",
+     "en": "living room with grey sofa"
     }
    },
    {
     "file": "03.jpg",
-    "w": 2263,
-    "h": 1600,
+    "w": 3508,
+    "h": 2480,
     "label": {
-     "uk": "кухня-вітальня з каміном",
-     "en": "kitchen-living room with fireplace"
+     "uk": "кухня з обіднім столом",
+     "en": "kitchen with dining table"
     }
    },
    {
     "file": "04.jpg",
-    "w": 2263,
-    "h": 1600,
+    "w": 3555,
+    "h": 2528,
     "label": {
-     "uk": "вітальня з каміном",
-     "en": "living room with fireplace"
+     "uk": "дитяча кімната з рожевою стіною",
+     "en": "children's room with pink wall"
     }
    },
    {
     "file": "05.jpg",
-    "w": 2263,
-    "h": 1600,
+    "w": 3555,
+    "h": 2528,
     "label": {
-     "uk": "вітальня з антресоллю",
-     "en": "living room with mezzanine"
+     "uk": "дитяча з ліжком-горищем",
+     "en": "children's room with loft bed"
     }
    },
    {
     "file": "06.jpg",
-    "w": 2263,
-    "h": 1600,
+    "w": 3555,
+    "h": 2528,
     "label": {
-     "uk": "ванна кімната з кутовою ванною",
-     "en": "bathroom with corner bathtub"
+     "uk": "дитяча з робочим місцем",
+     "en": "children's room with desk"
     }
    },
    {
     "file": "07.jpg",
-    "w": 2263,
-    "h": 1600,
+    "w": 3508,
+    "h": 2480,
     "label": {
-     "uk": "санвузол з душовою",
-     "en": "bathroom with shower"
+     "uk": "ванна кімната з нішами",
+     "en": "bathroom with niche shelving"
     }
    },
    {
     "file": "08.jpg",
-    "w": 2263,
-    "h": 1600,
+    "w": 3508,
+    "h": 2480,
     "label": {
      "uk": "спальня з робочим столом",
      "en": "bedroom with desk"
@@ -6371,65 +6186,20 @@
    },
    {
     "file": "09.jpg",
-    "w": 2263,
-    "h": 1600,
+    "w": 3508,
+    "h": 2480,
     "label": {
-     "uk": "спальня з мольбертом",
-     "en": "bedroom with easel"
+     "uk": "спальня біля вікна",
+     "en": "bedroom by the window"
     }
    },
    {
     "file": "10.jpg",
-    "w": 2263,
-    "h": 1600,
+    "w": 3508,
+    "h": 2480,
     "label": {
-     "uk": "спальня з шафами",
-     "en": "bedroom with wardrobes"
-    }
-   },
-   {
-    "file": "11.jpg",
-    "w": 2263,
-    "h": 1600,
-    "label": {
-     "uk": "спальня з візерунчастими шпалерами",
-     "en": "bedroom with patterned wallpaper"
-    }
-   },
-   {
-    "file": "12.jpg",
-    "w": 2263,
-    "h": 1600,
-    "label": {
-     "uk": "спальня з підвісними лампами",
-     "en": "bedroom with pendant lamps"
-    }
-   },
-   {
-    "file": "13.jpg",
-    "w": 2263,
-    "h": 1600,
-    "label": {
-     "uk": "спальня з картиною над ліжком",
-     "en": "bedroom with painting above bed"
-    }
-   },
-   {
-    "file": "14.jpg",
-    "w": 2263,
-    "h": 1600,
-    "label": {
-     "uk": "спальня",
-     "en": "bedroom"
-    }
-   },
-   {
-    "file": "15.jpg",
-    "w": 2263,
-    "h": 1600,
-    "label": {
-     "uk": "гардеробна",
-     "en": "walk-in wardrobe"
+     "uk": "спальня з туалетним столиком",
+     "en": "bedroom with dressing table"
     }
    }
   ]

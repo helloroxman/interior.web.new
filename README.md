@@ -6,7 +6,7 @@ Modern, fully static, bilingual (UA / EN) portfolio site. No build tools or fram
 
 ```
 index.html, en/index.html             home pages (UA / EN)
-projects/<slug>.html                  project pages (37 per language)
+projects/<slug>.html                  project pages (35 per language)
 services/<slug>.html                  service pages: apartment, house, office & commercial, supervision
 <slug>.html, en/<slug>.html           redirects from the old site's URLs to the new project pages
 sample_project.pdf                    sample design album (kept at its old URL)

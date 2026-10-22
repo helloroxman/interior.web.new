@@ -69,7 +69,6 @@ T = {
   "about_eyebrow": "Про студію",
   "about_title": "Досвід, гарний смак і розуміння сучасних тенденцій — <span class=\"i\">лише вершина айсберга</span>",
   "about_p1": "Ми розуміємо індивідуальність та цілі кожного замовника і втілюємо їх у життя. Наша місія — поєднати практичність, зручність, комфорт і функціональність з естетикою.",
-  "about_p2": "Студія має великий досвід у проєктуванні внутрішнього та зовнішнього простору, постійно розвивається і використовує інноваційні технології та якісні сучасні матеріали.",
   "about_caption": "З проєкту", "about_caption_more": "Дивитись проєкт",
   "values": [("Індивідуально","Кожен проєкт починається з вашого способу життя, а не з каталогу."),
              ("Функціонально","Планування, освітлення та зберігання, які працюють щодня."),
@@ -135,7 +134,6 @@ T = {
   "home_title": "Дизайн інтер’єру квартир, будинків і офісів — студія Oksana Ivanova",
   "alt_ctx": "{title}, {kicker}",
   "rooms_in": "У проєкті:",
-  "rooms_text": "У галереї — {plan}{rooms}.", "rooms_plan": "планування, ",
   "svc_by_type": "Послуги за типом об’єкта:",
   "svc_more": "Детальніше про послугу «{name}»",
   "svc_includes": "Що входить у проєкт", "svc_process": "Як ми працюємо", "svc_faq": "Часті запитання",
@@ -162,7 +160,6 @@ T = {
   "about_eyebrow": "About the studio",
   "about_title": "Experience, good taste and an understanding of current trends are <span class=\"i\">only the tip of the iceberg</span>",
   "about_p1": "We understand the individuality and goals of every client and bring them to life. Our mission is to combine practicality, convenience, comfort and functionality with aesthetics.",
-  "about_p2": "The studio has extensive experience in designing interior and exterior spaces, constantly evolves and uses innovative technologies and high-quality modern materials.",
   "about_caption": "From the project", "about_caption_more": "View project",
   "values": [("Personal","Every project starts with your way of life, not with a catalogue."),
              ("Functional","Layouts, lighting and storage that work every single day."),
@@ -228,7 +225,6 @@ T = {
   "home_title": "Interior Design for Apartments, Houses & Offices — Oksana Ivanova Studio",
   "alt_ctx": "{title}, {kicker}",
   "rooms_in": "Includes:",
-  "rooms_text": "The gallery covers {plan}{rooms}.", "rooms_plan": "the floor plan, ",
   "svc_by_type": "Services by property type:",
   "svc_more": "More about {name}",
   "svc_includes": "What the project includes", "svc_process": "How we work", "svc_faq": "Frequently asked questions",
@@ -481,7 +477,7 @@ def donut_svg(steps, label):
 def steps_html(steps):
     mx = max(v for _, v in steps)
     lis = "".join(
-        f'<li><span class="steps__name">{esc(n)}<i class="steps__bar" style="width:{v / mx * 100:.1f}%;background:{STEP_COLORS[i % len(STEP_COLORS)]}"></i></span><span class="steps__pct">{v:g}%</span></li>'
+        f'<li><span class="steps__name">{esc(n)}<i class="steps__bar" style="width:{v / mx * 100:.1f}%;background:{STEP_COLORS[i % len(STEP_COLORS)]}"></i></span></li>'
         for i, (n, v) in enumerate(steps))
     return f'<ol class="steps">{lis}</ol>'
 
@@ -513,7 +509,6 @@ def home_page(lang):
     filters = "".join(f'<button class="filter{" is-active" if k=="all" else ""}" data-filter="{k}" aria-pressed="{"true" if k=="all" else "false"}">{esc(l)} <small>{counts[k]}</small></button>' for k, l in t["filters"])
     cards = "\n".join(card(p, t, base, projects_dir, i % 5 == 0) for i, p in enumerate(PROJECTS))
     services = "".join(f"""<article class="service reveal">
-      <span class="service__num">0{i+1}</span>
       <img class="service__icon" src="{base}img/icons/ico-case-1-{i+1}.svg" alt="" width="44" height="44">
       <h3>{esc(n)}</h3><p>{esc(d)}</p>
     </article>""" for i, (n, d) in enumerate(t["services"]))
@@ -528,7 +523,6 @@ def home_page(lang):
   <div class="container">
     <p class="eyebrow">{esc(t['hero_eyebrow'])}</p>
     <h1 class="display h1 hero__title">{t['hero_title']}</h1>
-    <p class="hero__lead">{esc(t['hero_lead'])}</p>
     <div class="btn-row">
       <a href="#contacts" class="btn btn--light">{esc(t['hero_btn1'])}</a>
       <a href="#projects" class="btn btn--outline-light">{esc(t['hero_btn2'])}</a>
@@ -549,7 +543,6 @@ def home_page(lang):
       <p class="eyebrow">{esc(t['about_eyebrow'])}</p>
       <h2 class="display h2">{t['about_title']}</h2>
       <p class="lead">{esc(t['about_p1'])}</p>
-      <p class="muted">{esc(t['about_p2'])}</p>
       <ul class="about__values">{values}</ul>
     </div>
     <figure class="about__media reveal">
@@ -591,6 +584,7 @@ def home_page(lang):
         <h2 class="display h2">{t['services_title']}</h2>
       </div>
       <a href="#contacts" class="btn btn--light">{esc(t['services_btn'])}</a>
+      <p class="lead section-head__lead">{esc(t['hero_lead'])}</p>
     </div>
     <div class="services">{services}</div>
     <nav class="svc-links reveal" aria-label="{esc(t['svc_by_type'])}">
@@ -732,10 +726,6 @@ def project_page(lang, p, prev_p, next_p):
       {f'<li><span>{esc(t["fact_location"])}</span><b>{esc(loc)}</b></li>' if loc else ''}
       <li><span>{esc(t['fact_photos'])}</span><b>{len(p['images'])}</b></li>
     </ul>"""
-    has_plan = any(("план" in im.get("label", {}).get("uk", "")) for im in p["images"])
-    rooms_html = ""
-    if rooms:
-        rooms_html = f"""<p class="muted mt-1">{esc(t['rooms_text'].format(n=len(p['images']), plan=t['rooms_plan'] if has_plan else '', rooms=', '.join(rooms)))}</p>"""
 
     related = [q for q in PROJECTS if q["type"] == p["type"] and q["slug"] != p["slug"]][:3]
     if len(related) < 3:
@@ -758,23 +748,8 @@ def project_page(lang, p, prev_p, next_p):
 <section class="project-hero">
   <img src="{imgdir}cover.webp" srcset="{imgdir}cover-s.webp 640w, {imgdir}cover.webp 1230w" sizes="100vw" alt="{esc(kick + ' — ' + p['title'])}" fetchpriority="high" decoding="async">
   <div class="container">
-    <nav class="crumbs" aria-label="Breadcrumb"><a href="{home}">{esc(t['crumb_home'])}</a><span>/</span><a href="{home}#projects">{esc(t['crumb_projects'])}</a><span>/</span><span>{esc(p['title'])}</span></nav>
     <h1 class="display h1"><span class="project-hero__kicker">{esc(kick)}</span>{esc(p['title'])}</h1>
     <div class="chips">{chips}</div>
-  </div>
-</section>
-
-<section class="section section--tight">
-  <div class="container project-intro">
-    <div class="reveal">
-      <p class="eyebrow">{esc(t['project_eyebrow'])}</p>
-      {facts}
-    </div>
-    <div class="reveal">
-      <p class="lead">{esc(p['description'][lang])}</p>
-      {rooms_html}
-      <a href="{svc_href}" class="text-link mt-2">{esc(t['svc_more'].format(name=svc[lang]['nav'] if lang == 'uk' else svc[lang]['nav'].lower()))} {SVG_ARROW}</a>
-    </div>
   </div>
 </section>
 
@@ -786,6 +761,19 @@ def project_page(lang, p, prev_p, next_p):
     </div>
     <div class="gallery">
 {gallery}
+    </div>
+  </div>
+</section>
+
+<section class="section section--tight">
+  <div class="container project-intro">
+    <div class="reveal">
+      <p class="eyebrow">{esc(t['project_eyebrow'])}</p>
+      {facts}
+    </div>
+    <div class="reveal">
+      <p class="lead">{esc(p['description'][lang])}</p>
+      <a href="{svc_href}" class="text-link mt-2">{esc(t['svc_more'].format(name=svc[lang]['nav'] if lang == 'uk' else svc[lang]['nav'].lower()))} {SVG_ARROW}</a>
     </div>
   </div>
 </section>
