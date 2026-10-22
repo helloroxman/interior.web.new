@@ -55,29 +55,30 @@
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeLangs(); });
 
   /* ---------- Gallery masonry (keeps every photo uncropped) ---------- */
-  var gallery = document.querySelector('.gallery');
+  var galleries = Array.prototype.slice.call(document.querySelectorAll('.gallery'));
   // Phones: photos simply stack in one column at full width and do not open the lightbox
   var phone = window.matchMedia('(max-width: 700px)');
   function layoutGallery() {
-    if (!gallery) return;
-    if (phone.matches) {
-      gallery.classList.remove('gallery--masonry');
-      gallery.querySelectorAll('.gallery__item').forEach(function (it) { it.style.gridRowEnd = ''; });
-      return;
-    }
-    gallery.classList.add('gallery--masonry');
-    var cs = getComputedStyle(gallery);
-    var row = parseFloat(cs.gridAutoRows) || 8;
-    var gap = parseFloat(cs.rowGap) || 0;
-    gallery.querySelectorAll('.gallery__item').forEach(function (it) {
-      var im = it.querySelector('img');
-      var w = parseFloat(im.getAttribute('width')), h = parseFloat(im.getAttribute('height'));
-      if (!w || !h) return;
-      var height = it.getBoundingClientRect().width * h / w;
-      it.style.gridRowEnd = 'span ' + Math.max(1, Math.round((height + gap) / (row + gap)));
+    galleries.forEach(function (gallery) {
+      if (phone.matches) {
+        gallery.classList.remove('gallery--masonry');
+        gallery.querySelectorAll('.gallery__item').forEach(function (it) { it.style.gridRowEnd = ''; });
+        return;
+      }
+      gallery.classList.add('gallery--masonry');
+      var cs = getComputedStyle(gallery);
+      var row = parseFloat(cs.gridAutoRows) || 8;
+      var gap = parseFloat(cs.rowGap) || 0;
+      gallery.querySelectorAll('.gallery__item').forEach(function (it) {
+        var im = it.querySelector('img');
+        var w = parseFloat(im.getAttribute('width')), h = parseFloat(im.getAttribute('height'));
+        if (!w || !h) return;
+        var height = it.getBoundingClientRect().width * h / w;
+        it.style.gridRowEnd = 'span ' + Math.max(1, Math.round((height + gap) / (row + gap)));
+      });
     });
   }
-  if (gallery) {
+  if (galleries.length) {
     layoutGallery();
     var rt;
     window.addEventListener('resize', function () { clearTimeout(rt); rt = setTimeout(layoutGallery, 120); });

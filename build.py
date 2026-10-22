@@ -22,6 +22,7 @@ CSS_V = _asset_version("css/style.css")
 JS_V = _asset_version("js/main.js")
 PROJECTS = json.load(open(os.path.join(ROOT, "data", "projects.json"), encoding="utf-8"))
 SERVICES = json.load(open(os.path.join(ROOT, "data", "services.json"), encoding="utf-8"))
+NEW_PROJECTS = json.load(open(os.path.join(ROOT, "data", "new.json"), encoding="utf-8"))  # drafts for /new/
 BY_SLUG = {p["slug"]: p for p in PROJECTS}
 
 SITE = "https://oksanaivanova.com"          # canonical origin, no trailing slash
@@ -983,6 +984,64 @@ Allow: /
 Sitemap: {SITE}/sitemap.xml
 """
 
+def new_page():
+    """Temporary, unlisted page (/new/) with galleries of projects that are still being prepared."""
+    t = T["uk"]
+    base = "../"
+    home = base + "index.html"
+    unit = area_unit("uk")
+    blocks = []
+    for p in NEW_PROJECTS:
+        imgdir = f"{base}img/projs/{p['slug']}/"
+        area = f"{p['area']:g}".replace(".", ",")
+        gal = "\n".join(
+            f'<a href="{imgdir}{i:02d}.webp" class="{gallery_class(im)} reveal" data-full="{imgdir}{i:02d}.webp"><img src="{imgdir}{i:02d}-s.webp" srcset="{imgdir}{i:02d}-s.webp {img_width(im, 900)[0]}w, {imgdir}{i:02d}.webp {img_width(im, 2000)[0]}w" sizes="(max-width: 700px) 100vw, (max-width: 900px) 50vw, 33vw" alt="{esc(t["img_alt"].format(title=p["title"], n=i))}" loading="lazy" decoding="async" width="{im["w"]}" height="{im["h"]}"><span class="gallery__num">{i:02d}</span></a>'
+            for i, im in enumerate(p["images"], start=1))
+        blocks.append(f"""<section class="section section--tight section--alt" id="{p['slug']}">
+  <div class="container">
+    <div class="section-head reveal">
+      <div><p class="eyebrow">{esc(t['types'][p['type']])} · {area} {unit}</p><h2 class="display h2">{esc(p['title'])}</h2></div>
+      <span class="muted">{len(p['images'])} фото</span>
+    </div>
+    <div class="gallery">
+{gal}
+    </div>
+  </div>
+</section>""")
+    total = sum(len(p["images"]) for p in NEW_PROJECTS)
+    body = f"""<body>
+{header(t, base, home, base + "en/index.html", solid=True)}
+<main>
+<section class="section section--tight new-intro">
+  <div class="container">
+    <p class="eyebrow">Нове</p>
+    <h1 class="display h2">Нові проєкти</h1>
+    <p class="lead">Свіжі роботи студії, які незабаром з’являться в портфоліо.</p>
+  </div>
+</section>
+{chr(10).join(blocks)}
+</main>
+
+<div class="lightbox" role="dialog" aria-modal="true" aria-label="{esc(t['gallery_title'])}">
+  <div class="lightbox__bar">
+    <span class="lightbox__counter">1 / {total}</span>
+    <span class="lightbox__hint">{esc(t['lb_hint'])}</span>
+    <button class="lightbox__btn lightbox__close" aria-label="{esc(t['lb_close'])}">{SVG_X}</button>
+  </div>
+  <div class="lightbox__stage">
+    <img src="" alt="">
+    <button class="lightbox__btn lightbox__prev" aria-label="{esc(t['lb_prev'])}">{SVG_LEFT}</button>
+    <button class="lightbox__btn lightbox__next" aria-label="{esc(t['lb_next'])}">{SVG_RIGHT}</button>
+  </div>
+</div>
+{footer(t, base, home)}"""
+    og = f"img/projs/{NEW_PROJECTS[0]['slug']}/cover.jpg" if NEW_PROJECTS else OG_HOME
+    h = head(t, base, "Нові проєкти | Oksana Ivanova", "Нові дизайн-проєкти студії Oksana Ivanova.", "new/", "new/", og)
+    # unlisted draft page: keep it out of search and drop the language alternates
+    h = "\n".join(l for l in h.split("\n") if 'hreflang=' not in l and 'og:locale:alternate' not in l)
+    h = h.replace('<meta name="description"', '<meta name="robots" content="noindex, nofollow">\n<meta name="description"', 1)
+    return h + body
+
 def notfound_page():
     # Served by GitHub Pages at any depth: use root-relative paths.
     t = T["uk"]; e = T["en"]
@@ -1036,6 +1095,7 @@ def main():
     for x in SERVICES:
         write(f"services/{x['slug']}.html", service_page("uk", x))
         write(f"en/services/{x['slug']}.html", service_page("en", x))
+    write("new/index.html", new_page())
     write("404.html", notfound_page())
     write("robots.txt", ROBOTS)
     write("sitemap.xml", sitemap())

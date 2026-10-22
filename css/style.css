@@ -489,3 +489,7 @@ i, em, .i, blockquote, cite, address { font-style: normal; }
 .faq__item p { margin: 0 0 16px; color: var(--ink-2); font-size: 15px; }
 .cta.section--dark .h2 { color: var(--on-dark); }
 @media (max-width: 800px) { .svc-intro { grid-template-columns: 1fr; } }
+
+/* Temporary /new/ page */
+.new-intro { padding-top: calc(var(--header-h) + clamp(40px, 6vw, 88px)); padding-bottom: clamp(32px, 4vw, 56px); }
+.new-intro .h2 { margin-bottom: 12px; }

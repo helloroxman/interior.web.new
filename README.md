@@ -12,11 +12,13 @@ services/<slug>.html                  service pages: apartment, house, office & 
 sample_project.pdf                    sample design album (kept at its old URL)
 robots.txt, sitemap.xml               generated for search engines
 404.html                              bilingual "not found" page
+new/index.html                        temporary unlisted page (/new/, noindex) with galleries of projects in preparation
 css/style.css, js/main.js             styles and scripts
 fonts/                                self-hosted Inter (OFL licence)
 img/projs/<slug>/                     NN.webp (≤2000 px), NN-s.webp (≤900 px), cover.webp, cover-s.webp, cover.jpg (link previews)
 data/projects.json                    projects: title, area, type, location, description, photos with room labels
 data/services.json                    service page texts and FAQ (UA / EN)
+data/new.json                         draft projects shown on /new/ (slug, title, area, type, photos)
 build.py                              generator: data → every HTML page, sitemap and robots
 ```
 
