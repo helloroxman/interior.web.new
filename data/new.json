@@ -8,162 +8,290 @@
    "uk": "",
    "en": ""
   },
-  "cover": "09",
+  "description": {
+   "uk": "Світла квартира в пісочних тонах: паркет ялинкою, фасади з темного дерева й латунна фурнітура. П-подібна кухня з барною стійкою та рифленою скляною вітриною, спальня з дерев’яними рейками на стіні, кабінет із робочим місцем біля вікна та ванна з рельєфною плиткою.",
+   "en": "A light apartment in sand tones: herringbone parquet, dark wood fronts and brass fittings. A U-shaped kitchen with a breakfast bar and a fluted-glass display cabinet, a bedroom with wooden wall strips, a study with a window desk and a bathroom with embossed tiles."
+  },
+  "cover": "08",
   "images": [
    {
     "file": "01.jpg",
     "w": 2000,
-    "h": 1292
+    "h": 1292,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "передпокій з шафою і дзеркалом",
+     "en": "hallway with wardrobe and mirror"
+    }
    },
    {
     "file": "03.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "передпокій з шафою і лавою",
+     "en": "hallway with wardrobe and bench"
+    }
    },
    {
     "file": "04.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "передпокій з овальним дзеркалом",
+     "en": "hallway with oval mirror"
+    }
    },
    {
     "file": "05.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "коридор і кухня-вітальня",
+     "en": "corridor and kitchen-living room"
+    }
    },
    {
     "file": "06.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "коридор з видом на вітальню",
+     "en": "corridor with view to the living room"
+    }
    },
    {
     "file": "07.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "кухня-вітальня з кутовим диваном",
+     "en": "kitchen-living room with corner sofa"
+    }
    },
    {
     "file": "08.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "вітальня з панорамним вікном",
+     "en": "living room with panoramic window"
+    }
    },
    {
     "file": "09.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "вітальня з кутовим диваном",
+     "en": "living room with corner sofa"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "вітальня із зеленою вітриною",
+     "en": "living room with green display cabinet"
+    }
    },
    {
     "file": "11.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кухня з барною стійкою",
+     "en": "kitchen with breakfast bar"
+    }
    },
    {
     "file": "12.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кухня зі скляною вітриною",
+     "en": "kitchen with glass display cabinet"
+    }
    },
    {
     "file": "13.jpg",
-    "w": 2000,
-    "h": 1422
+    "w": 1422,
+    "h": 2000,
+    "label": {
+     "uk": "кухня з барною стійкою",
+     "en": "kitchen with breakfast bar"
+    }
    },
    {
     "file": "14.jpg",
-    "w": 1422,
-    "h": 2000
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "кухня з барною стійкою",
+     "en": "kitchen with breakfast bar"
+    }
    },
    {
     "file": "15.jpg",
-    "w": 2000,
-    "h": 1422
+    "w": 1422,
+    "h": 2000,
+    "label": {
+     "uk": "кухня з видом на вітальню",
+     "en": "kitchen with view to the living room"
+    }
    },
    {
     "file": "16.jpg",
-    "w": 1422,
-    "h": 2000
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "кухня: мийка і відкриті полиці",
+     "en": "kitchen sink and open shelves"
+    }
    },
    {
     "file": "17.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня з рейками на стіні",
+     "en": "bedroom with wall strips"
+    }
    },
    {
     "file": "18.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня з панорамним вікном",
+     "en": "bedroom with panoramic window"
+    }
    },
    {
     "file": "19.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня з гардеробною за рейковою перегородкою",
+     "en": "bedroom with slatted wardrobe screen"
+    }
    },
    {
     "file": "20.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня з туалетним столиком",
+     "en": "bedroom with dressing table"
+    }
    },
    {
     "file": "21.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кабінет з диваном",
+     "en": "study with sofa"
+    }
    },
    {
     "file": "22.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кабінет з шафою",
+     "en": "study with wardrobe"
+    }
    },
    {
     "file": "23.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кабінет з робочим місцем біля вікна",
+     "en": "study with window desk"
+    }
    },
    {
     "file": "24.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кабінет з диваном",
+     "en": "study with sofa"
+    }
    },
    {
     "file": "25.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "кабінет з комодом",
+     "en": "study with sideboard"
+    }
    },
    {
     "file": "26.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "ванна кімната з рельєфною плиткою",
+     "en": "bathroom with embossed tiles"
+    }
    },
    {
     "file": "27.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з круглим дзеркалом",
+     "en": "bathroom with round mirror"
+    }
    },
    {
     "file": "28.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната: умивальник",
+     "en": "bathroom washbasin"
+    }
    },
    {
     "file": "29.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "ванна кімната з ванною",
+     "en": "bathroom with bathtub"
+    }
    },
    {
     "file": "30.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з ванною",
+     "en": "bathroom with bathtub"
+    }
    },
    {
     "file": "31.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з підвісним унітазом",
+     "en": "bathroom with wall-hung toilet"
+    }
    }
   ]
  },
@@ -176,243 +304,423 @@
    "uk": "",
    "en": ""
   },
-  "cover": "02",
+  "description": {
+   "uk": "Світле дерево, сірий текстиль і тераццо: вітальня з кутовим диваном на тлі дерев’яних панелей переходить у кухню та обідню зону біля панорамного вікна. Спальня з шафою на всю стіну, кабінет із диваном і душ у чорній рамі.",
+   "en": "Light wood, grey textiles and terrazzo: a living room with a corner sofa against wooden panels flows into the kitchen and a dining area by the panoramic window. A bedroom with a full-wall wardrobe, a study with a sofa and a black-framed shower."
+  },
+  "cover": "05",
   "images": [
    {
     "file": "01.jpg",
     "w": 1678,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2000,
-    "h": 1208
+    "h": 1713,
+    "label": {
+     "uk": "передпокій з шафою",
+     "en": "hallway with wardrobe"
+    }
    },
    {
     "file": "03.jpg",
-    "w": 2000,
-    "h": 1211
+    "w": 1600,
+    "h": 2000,
+    "label": {
+     "uk": "коридор до вхідних дверей",
+     "en": "corridor to the front door"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2000,
-    "h": 1212
+    "h": 1422,
+    "label": {
+     "uk": "коридор і ванна кімната",
+     "en": "corridor and bathroom"
+    }
    },
    {
     "file": "05.jpg",
     "w": 2000,
-    "h": 1713
+    "h": 1208,
+    "label": {
+     "uk": "кухня-вітальня з обідньою зоною біля вікна",
+     "en": "kitchen-living room with dining area by the window"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2000,
-    "h": 1713
+    "h": 1212,
+    "label": {
+     "uk": "вітальня з кутовим диваном",
+     "en": "living room with corner sofa"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2000,
-    "h": 1714
+    "h": 1713,
+    "label": {
+     "uk": "вітальня з дерев’яними панелями",
+     "en": "living room with wooden panels"
+    }
    },
    {
     "file": "08.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1211,
+    "label": {
+     "uk": "кухня з фартухом з тераццо",
+     "en": "kitchen with terrazzo backsplash"
+    }
    },
    {
     "file": "09.jpg",
-    "w": 1562,
-    "h": 2000
+    "w": 2000,
+    "h": 1714,
+    "label": {
+     "uk": "кухня з вбудованою технікою",
+     "en": "kitchen with built-in appliances"
+    }
    },
    {
     "file": "10.jpg",
-    "w": 2000,
-    "h": 1422
+    "w": 1941,
+    "h": 2000,
+    "label": {
+     "uk": "обідня зона біля панорамного вікна",
+     "en": "dining area by the panoramic window"
+    }
    },
    {
     "file": "11.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 2000,
+    "label": {
+     "uk": "обідня зона з круглим столом",
+     "en": "dining area with round table"
+    }
    },
    {
     "file": "12.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня з м’яким узголів’ям",
+     "en": "bedroom with upholstered headboard"
+    }
    },
    {
     "file": "13.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня з дерев’яними панелями",
+     "en": "bedroom with wooden panels"
+    }
    },
    {
     "file": "14.jpg",
     "w": 2000,
-    "h": 1787
+    "h": 1422,
+    "label": {
+     "uk": "спальня з шафою на всю стіну",
+     "en": "bedroom with full-wall wardrobe"
+    }
    },
    {
     "file": "15.jpg",
     "w": 2000,
-    "h": 1700
+    "h": 1422,
+    "label": {
+     "uk": "спальня з телевізором",
+     "en": "bedroom with TV"
+    }
    },
    {
     "file": "16.jpg",
-    "w": 1941,
-    "h": 2000
+    "w": 2000,
+    "h": 1787,
+    "label": {
+     "uk": "кабінет з робочим місцем біля вікна",
+     "en": "study with window desk"
+    }
    },
    {
     "file": "17.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кабінет з телевізором",
+     "en": "study with TV"
+    }
    },
    {
     "file": "18.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 2000,
+    "label": {
+     "uk": "кабінет з телевізором",
+     "en": "study with TV"
+    }
    },
    {
     "file": "19.jpg",
-    "w": 1400,
-    "h": 2000
+    "w": 2000,
+    "h": 1700,
+    "label": {
+     "uk": "кабінет з диваном",
+     "en": "study with sofa"
+    }
    },
    {
     "file": "20.jpg",
-    "w": 1400,
-    "h": 2000
+    "w": 2000,
+    "h": 2000,
+    "label": {
+     "uk": "кабінет з диваном",
+     "en": "study with sofa"
+    }
    },
    {
     "file": "21.jpg",
     "w": 2000,
-    "h": 2000
+    "h": 1422,
+    "label": {
+     "uk": "ванна кімната з душем",
+     "en": "bathroom with shower"
+    }
    },
    {
     "file": "22.jpg",
-    "w": 2000,
-    "h": 2000
+    "w": 1400,
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з душовою кабіною",
+     "en": "bathroom with shower enclosure"
+    }
    },
    {
     "file": "23.jpg",
-    "w": 1600,
-    "h": 2000
+    "w": 1400,
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з тераццо",
+     "en": "bathroom with terrazzo"
+    }
    },
    {
     "file": "24.jpg",
-    "w": 2000,
-    "h": 2000
+    "w": 1562,
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з пральною машиною",
+     "en": "bathroom with washing machine"
+    }
    }
   ]
  },
  {
   "slug": "bordo",
   "title": "Bordo",
-  "area": null,
+  "area": 24.8,
   "type": "apartment",
   "location": {
    "uk": "",
    "en": ""
+  },
+  "description": {
+   "uk": "Студія у бордових акцентах: ліжко з хвилястим узголів’ям, глазурована плитка на кухні та синій текстиль на тлі світлих фасадів. Круглий стіл біля панорамного вікна, дзеркало вільної форми в передпокої й ванна з латунною душовою кабіною.",
+   "en": "A studio with burgundy accents: a bed with a wavy headboard, glazed kitchen tiles and blue textiles against light fronts. A round table by the panoramic window, a free-form mirror in the hallway and a bathroom with a brass-framed shower."
   },
   "cover": "04",
   "images": [
    {
     "file": "01.jpg",
     "w": 2000,
-    "h": 1244
+    "h": 1244,
+    "label": {
+     "uk": "план квартири-студії",
+     "en": "studio apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "передпокій з шафою",
+     "en": "hallway with wardrobe"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "передпокій з дзеркалом вільної форми",
+     "en": "hallway with free-form mirror"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "студія з ліжком і обідньою зоною",
+     "en": "studio with bed and dining area"
+    }
    },
    {
     "file": "05.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "студія з ліжком і кухнею",
+     "en": "studio with bed and kitchen"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "студія з хвилястим узголів’ям",
+     "en": "studio with wavy headboard"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кухня з бордовою плиткою",
+     "en": "kitchen with burgundy tiles"
+    }
    },
    {
     "file": "08.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "обідня зона біля панорамного вікна",
+     "en": "dining area by the panoramic window"
+    }
    },
    {
     "file": "09.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "студія з телевізором і пуфом",
+     "en": "studio with TV console and pouf"
+    }
    },
    {
     "file": "10.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з пральною машиною",
+     "en": "bathroom with washing machine"
+    }
    },
    {
     "file": "11.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з овальним дзеркалом",
+     "en": "bathroom with oval mirror"
+    }
    },
    {
     "file": "12.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з душовою кабіною",
+     "en": "bathroom with shower enclosure"
+    }
    },
    {
     "file": "13.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з рушникосушкою",
+     "en": "bathroom with towel rail"
+    }
    }
   ]
  },
  {
   "slug": "karpuncia",
   "title": "Karpuncia",
-  "area": null,
+  "area": 45,
   "type": "apartment",
   "location": {
    "uk": "",
    "en": ""
   },
-  "cover": "01",
+  "description": {
+   "uk": "Кухня-вітальня у теплій теракотово-сірій гамі: мармур із прожилками, теракотові фасади, шпон темного дерева та стеля з фактурою бетону. Острів із вбудованою винною шафою, кутовий диван і мармурова стіна з телевізором під трековим освітленням.",
+   "en": "A kitchen-living room in warm terracotta and grey: veined marble, terracotta fronts, dark wood veneer and a concrete-textured ceiling. An island with built-in wine storage, a corner sofa and a marble TV wall under track lighting."
+  },
+  "cover": "02",
   "images": [
    {
     "file": "01.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1500,
+    "label": {
+     "uk": "план кухні-вітальні",
+     "en": "kitchen-living room floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кухня-вітальня з кутовим диваном",
+     "en": "kitchen-living room with corner sofa"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "вітальня з мармуровою стіною",
+     "en": "living room with marble tv wall"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кухня з островом і винною шафою",
+     "en": "kitchen with island and wine storage"
+    }
    },
    {
     "file": "05.jpg",
     "w": 2000,
-    "h": 1500
+    "h": 1422,
+    "label": {
+     "uk": "кухня з мармуровим фартухом",
+     "en": "kitchen with marble backsplash"
+    }
    }
   ]
  },
@@ -425,679 +733,1195 @@
    "uk": "",
    "en": ""
   },
+  "description": {
+   "uk": "Квартира у теплій пісочній палітрі: світлий дуб на підлозі, панелі під камінь і матові фасади з чорними ручками. Кухня-вітальня з обідньою зоною біля панорамного вікна, спальня з робочим місцем і ванна кімната з душем.",
+   "en": "An apartment in a warm sand palette: light oak floors, stone-look panels and matte fronts with black handles. A kitchen-living room with a dining area by the panoramic window, a bedroom with a desk and a bathroom with a shower."
+  },
   "cover": "06",
   "images": [
    {
     "file": "01.jpg",
     "w": 2000,
-    "h": 825
+    "h": 825,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "передпокій з овальним дзеркалом",
+     "en": "hallway with oval mirror"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "передпокій з шафою",
+     "en": "hallway with wardrobe"
+    }
    },
    {
     "file": "04.jpg",
-    "w": 2000,
-    "h": 1422
+    "w": 1422,
+    "h": 2000,
+    "label": {
+     "uk": "передпокій з вбудованою шафою",
+     "en": "hallway with built-in wardrobe"
+    }
    },
    {
     "file": "05.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "коридор з шафою",
+     "en": "corridor with wardrobe"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кухня-вітальня з видом на місто",
+     "en": "kitchen-living room with city view"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кухня-вітальня з видом на вхід",
+     "en": "kitchen-living room facing the entrance"
+    }
    },
    {
     "file": "08.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "вітальня з кам’яними панелями",
+     "en": "living room with stone-look panels"
+    }
    },
    {
     "file": "09.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кухня з нішею для телевізора",
+     "en": "kitchen with tv niche"
+    }
    },
    {
     "file": "10.jpg",
-    "w": 1422,
-    "h": 2000
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "обідня зона біля вікна",
+     "en": "dining area by the window"
+    }
    },
    {
     "file": "11.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "обідня зона з круглим столом",
+     "en": "dining area with round table"
+    }
    },
    {
     "file": "12.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня з м’яким узголів’ям",
+     "en": "bedroom with upholstered headboard"
+    }
    },
    {
     "file": "13.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня, вид згори",
+     "en": "bedroom, top view"
+    }
    },
    {
     "file": "14.jpg",
-    "w": 1532,
-    "h": 2000
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "спальня з шафою-купе",
+     "en": "bedroom with sliding wardrobe"
+    }
    },
    {
     "file": "15.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня з робочим місцем",
+     "en": "bedroom with desk"
+    }
    },
    {
     "file": "16.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "робоче місце у спальні",
+     "en": "workspace in the bedroom"
+    }
    },
    {
     "file": "17.jpg",
-    "w": 2000,
-    "h": 1422
+    "w": 1532,
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з круглим дзеркалом",
+     "en": "bathroom with round mirror"
+    }
    },
    {
     "file": "18.jpg",
-    "w": 2000,
-    "h": 1422
+    "w": 1422,
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з душовою кабіною",
+     "en": "bathroom with shower enclosure"
+    }
    },
    {
     "file": "19.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з тумбою",
+     "en": "bathroom with vanity"
+    }
    },
    {
     "file": "20.jpg",
-    "w": 1422,
-    "h": 2000
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "ванна кімната з душем",
+     "en": "bathroom with shower"
+    }
    }
   ]
  },
  {
-  "slug": "rivne-build",
-  "title": "Rivne Build",
-  "area": null,
+  "slug": "pale-stone",
+  "title": "Pale Stone",
+  "area": 180,
   "type": "house",
   "location": {
-   "uk": "",
-   "en": ""
+   "uk": "Рівне",
+   "en": "Rivne"
   },
-  "cover": "14",
+  "description": {
+   "uk": "Приватний будинок у світлій мінімалістичній палітрі: білі стіни, світле дерево на підлозі, сірий камінь і приховане тепле підсвічування. Вітальня з кутовим каміном і піаніно, обідня зона з масивним дерев’яним столом, консольні сходи та ванна кімната з окремою ванною на кам’яному подіумі.",
+   "en": "A private house in a light minimalist palette: white walls, pale timber floors, grey stone and hidden warm lighting. A living room with a corner fireplace and piano, a dining area with a solid wood table, a cantilevered staircase and a bathroom with a freestanding tub on a stone plinth."
+  },
+  "cover": "07",
   "images": [
    {
     "file": "01.jpg",
     "w": 2000,
-    "h": 1691
+    "h": 1663,
+    "label": {
+     "uk": "план першого поверху",
+     "en": "ground floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2000,
-    "h": 1663
+    "h": 1422,
+    "label": {
+     "uk": "передпокій з кам’яними панелями",
+     "en": "hallway with stone-look panels"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "передпокій з дзеркалом у кам’яній рамі",
+     "en": "hallway with stone-framed mirror"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "передпокій зі сходами",
+     "en": "hallway with staircase"
+    }
    },
    {
     "file": "05.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "хол з декоративним панно",
+     "en": "hall with wall art"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "сходи з підсвіткою",
+     "en": "staircase with lit steps"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "вітальня з каміном",
+     "en": "living room with fireplace"
+    }
    },
    {
     "file": "08.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "вітальня з каміном і сходами",
+     "en": "living room with fireplace and staircase"
+    }
    },
    {
     "file": "09.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "вітальня з видом на обідню зону",
+     "en": "living room facing the dining area"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "вітальня з підлогою під бетон",
+     "en": "living room with concrete-look floor"
+    }
    },
    {
     "file": "11.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "вітальня з каміном і книжковими полицями",
+     "en": "living room with fireplace and bookshelves"
+    }
    },
    {
     "file": "12.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "вітальня з декоративним панно",
+     "en": "living room with wall art"
+    }
    },
    {
     "file": "13.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "вітальня з кутовим диваном",
+     "en": "living room with corner sofa"
+    }
    },
    {
     "file": "14.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "обідня зона з піаніно",
+     "en": "dining area with piano"
+    }
    },
    {
     "file": "15.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "обідня зона з дерев’яним столом",
+     "en": "dining area with timber table"
+    }
    },
    {
     "file": "16.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "обідня зона з видом на кухню",
+     "en": "dining area facing the kitchen"
+    }
    },
    {
     "file": "17.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "обідня зона з темною кухнею",
+     "en": "dining area with dark kitchen"
+    }
    },
    {
     "file": "18.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кухня з барною стійкою",
+     "en": "kitchen with breakfast bar"
+    }
    },
    {
     "file": "19.jpg",
-    "w": 2000,
-    "h": 1422
+    "w": 1422,
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з душем",
+     "en": "bathroom with shower"
+    }
    },
    {
     "file": "20.jpg",
-    "w": 1422,
-    "h": 2000
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "ванна кімната з душем і тумбою",
+     "en": "bathroom with shower and vanity"
+    }
    },
    {
     "file": "21.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з подвійним умивальником",
+     "en": "bathroom with double vanity"
+    }
    },
    {
     "file": "22.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "ванна кімната з окремою ванною",
+     "en": "bathroom with freestanding bathtub"
+    }
    },
    {
     "file": "23.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1691,
+    "label": {
+     "uk": "ванна кімната з кам’яною стіною",
+     "en": "bathroom with stone wall"
+    }
    }
   ]
  },
  {
-  "slug": "done-2",
-  "title": "Done 2",
-  "area": null,
+  "slug": "family-nest",
+  "title": "Family Nest",
+  "area": 95,
   "type": "apartment",
   "location": {
    "uk": "",
    "en": ""
+  },
+  "description": {
+   "uk": "Чотирикімнатна квартира у теплих бежевих тонах: стіна з кам’яних плит із вертикальною підсвіткою, чорна піч-камін і острів на колесах у кухні-вітальні. Спальня з дерев’яними панелями та підвісними світильниками, три дитячі різного характеру й темна ванна в сірому камені.",
+   "en": "A four-room apartment in warm beige: a stone-clad wall with vertical light strips, a black wood stove and an island on wheels in the kitchen-living room. A bedroom with wood panelling and pendant lights, three distinct children's rooms and a dark grey-stone bathroom."
   },
   "cover": "04",
   "images": [
    {
     "file": "01.jpg",
     "w": 2000,
-    "h": 1838
+    "h": 1838,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
-    "w": 2000,
-    "h": 1422
+    "w": 1422,
+    "h": 2000,
+    "label": {
+     "uk": "передпокій з шафою",
+     "en": "hallway with wardrobe"
+    }
    },
    {
     "file": "03.jpg",
-    "w": 2000,
-    "h": 1422
+    "w": 1422,
+    "h": 2000,
+    "label": {
+     "uk": "передпокій з дзеркалом і пуфом",
+     "en": "hallway with mirror and pouf"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "вітальня з каміном",
+     "en": "living room with fireplace"
+    }
    },
    {
     "file": "05.jpg",
-    "w": 1422,
-    "h": 2000
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "кухня-вітальня з островом на колесах",
+     "en": "kitchen-living room with island on wheels"
+    }
    },
    {
     "file": "06.jpg",
-    "w": 1422,
-    "h": 2000
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "вітальня з рельєфними панно",
+     "en": "living room with relief panels"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "вітальня з кутовим диваном",
+     "en": "living room with corner sofa"
+    }
    },
    {
     "file": "08.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кухня-вітальня, вигляд згори",
+     "en": "kitchen-living room, top view"
+    }
    },
    {
     "file": "09.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "обідня зона з каміном",
+     "en": "dining area with fireplace"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "обідня зона",
+     "en": "dining area"
+    }
    },
    {
     "file": "11.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кухня-вітальня з островом",
+     "en": "kitchen-living room with island"
+    }
    },
    {
     "file": "12.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кухня з островом",
+     "en": "kitchen with island"
+    }
    },
    {
     "file": "13.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "кухня з вбудованою технікою",
+     "en": "kitchen with built-in appliances"
+    }
    },
    {
     "file": "14.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "кухня, вигляд збоку",
+     "en": "kitchen, side view"
+    }
    },
    {
     "file": "15.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня з дерев’яними панелями",
+     "en": "bedroom with wood panelling"
+    }
    },
    {
     "file": "16.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня з підвісними світильниками",
+     "en": "bedroom with pendant lights"
+    }
    },
    {
     "file": "17.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня з дзеркальною шафою",
+     "en": "bedroom with mirrored wardrobe"
+    }
    },
    {
     "file": "18.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня з туалетним столиком",
+     "en": "bedroom with dressing table"
+    }
    },
    {
     "file": "19.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "спальня, туалетний столик",
+     "en": "bedroom, dressing table detail"
+    }
    },
    {
     "file": "20.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "спальня, приліжкова тумба",
+     "en": "bedroom, bedside detail"
+    }
    },
    {
     "file": "21.jpg",
-    "w": 1422,
-    "h": 2000
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "кімната підлітка з туалетним столиком",
+     "en": "teenager's room with dressing table"
+    }
    },
    {
     "file": "22.jpg",
-    "w": 1422,
-    "h": 2000
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "кімната підлітка з відкритою шафою",
+     "en": "teenager's room with open wardrobe"
+    }
    },
    {
     "file": "23.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кімната підлітка з шафою",
+     "en": "teenager's room with wardrobe"
+    }
    },
    {
     "file": "24.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кімната підлітка з постером",
+     "en": "teenager's room with poster"
+    }
    },
    {
     "file": "25.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кімната підлітка з робочим місцем",
+     "en": "teenager's room with desk"
+    }
    },
    {
     "file": "26.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кімната підлітка, вигляд на вікно",
+     "en": "teenager's room, window view"
+    }
    },
    {
     "file": "27.jpg",
-    "w": 2000,
-    "h": 1422
+    "w": 1422,
+    "h": 2000,
+    "label": {
+     "uk": "дитяча з настінним малюнком",
+     "en": "children's room with wall mural"
+    }
    },
    {
     "file": "28.jpg",
-    "w": 2000,
-    "h": 1422
+    "w": 1422,
+    "h": 2000,
+    "label": {
+     "uk": "дитяча з робочим місцем",
+     "en": "children's room with desk"
+    }
    },
    {
     "file": "29.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "дитяча з шафою",
+     "en": "children's room with wardrobe"
+    }
    },
    {
     "file": "30.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з круглим дзеркалом",
+     "en": "bathroom with round mirror"
+    }
    },
    {
     "file": "31.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з душем",
+     "en": "bathroom with shower"
+    }
    },
    {
     "file": "32.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната в темному камені",
+     "en": "bathroom in dark stone"
+    }
    },
    {
     "file": "33.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з дзеркалом з підсвіткою",
+     "en": "bathroom with backlit mirror"
+    }
    },
    {
     "file": "34.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з душовою кабіною",
+     "en": "bathroom with shower cabin"
+    }
    },
    {
     "file": "35.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з шафою",
+     "en": "bathroom with storage cabinet"
+    }
    }
   ]
  },
  {
-  "slug": "done-3",
-  "title": "Done 3",
-  "area": null,
+  "slug": "emerald-note",
+  "title": "Emerald Note",
+  "area": 62,
   "type": "apartment",
   "location": {
    "uk": "",
    "en": ""
   },
-  "cover": "08",
+  "description": {
+   "uk": "Двокімнатна квартира у світлих кремових тонах: молдинги на стінах, кухня з фрезерованими фасадами та круглий стіл на рифленій ніжці. Спальня з ліжком смарагдового кольору, рожева дитяча з двоярусним ліжком і вігвамом, ванна з плиткою під сірий мармур.",
+   "en": "A two-room apartment in soft cream tones: wall mouldings, a kitchen with shaker-style fronts and a round table on a fluted base. A bedroom with an emerald upholstered bed, a pink children's room with a bunk bed and teepee, and a grey marble-effect bathroom."
+  },
+  "cover": "07",
   "images": [
    {
     "file": "01.jpg",
     "w": 2000,
-    "h": 1945
+    "h": 1945,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
-    "w": 2000,
-    "h": 1422
+    "w": 1422,
+    "h": 2000,
+    "label": {
+     "uk": "коридор до вхідних дверей",
+     "en": "corridor to the front door"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "передпокій з шафою і лавою",
+     "en": "hallway with wardrobe and bench"
+    }
    },
    {
     "file": "04.jpg",
-    "w": 1422,
-    "h": 2000
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "коридор з дзеркалом з підсвіткою",
+     "en": "corridor with backlit mirror"
+    }
    },
    {
     "file": "05.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "коридор, вигляд з обідньої зони",
+     "en": "corridor, view from dining area"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кухня-вітальня",
+     "en": "kitchen-living room"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кухня-вітальня з кутовим диваном",
+     "en": "kitchen-living room with corner sofa"
+    }
    },
    {
     "file": "08.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "вітальня з кутовим диваном",
+     "en": "living room with corner sofa"
+    }
    },
    {
     "file": "09.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "обідня зона з круглим столом",
+     "en": "dining area with round table"
+    }
    },
    {
     "file": "10.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кухня з фрезерованими фасадами",
+     "en": "kitchen with shaker-style fronts"
+    }
    },
    {
     "file": "11.jpg",
-    "w": 1422,
-    "h": 2000
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "спальня з зеленим ліжком",
+     "en": "bedroom with green bed"
+    }
    },
    {
     "file": "12.jpg",
-    "w": 1422,
-    "h": 2000
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "спальня з комодом",
+     "en": "bedroom with chest of drawers"
+    }
    },
    {
     "file": "13.jpg",
-    "w": 1422,
-    "h": 2000
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "спальня зі стіною з молдингами",
+     "en": "bedroom with moulded wall"
+    }
    },
    {
     "file": "14.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1500,
+    "label": {
+     "uk": "дитяча з двоярусним ліжком",
+     "en": "children's room with bunk bed"
+    }
    },
    {
     "file": "15.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1500,
+    "label": {
+     "uk": "дитяча з вігвамом",
+     "en": "children's room with teepee"
+    }
    },
    {
     "file": "16.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1500,
+    "label": {
+     "uk": "дитяча з робочим місцем",
+     "en": "children's room with desk"
+    }
    },
    {
     "file": "17.jpg",
     "w": 2000,
-    "h": 1500
+    "h": 1500,
+    "label": {
+     "uk": "дитяча з ігровою кухнею",
+     "en": "children's room with play kitchen"
+    }
    },
    {
     "file": "18.jpg",
-    "w": 2000,
-    "h": 1500
+    "w": 1422,
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з дзеркалом з підсвіткою",
+     "en": "bathroom with backlit mirror"
+    }
    },
    {
     "file": "19.jpg",
-    "w": 2000,
-    "h": 1500
+    "w": 1422,
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з душем",
+     "en": "bathroom with shower"
+    }
    },
    {
     "file": "20.jpg",
-    "w": 2000,
-    "h": 1500
+    "w": 1422,
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з мармуровою стіною",
+     "en": "bathroom with marble-effect wall"
+    }
    }
   ]
  },
  {
-  "slug": "final",
-  "title": "Final",
-  "area": null,
+  "slug": "graphite-calm",
+  "title": "Graphite Calm",
+  "area": 40,
   "type": "apartment",
   "location": {
    "uk": "",
    "en": ""
   },
-  "cover": "03",
+  "description": {
+   "uk": "Однокімнатна квартира у стриманій палітрі: світлі панелі з чорними швами, тепле дерево й графітова кам’яна стіна з телевізором. Зелений оксамит у передпокої та спальні, сіра ванна з чорною сантехнікою і робоче місце на балконі.",
+   "en": "A one-room apartment in a restrained palette: light panels with black reveals, warm wood and a graphite stone TV wall. Green velvet in the hallway and bedroom, a grey bathroom with black fittings and a workspace on the balcony."
+  },
+  "cover": "06",
   "images": [
    {
     "file": "01.jpg",
     "w": 2000,
-    "h": 1708
+    "h": 1708,
+    "label": {
+     "uk": "план квартири",
+     "en": "apartment floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "передпокій з шафою",
+     "en": "hallway with wardrobe"
+    }
    },
    {
     "file": "03.jpg",
-    "w": 2000,
-    "h": 1422
+    "w": 1422,
+    "h": 2000,
+    "label": {
+     "uk": "передпокій з дзеркалом",
+     "en": "hallway with mirror"
+    }
    },
    {
     "file": "04.jpg",
-    "w": 2000,
-    "h": 1422
-   },
-   {
-    "file": "05.jpg",
-    "w": 2000,
-    "h": 1422
-   },
-   {
-    "file": "06.jpg",
-    "w": 1422,
-    "h": 2000
-   },
-   {
-    "file": "07.jpg",
-    "w": 2000,
-    "h": 1422
-   },
-   {
-    "file": "08.jpg",
-    "w": 1422,
-    "h": 2000
-   },
-   {
-    "file": "09.jpg",
-    "w": 2000,
-    "h": 1422
-   },
-   {
-    "file": "10.jpg",
-    "w": 1422,
-    "h": 2000
-   },
-   {
-    "file": "11.jpg",
     "w": 1662,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "передпокій з дзеркалом і пуфом",
+     "en": "hallway with mirror and velvet bench"
+    }
+   },
+   {
+    "file": "05.jpg",
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "кухня-вітальня з обідньою зоною",
+     "en": "kitchen-living room with dining area"
+    }
+   },
+   {
+    "file": "06.jpg",
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "вітальня з диваном і дерев’яною панеллю",
+     "en": "living room with sofa and wood panel"
+    }
+   },
+   {
+    "file": "07.jpg",
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "кухня-вітальня з кам’яною тв-стіною",
+     "en": "kitchen-living room with stone tv wall"
+    }
+   },
+   {
+    "file": "08.jpg",
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "кухня з видом на вхідні двері",
+     "en": "kitchen with view to the front door"
+    }
+   },
+   {
+    "file": "09.jpg",
+    "w": 1422,
+    "h": 2000,
+    "label": {
+     "uk": "обідня зона",
+     "en": "dining area"
+    }
+   },
+   {
+    "file": "10.jpg",
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "обідня зона і тв-стіна",
+     "en": "dining area and tv wall"
+    }
+   },
+   {
+    "file": "11.jpg",
+    "w": 1422,
+    "h": 2000,
+    "label": {
+     "uk": "вітальня з графітовою кам’яною стіною",
+     "en": "living room with graphite stone wall"
+    }
    },
    {
     "file": "12.jpg",
-    "w": 1422,
-    "h": 2000
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "спальня з м’яким узголів’ям",
+     "en": "bedroom with upholstered headboard"
+    }
    },
    {
     "file": "13.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "спальня з підвісним світильником",
+     "en": "bedroom with pendant lamp"
+    }
    },
    {
     "file": "14.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня з рифленою шафою",
+     "en": "bedroom with fluted-glass wardrobe"
+    }
    },
    {
     "file": "15.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня з тв-зоною",
+     "en": "bedroom with tv wall"
+    }
    },
    {
     "file": "16.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня з виходом на балкон",
+     "en": "bedroom with balcony door"
+    }
    },
    {
     "file": "17.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "спальня і робоче місце",
+     "en": "bedroom and workspace"
+    }
    },
    {
     "file": "18.jpg",
-    "w": 2000,
-    "h": 1422
+    "w": 1422,
+    "h": 2000,
+    "label": {
+     "uk": "робоче місце на балконі",
+     "en": "workspace on the balcony"
+    }
    },
    {
     "file": "19.jpg",
-    "w": 2000,
-    "h": 1422
+    "w": 1422,
+    "h": 2000,
+    "label": {
+     "uk": "робоче місце з полицями",
+     "en": "workspace with shelves"
+    }
    },
    {
     "file": "20.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "робоче місце і турнік на балконі",
+     "en": "workspace and pull-up bar on the balcony"
+    }
    },
    {
     "file": "21.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з душем",
+     "en": "bathroom with shower"
+    }
    },
    {
     "file": "22.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната зі скляною перегородкою",
+     "en": "bathroom with glass shower screen"
+    }
    },
    {
     "file": "23.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "ванна кімната з душем, два ракурси",
+     "en": "bathroom with shower, two views"
+    }
    },
    {
     "file": "24.jpg",
-    "w": 1422,
-    "h": 2000
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "ванна кімната з пральною машиною",
+     "en": "bathroom with washing machine"
+    }
    },
    {
     "file": "25.jpg",
-    "w": 1422,
-    "h": 2000
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "ванна кімната з рушникосушкою",
+     "en": "bathroom with towel radiator"
+    }
    },
    {
     "file": "26.jpg",
-    "w": 2000,
-    "h": 1422
+    "w": 1422,
+    "h": 2000,
+    "label": {
+     "uk": "балкон з турніком",
+     "en": "balcony with pull-up bar"
+    }
    }
   ]
  },
@@ -1110,135 +1934,128 @@
    "uk": "",
    "en": ""
   },
+  "description": {
+   "uk": "Смарт-квартира 24,8 м² у теплому вечірньому світлі: оливковий оксамит, хвилясте узголів’я в ніші з шафами та кухня з зеленою плиткою і латунною фурнітурою. Ванна у мармурі з золотистою душовою кабіною та овальним дзеркалом з підсвіткою.",
+   "en": "A 24.8 m² smart apartment in warm evening light: olive velvet, a wavy headboard in a niche of cabinets and a kitchen with green tiles and brass handles. A marble bathroom with a gold-framed shower and a backlit oval mirror."
+  },
   "cover": "04",
   "images": [
    {
     "file": "01.jpg",
     "w": 2000,
-    "h": 1249
+    "h": 1249,
+    "label": {
+     "uk": "план студії",
+     "en": "studio floor plan"
+    }
    },
    {
     "file": "02.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "передпокій з шафою",
+     "en": "hallway with wardrobe"
+    }
    },
    {
     "file": "03.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "передпокій з хвилястим дзеркалом",
+     "en": "hallway with wavy mirror"
+    }
    },
    {
     "file": "04.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "студія з ліжком і обідньою зоною",
+     "en": "studio with bed and dining area"
+    }
    },
    {
     "file": "05.jpg",
-    "w": 2000,
-    "h": 1422
-   },
-   {
-    "file": "06.jpg",
-    "w": 2000,
-    "h": 1422
-   },
-   {
-    "file": "07.jpg",
     "w": 1733,
-    "h": 2000
-   },
-   {
-    "file": "08.jpg",
-    "w": 2000,
-    "h": 1422
-   },
-   {
-    "file": "09.jpg",
-    "w": 2000,
-    "h": 1422
-   },
-   {
-    "file": "10.jpg",
-    "w": 2000,
-    "h": 1422
-   }
-  ]
- },
- {
-  "slug": "just-a-dream-variant",
-  "title": "Just a Dream — варіант",
-  "area": 24.8,
-  "type": "apartment",
-  "location": {
-   "uk": "",
-   "en": ""
-  },
-  "cover": "06",
-  "images": [
-   {
-    "file": "01.jpg",
-    "w": 2000,
-    "h": 1251
-   },
-   {
-    "file": "02.jpg",
-    "w": 2000,
-    "h": 1422
-   },
-   {
-    "file": "03.jpg",
-    "w": 2000,
-    "h": 1422
-   },
-   {
-    "file": "04.jpg",
-    "w": 2000,
-    "h": 1422
-   },
-   {
-    "file": "05.jpg",
-    "w": 2000,
-    "h": 1422
+    "h": 2000,
+    "label": {
+     "uk": "обідня зона",
+     "en": "dining area"
+    }
    },
    {
     "file": "06.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "кухня з зеленою плиткою",
+     "en": "kitchen with green tiles"
+    }
    },
    {
     "file": "07.jpg",
     "w": 2000,
-    "h": 1422
+    "h": 1422,
+    "label": {
+     "uk": "студія з ліжком і кухнею",
+     "en": "studio with bed and kitchen"
+    }
    },
    {
     "file": "08.jpg",
-    "w": 1422,
-    "h": 2000
+    "w": 2000,
+    "h": 1422,
+    "label": {
+     "uk": "спальня з хвилястим узголів’ям",
+     "en": "bedroom with wavy headboard"
+    }
    },
    {
     "file": "09.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "студія з тв-консоллю і пуфом",
+     "en": "studio with tv console and pouf"
+    }
    },
    {
     "file": "10.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з пральною машиною",
+     "en": "bathroom with washing machine"
+    }
    },
    {
     "file": "11.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з дзеркалом з підсвіткою",
+     "en": "bathroom with backlit mirror"
+    }
    },
    {
     "file": "12.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з душем",
+     "en": "bathroom with shower"
+    }
    },
    {
     "file": "13.jpg",
     "w": 1422,
-    "h": 2000
+    "h": 2000,
+    "label": {
+     "uk": "ванна кімната з рушникосушкою",
+     "en": "bathroom with towel radiator"
+    }
    }
   ]
  }

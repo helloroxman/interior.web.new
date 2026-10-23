@@ -9,7 +9,7 @@ Reads data/projects.json and data/services.json and writes:
   404.html, robots.txt, sitemap.xml
 Run:  python3 build.py
 """
-import json, os, html, datetime
+import glob, json, os, html, datetime
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 
@@ -18,6 +18,9 @@ def _asset_version(rel):
     import hashlib
     with open(os.path.join(ROOT, rel), "rb") as f:
         return hashlib.md5(f.read()).hexdigest()[:8]
+def vimg(base, rel):
+    """URL of an image under img/ with a content hash, so a replaced or renumbered file is never served stale."""
+    return f"{base}{rel}?v={_asset_version(rel)}"
 CSS_V = _asset_version("css/style.css")
 JS_V = _asset_version("js/main.js")
 PROJECTS = json.load(open(os.path.join(ROOT, "data", "projects.json"), encoding="utf-8"))
@@ -997,6 +1000,9 @@ def new_index_page():
     base = "../"
     home = base + "index.html"
     cards = "\n".join(card(p, t, base, "", False) for p in NEW_PROJECTS)
+    for p in NEW_PROJECTS:  # cache-bust the draft covers, which get replaced while the projects are prepared
+        for f in ("cover.webp", "cover-s.webp"):
+            cards = cards.replace(f'{base}img/projs/{p["slug"]}/{f}', vimg(base, f'img/projs/{p["slug"]}/{f}'))
     body = f"""<body>
 {header(t, base, home, base + "en/index.html", solid=True)}
 <main>
@@ -1017,25 +1023,42 @@ def new_index_page():
     return draft_head(t, base, "Нові проєкти | Oksana Ivanova", "Нові дизайн-проєкти студії Oksana Ivanova.", "new/", og) + body
 
 def new_project_page(p):
-    """Temporary page of one draft project: cover, facts and the full gallery."""
+    """Temporary page of one draft project: cover, gallery and the facts / description block."""
     t = T["uk"]
     base = "../"
     home = base + "index.html"
     unit = area_unit("uk")
     area = f'{fmt_area(p["area"], "uk")} {unit}' if p["area"] else ""
     typ = t["types"][p["type"]]
-    imgdir = f"{base}img/projs/{p['slug']}/"
-    gallery = "\n".join(
-        f'<a href="{imgdir}{i:02d}.webp" class="{gallery_class(im)} reveal" data-full="{imgdir}{i:02d}.webp"><img src="{imgdir}{i:02d}-s.webp" srcset="{imgdir}{i:02d}-s.webp {img_width(im, 900)[0]}w, {imgdir}{i:02d}.webp {img_width(im, 2000)[0]}w" sizes="(max-width: 700px) 100vw, (max-width: 900px) 50vw, 33vw" alt="{esc(t["img_alt"].format(title=p["title"], n=i))}" loading="lazy" decoding="async" width="{im["w"]}" height="{im["h"]}"><span class="gallery__num">{i:02d}</span></a>'
-        for i, im in enumerate(p["images"], start=1))
+    loc = p["location"]["uk"]
+    kick = kicker(p, "uk")
+    ctx = t["alt_ctx"].format(kicker=kick[:1].lower() + kick[1:], title=p["title"])
+    rel = f"img/projs/{p['slug']}/"
+    gal = []
+    for i, im in enumerate(p["images"], start=1):
+        n = f"{i:02d}"
+        lab = im.get("label", {}).get("uk", "")
+        alt = (lab[:1].upper() + lab[1:] + " — " + ctx) if lab else t["img_alt"].format(title=p["title"], n=i)
+        big, small = vimg(base, f"{rel}{n}.webp"), vimg(base, f"{rel}{n}-s.webp")
+        gal.append(f'<a href="{big}" class="{gallery_class(im)} reveal" data-full="{big}"><img src="{small}" srcset="{small} {img_width(im, 900)[0]}w, {big} {img_width(im, 2000)[0]}w" sizes="(max-width: 700px) 100vw, (max-width: 900px) 50vw, 33vw" alt="{esc(alt)}" loading="lazy" decoding="async" width="{im["w"]}" height="{im["h"]}"><span class="gallery__num">{n}</span></a>')
+    gallery = "\n".join(gal)
+    chips = (f'<span class="chip">{area}</span>' if area else "") + f'<span class="chip">{esc(typ)}</span>' + (f'<span class="chip">{esc(loc)}</span>' if loc else "")
+    facts = f"""<ul class="facts">
+      <li><span>{esc(t['fact_type'])}</span><b>{esc(typ)}</b></li>
+      {f'<li><span>{esc(t["fact_area"])}</span><b>{area}</b></li>' if area else ''}
+      {f'<li><span>{esc(t["fact_location"])}</span><b>{esc(loc)}</b></li>' if loc else ''}
+      <li><span>{esc(t['fact_photos'])}</span><b>{len(p['images'])}</b></li>
+    </ul>"""
+    desc = p.get("description", {}).get("uk", "")
+    svc = service_for(p)
     body = f"""<body>
 {header(t, base, home, base + "en/index.html")}
 <main>
 <section class="project-hero">
-  <img src="{imgdir}cover.webp" srcset="{imgdir}cover-s.webp 640w, {imgdir}cover.webp 1230w" sizes="100vw" alt="{esc(typ + ' — ' + p['title'])}" fetchpriority="high" decoding="async">
+  <img src="{vimg(base, rel + 'cover.webp')}" srcset="{vimg(base, rel + 'cover-s.webp')} 640w, {vimg(base, rel + 'cover.webp')} 1230w" sizes="100vw" alt="{esc(kick + ' — ' + p['title'])}" fetchpriority="high" decoding="async">
   <div class="container">
-    <h1 class="display h1"><span class="project-hero__kicker">{esc(typ)}</span>{esc(p['title'])}</h1>
-    <div class="chips">{f'<span class="chip">{area}</span>' if area else ''}<span class="chip">{esc(typ)}</span><span class="chip">{len(p['images'])} фото</span></div>
+    <h1 class="display h1"><span class="project-hero__kicker">{esc(kick)}</span>{esc(p['title'])}</h1>
+    <div class="chips">{chips}</div>
   </div>
 </section>
 
@@ -1047,6 +1070,19 @@ def new_project_page(p):
     </div>
     <div class="gallery">
 {gallery}
+    </div>
+  </div>
+</section>
+
+<section class="section section--tight">
+  <div class="container project-intro">
+    <div class="reveal">
+      <p class="eyebrow">{esc(t['project_eyebrow'])}</p>
+      {facts}
+    </div>
+    <div class="reveal">
+      {f'<p class="lead">{esc(desc)}</p>' if desc else ''}
+      <a href="{base}services/{svc['slug']}.html" class="text-link mt-2">{esc(t['svc_more'].format(name=svc['uk']['nav']))} {SVG_ARROW}</a>
     </div>
   </div>
 </section>
@@ -1065,8 +1101,8 @@ def new_project_page(p):
   </div>
 </div>
 {footer(t, base, home)}"""
-    title = f"{p['title']} — {typ.lower()}{', ' + area if area else ''} | Oksana Ivanova"
-    return draft_head(t, base, title, f"{typ} {p['title']}{', ' + area if area else ''}: візуалізації дизайн-проєкту.", f"new/{p['slug']}.html", f"img/projs/{p['slug']}/cover.jpg") + body
+    title = f"{p['title']} — {kick[:1].lower() + kick[1:]}{', ' + area if area else ''} | Oksana Ivanova"
+    return draft_head(t, base, title, desc or f"{typ} {p['title']}: візуалізації дизайн-проєкту.", f"new/{p['slug']}.html", f"img/projs/{p['slug']}/cover.jpg") + body
 
 def notfound_page():
     # Served by GitHub Pages at any depth: use root-relative paths.
@@ -1121,6 +1157,8 @@ def main():
     for x in SERVICES:
         write(f"services/{x['slug']}.html", service_page("uk", x))
         write(f"en/services/{x['slug']}.html", service_page("en", x))
+    for f in glob.glob(os.path.join(ROOT, "new", "*.html")):
+        os.remove(f)  # draft slugs change while projects are prepared
     write("new/index.html", new_index_page())
     for p in NEW_PROJECTS:
         write(f"new/{p['slug']}.html", new_project_page(p))

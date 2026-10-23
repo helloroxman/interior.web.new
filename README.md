@@ -18,7 +18,7 @@ fonts/                                self-hosted Inter (OFL licence)
 img/projs/<slug>/                     NN.webp (≤2000 px), NN-s.webp (≤900 px), cover.webp, cover-s.webp, cover.jpg (link previews)
 data/projects.json                    projects: title, area, type, location, description, photos with room labels
 data/services.json                    service page texts and FAQ (UA / EN)
-data/new.json                         draft projects shown on /new/ (slug, title, area, type, photos)
+data/new.json                         draft projects shown on /new/ (same fields as projects.json: title, area, type, description, photos with room labels)
 build.py                              generator: data → every HTML page, sitemap and robots
 ```
 
