@@ -491,5 +491,5 @@ i, em, .i, blockquote, cite, address { font-style: normal; }
 @media (max-width: 800px) { .svc-intro { grid-template-columns: 1fr; } }
 
 /* Temporary /new/ page */
-.new-intro { padding-top: calc(var(--header-h) + clamp(40px, 6vw, 88px)); padding-bottom: clamp(32px, 4vw, 56px); }
-.new-intro .h2 { margin-bottom: 12px; }
+.new-intro { padding-top: calc(var(--header-h) + clamp(40px, 6vw, 88px)); }
+.new-intro .h2 { margin-bottom: 16px; }

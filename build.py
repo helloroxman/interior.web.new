@@ -248,6 +248,7 @@ SVG_X = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width
 def esc(s): return html.escape(s, quote=True)
 def fmt_num(n): return f"{n:,}".replace(",", "\u202f")
 def area_unit(lang): return "м²" if lang == "uk" else "m²"
+def fmt_area(a, lang): return f"{a:g}".replace(".", ",") if lang == "uk" else f"{a:g}"
 def absu(path): return f"{SITE}/{path}"
 
 def loc_phrase(p, lang):
@@ -449,7 +450,7 @@ def footer(t, base, home):
 def card(p, t, base, projects_dir, wide):
     lang = t["lang"]
     loc = p["location"][lang]
-    meta = f'{p["area"]} {area_unit(lang)}' + (f' · {esc(loc)}' if loc else '')
+    meta = " · ".join(x for x in (f'{fmt_area(p["area"], lang)} {area_unit(lang)}' if p["area"] else "", esc(loc)) if x)
     return f"""<a href="{projects_dir}{p['slug']}.html" class="card{' card--wide' if wide else ''} reveal" data-type="{p['type']}">
   <div class="card__media">
     <span class="card__tag">{esc(t['types'][p['type']])}</span>
@@ -984,47 +985,76 @@ Allow: /
 Sitemap: {SITE}/sitemap.xml
 """
 
-def new_page():
-    """Temporary, unlisted page (/new/) with galleries of projects that are still being prepared."""
+def draft_head(t, base, title, desc, path, og_image):
+    """head() for the unlisted /new/ pages: noindex and no language alternates."""
+    h = head(t, base, title, desc, path, path, og_image)
+    h = "\n".join(l for l in h.split("\n") if 'hreflang=' not in l and 'og:locale:alternate' not in l)
+    return h.replace('<meta name="description"', '<meta name="robots" content="noindex, nofollow">\n<meta name="description"', 1)
+
+def new_index_page():
+    """Temporary, unlisted catalog (/new/) of projects that are still being prepared."""
+    t = T["uk"]
+    base = "../"
+    home = base + "index.html"
+    cards = "\n".join(card(p, t, base, "", False) for p in NEW_PROJECTS)
+    body = f"""<body>
+{header(t, base, home, base + "en/index.html", solid=True)}
+<main>
+<section class="section new-intro">
+  <div class="container">
+    <div class="section-head reveal">
+      <div><p class="eyebrow">Нове</p><h1 class="display h2">Нові проєкти</h1>
+      <p class="lead">Свіжі роботи студії, які незабаром з’являться в портфоліо.</p></div>
+    </div>
+    <div class="grid">
+{cards}
+    </div>
+  </div>
+</section>
+</main>
+{footer(t, base, home)}"""
+    og = f"img/projs/{NEW_PROJECTS[0]['slug']}/cover.jpg" if NEW_PROJECTS else OG_HOME
+    return draft_head(t, base, "Нові проєкти | Oksana Ivanova", "Нові дизайн-проєкти студії Oksana Ivanova.", "new/", og) + body
+
+def new_project_page(p):
+    """Temporary page of one draft project: cover, facts and the full gallery."""
     t = T["uk"]
     base = "../"
     home = base + "index.html"
     unit = area_unit("uk")
-    blocks = []
-    for p in NEW_PROJECTS:
-        imgdir = f"{base}img/projs/{p['slug']}/"
-        area = f"{p['area']:g}".replace(".", ",")
-        gal = "\n".join(
-            f'<a href="{imgdir}{i:02d}.webp" class="{gallery_class(im)} reveal" data-full="{imgdir}{i:02d}.webp"><img src="{imgdir}{i:02d}-s.webp" srcset="{imgdir}{i:02d}-s.webp {img_width(im, 900)[0]}w, {imgdir}{i:02d}.webp {img_width(im, 2000)[0]}w" sizes="(max-width: 700px) 100vw, (max-width: 900px) 50vw, 33vw" alt="{esc(t["img_alt"].format(title=p["title"], n=i))}" loading="lazy" decoding="async" width="{im["w"]}" height="{im["h"]}"><span class="gallery__num">{i:02d}</span></a>'
-            for i, im in enumerate(p["images"], start=1))
-        blocks.append(f"""<section class="section section--tight section--alt" id="{p['slug']}">
-  <div class="container">
-    <div class="section-head reveal">
-      <div><p class="eyebrow">{esc(t['types'][p['type']])} · {area} {unit}</p><h2 class="display h2">{esc(p['title'])}</h2></div>
-      <span class="muted">{len(p['images'])} фото</span>
-    </div>
-    <div class="gallery">
-{gal}
-    </div>
-  </div>
-</section>""")
-    total = sum(len(p["images"]) for p in NEW_PROJECTS)
+    area = f'{fmt_area(p["area"], "uk")} {unit}' if p["area"] else ""
+    typ = t["types"][p["type"]]
+    imgdir = f"{base}img/projs/{p['slug']}/"
+    gallery = "\n".join(
+        f'<a href="{imgdir}{i:02d}.webp" class="{gallery_class(im)} reveal" data-full="{imgdir}{i:02d}.webp"><img src="{imgdir}{i:02d}-s.webp" srcset="{imgdir}{i:02d}-s.webp {img_width(im, 900)[0]}w, {imgdir}{i:02d}.webp {img_width(im, 2000)[0]}w" sizes="(max-width: 700px) 100vw, (max-width: 900px) 50vw, 33vw" alt="{esc(t["img_alt"].format(title=p["title"], n=i))}" loading="lazy" decoding="async" width="{im["w"]}" height="{im["h"]}"><span class="gallery__num">{i:02d}</span></a>'
+        for i, im in enumerate(p["images"], start=1))
     body = f"""<body>
-{header(t, base, home, base + "en/index.html", solid=True)}
+{header(t, base, home, base + "en/index.html")}
 <main>
-<section class="section section--tight new-intro">
+<section class="project-hero">
+  <img src="{imgdir}cover.webp" srcset="{imgdir}cover-s.webp 640w, {imgdir}cover.webp 1230w" sizes="100vw" alt="{esc(typ + ' — ' + p['title'])}" fetchpriority="high" decoding="async">
   <div class="container">
-    <p class="eyebrow">Нове</p>
-    <h1 class="display h2">Нові проєкти</h1>
-    <p class="lead">Свіжі роботи студії, які незабаром з’являться в портфоліо.</p>
+    <h1 class="display h1"><span class="project-hero__kicker">{esc(typ)}</span>{esc(p['title'])}</h1>
+    <div class="chips">{f'<span class="chip">{area}</span>' if area else ''}<span class="chip">{esc(typ)}</span><span class="chip">{len(p['images'])} фото</span></div>
   </div>
 </section>
-{chr(10).join(blocks)}
+
+<section class="section section--tight section--alt" id="gallery">
+  <div class="container">
+    <div class="section-head reveal">
+      <div><p class="eyebrow">{esc(t['gallery_eyebrow'])}</p><h2 class="display h2">{esc(t['gallery_title'])}</h2></div>
+      <a href="index.html" class="text-link">Усі нові проєкти {SVG_ARROW}</a>
+    </div>
+    <div class="gallery">
+{gallery}
+    </div>
+  </div>
+</section>
 </main>
 
 <div class="lightbox" role="dialog" aria-modal="true" aria-label="{esc(t['gallery_title'])}">
   <div class="lightbox__bar">
-    <span class="lightbox__counter">1 / {total}</span>
+    <span class="lightbox__counter">1 / {len(p['images'])}</span>
     <span class="lightbox__hint">{esc(t['lb_hint'])}</span>
     <button class="lightbox__btn lightbox__close" aria-label="{esc(t['lb_close'])}">{SVG_X}</button>
   </div>
@@ -1035,12 +1065,8 @@ def new_page():
   </div>
 </div>
 {footer(t, base, home)}"""
-    og = f"img/projs/{NEW_PROJECTS[0]['slug']}/cover.jpg" if NEW_PROJECTS else OG_HOME
-    h = head(t, base, "Нові проєкти | Oksana Ivanova", "Нові дизайн-проєкти студії Oksana Ivanova.", "new/", "new/", og)
-    # unlisted draft page: keep it out of search and drop the language alternates
-    h = "\n".join(l for l in h.split("\n") if 'hreflang=' not in l and 'og:locale:alternate' not in l)
-    h = h.replace('<meta name="description"', '<meta name="robots" content="noindex, nofollow">\n<meta name="description"', 1)
-    return h + body
+    title = f"{p['title']} — {typ.lower()}{', ' + area if area else ''} | Oksana Ivanova"
+    return draft_head(t, base, title, f"{typ} {p['title']}{', ' + area if area else ''}: візуалізації дизайн-проєкту.", f"new/{p['slug']}.html", f"img/projs/{p['slug']}/cover.jpg") + body
 
 def notfound_page():
     # Served by GitHub Pages at any depth: use root-relative paths.
@@ -1095,7 +1121,9 @@ def main():
     for x in SERVICES:
         write(f"services/{x['slug']}.html", service_page("uk", x))
         write(f"en/services/{x['slug']}.html", service_page("en", x))
-    write("new/index.html", new_page())
+    write("new/index.html", new_index_page())
+    for p in NEW_PROJECTS:
+        write(f"new/{p['slug']}.html", new_project_page(p))
     write("404.html", notfound_page())
     write("robots.txt", ROBOTS)
     write("sitemap.xml", sitemap())
